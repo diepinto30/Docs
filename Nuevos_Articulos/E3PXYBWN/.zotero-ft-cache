@@ -1,0 +1,490 @@
+Capital Humano y Tecnología en el Crecimiento Latinoamericano
+Human Capital and Technology in Latin American Growth
+
+Valdivieso-Burneo, Diana; Ávila-Sánchez, Igor; Cevallos-Meneses, Germán; Ochoa-Moreno, Santiago.
+Departamento de Economía Universidad Técnica Particular de Loja
+Loja, Ecuador dpvaldivieso1@utpl.edu.ec; imavila2@utpl.edu.ec; gacevallos11@utpl.edu.ec; wsochoa@utpl.edu.ec.
+Resumen — La investigación muestra la relación entre el Capital Humano y la Tecnología (utilizando como variable proxy las suscripciones de telefonía móvil) en el crecimiento (Producto Interno Bruto a precios constantes) de América Latina. Para mostrar esta relación se utilizó información de 13 países latinoamericanos, divididos por ingresos, en el período de 1980 a 2017. Los resultados muestran una relación positiva y significativa entre el capital humano y la tecnología para el crecimiento económico para toda la región y para países de ingresos altos y bajos. Para los países de ingresos medios los resultados no fueron significativos. Finalmente, se recomienda que las políticas que establezcan los gobiernos a más de buscar los mecanismos de financiamiento e inversión en Capital Humano y Tecnología deben también garantizar las condiciones para que a nivel interno de cada país, se pueda aprovechar equitativamente estas inversiones.
+Palabras Clave - Capital Humano; PIB; Tecnología.
+Abstract — The research shows the relationship between Human Capital and Technology (using mobile phone subscriptions as a proxy variable) in Latin American growth (Gross Domestic Product at constant prices). To show this relationship, information was used from 13 Latin American countries, divided by income, in the period from 1980 to 2017. The results show a positive and significant relationship between human capital and technology for economic growth for the region and for countries high and low income. For middleincome countries, the results were not significant. Finally, it is recommended that the policies established by governments, in addition to seeking financing and investment mechanisms in Human Capital and Technology, should also guarantee the conditions so that at the internal level of each country, these investments can be used equitably.
+Keywords - Human Capital; GDP; Technology.
+
+I. INTRODUCCIÓN
+El interés y la preocupación por el crecimiento económico y sus causas data del siglo XVIII; desde entonces los territorios establecieron como objetivo principal el crecimiento sostenido, específicamente a través de la expansión de la frontera de posibilidades de producción [8]. En este sentido, la mejor variable para evaluar el crecimiento económico es la medida agregada denominada Producto Interno Bruto (PIB) [10], [25].
+Dentro de la gran variedad de causantes del crecimiento económico, la acumulación de capital físico y humano son algunos de los factores que favorecen la existencia de este crecimiento [14]. La importancia de estos factores se les adjudica principalmente a [22] y [23] con su modelo de crecimiento neoclásico, el cual considera al trabajo, el capital fijo y la tecnología como variables explicativas del crecimiento.
+En consecuencia, [9], afirma que existirá un mayor crecimiento siempre y cuando exista un stock de capital, presencia población educada y exista un ambiente económico que incentive el conocimiento humano. Según [6] explican un nuevo modelo económico basado en la economía del conocimiento como factor de innovación intangible que propicia la competitividad.
+En un nivel macro, el capital humano también favorece a las zonas periféricas, esto debido a que según [7], un incremento en este factor favorece a mayores niveles de innovación tecnológica y a su vez repercute en mayor productividad gracias a los rendimientos de escala generando un efecto “spread over”. Cabe mencionar, que tanto el efecto de la tecnología [3] y el capital humano [26] y tendrán un impacto en el crecimiento a largo plazo.
+En lo que evidencia empírica corresponde, existen una gran variedad de estudios que muestran comportamientos diferentes. Generalmente, las investigaciones muestran una relación positiva, en las que el crecimiento se encuentra condicionado por otras variables adicionales como la infraestructura y salud [17] y [21]. Dada esta aparente relación positiva, autores como [24] recomiendan el gasto público en la educación como herramienta para incrementar las posibilidades de crecimiento y competitividad.
+Por otro lado, aunque el impacto de la tecnología en el crecimiento económico se incorpora con Solow; según [19] el
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+estudio de las Tecnologías de la Información y Comunicación (TIC´s) se remonta al 2002. Además, en la actualidad, las TIC´s son un pilar fundamental en la globalización gracias a que permiten sincronizar las actividades, aunque estas se encuentren desagregadas geográficamente [13].
+
+Respecto a la evidencia empírica del uso de las TIC´s, [1], [15] y [16], hallan que este tipo de tecnologías tienen un impacto positivo en el crecimiento de países en vías de desarrollo. No obstante, en la investigación de [20], encuentran que no existe una relación marcada debido a que las TIC´s se hallan fuertemente relacionadas con la infraestructura, factor del que carecen los países en vías de desarrollo analizados. También, [1] y [2] identifican que, los países no podrán aprovechar los beneficios de las TIC´s en el crecimiento en su totalidad si carecen de infraestructura o aranceles a las importaciones de bienes TIC´s.
+
+En consecuencia, el objetivo de la presente investigación es analizar las relaciones entre el papel del capital humano y tecnológico tienen en el impacto del crecimiento económico para 13 países de américa latina. De tal manera, que, a través de un modelo panel, determinar si: ¿El capital humano y la tecnología influyen de manera positiva en el crecimiento latinoamericano? ¿Existe alguna diferencia significativa en las relaciones dependiendo si el país es de ingresos altos, medios o bajos? Las respuestas a estos interrogantes brindan alternativas y una guía de políticas públicas a implementar en estos territorios para que así faciliten el objetivo del crecimiento.
+II. DESCRIPCIÓN DE DATOS Y/O HECHOS ESTILIZADOS
+La investigación se desarrolla con un modelo panel de 13 países latinoamericanos en un período de 37 años (1980- 2017), a partir de información del [16] y [4].
+
+El objetivo de esta investigación es determinar el efecto que tiene el capital humano y las suscripciones a la telefonía fija como variable proxy de la tecnología en el crecimiento económico (PIB a precios constantes). De igual manera, se utiliza la población total como variable control. Cabe destacar que, se realiza un análisis en conjunto de todos los países, al igual que se los examina en función de su nivel de ingresos (bajos, medios y altos).
+
+A continuación, se presenta en la tabla 1 la definición de cada variable y la fuente de donde se extrajo. En la tabla 2, se realizaron los estadísticos descriptivos generales por grupos de países y de manera global.
+TABLA 1. DESCRIPCIÓN DE VARIABLES Y FUENTES DE DATOS
+
+Variable
+PIB (UMN a precios constantes)
+
+Definición
+Es la suma del valor agregado bruto de todos los productores residentes en la economía más
+
+Unidad
+
+Moneda
+
+local
+
+a
+
+precios
+
+constantes.
+
+Fuent e
+[4]
+
+todo impuesto a
+
+los productos,
+
+menos
+
+todo
+
+subsidio
+
+no
+
+incluido en el valor
+
+de los productos.
+
+No deducciones
+
+por depreciación
+
+de
+
+bienes
+
+manufacturados o
+
+por agotamiento y
+
+degradación de
+
+recursos naturales
+
+[12].
+
+Índice de capital humano
+
+Basado en años de escolaridad y rendimiento de la educación [18].
+
+Índice
+
+[18]
+
+La suma del
+
+número activo de
+
+líneas telefónicas
+
+fijas analógicas,
+
+Suscripcione s a la telefonía fija (por cada 100 personas)
+
+suscripciones de voz sobre IP (VoIP), suscripciones de bucle local inalámbrico fijo (WLL),
+
+Suscripcione
+
+s por cada 100
+
+[4]
+
+personas
+
+equivalentes de
+
+canales de voz
+
+ISDN y teléfonos
+
+públicos fijos [12].
+
+Todos los
+
+residentes
+
+Población, total
+
+independientemen Número de
+
+te de su estado
+
+Personas
+
+[4]
+
+legal o ciudadanía
+
+[12].
+
+Fuente y elaboración. Autores con datos del Penn World Table y World Economic Forum y Banco Mundial, 2021.
+
+En lo que respecta a la tabla 2, se observa que los promedios más bajos corresponden al grupo de países de ingresos bajos; mientras que, las medias más altas pertenecen a los países de ingresos medios en las variables del PIB, tecnología y población. La razón de lo anterior mencionado se explicaría en que para el grupo de países medios se tomó en consideración un país extra (cinco) en contraposición del resto, los cuales son solo cuatro.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+TABLA 2. DESCRIPTIVOS DEL PIB, CAPITAL HUMANO Y TECNOLOGÍA
+
+Países
+
+Índice de
+
+por nivel PIB capital Tecnología Población
+
+de
+
+(log) humano (log)
+
+(log)
+
+ingresos
+
+(log)
+
+Total
+
+24,85 0,799 (1,74) (0,20)
+
+13,79 (1,87)
+
+16,28 (1,01)
+
+Bajos
+
+23,02 0,63 (0,41) (0,21)
+
+11,87 (1,16)
+
+15,71 (0,31)
+
+Medios
+
+26,07 0,839 (1,22) (0,163)
+
+15,05 (1,336)
+
+16,81 (0,64)
+
+Altos
+
+25,16 0,92 (1,57) (0,10)
+
+14,12 (1,44)
+
+16,19 (1,43)
+
+() Representa la desviación estándar en cada grupo.
+
+Fuente y elaboración. Autores con datos del Penn World Table [18]y World
+
+Economic Forum y Banco Mundial, 2021.[4]
+
+https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-
+
+bank-country-and-lending-groups
+
+https://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt9.1?lang=en
+
+En la figura 1, 2 y 3 se realiza la evolución temporal de todos los territorios, donde se compara el PIB en función del capital humano (Fig. 1), la tecnología (Fig. 2) y con la variable control, la población (Fig. 3), todas las variables se encuentran en logaritmos. Grosso modo, existe una correlación positiva con una dispersión notable de la media para el capital humano y población, existiendo mejor ajuste para la tecnología. Asimismo, se aprecia un comportamiento lineal para el capital humano y población.
+
+Figura 2. PIB y tecnología en los países latinoamericanos.
+Fuente y elaboración. Autores con datos del Penn World Table [18]y World Economic Forum y Banco Mundial, 2021.[4] https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-worldbank-country-and-lending-groups https://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt9.1?lang=en
+
+Figura 1. PIB y Capital Humano en los países latinoamericanos.
+Fuente y elaboración. Autores con datos del Penn World Table [18]y World Economic Forum y Banco Mundial, 2021.[4] https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-worldbank-country-and-lending-groups https://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt9.1?lang=en
+
+Figura 3. PIB y población.
+Fuente y elaboración. Autores con datos del Penn World Table [18]y World Economic Forum y Banco Mundial, 2021.[4] https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-worldbank-country-and-lending-groups https://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt9.1?lang=en
+III. METODOLOGÍA Y RESULTADOS
+Con el fin de identificar los objetivos de la sección I y los datos de la sección II; a continuación, se explicará la metodología implementada y los resultados obtenidos.
+A. Metodología
+Se utilizan cuatro modelos de regresión con datos panel, los cuales fueron construidos con datos de 13 países latinoamericanos y de temporalidad, período 1980-2017.
+En primer lugar, se realiza una estimación del total de los datos de los países; y, posterior a ello, se hicieron tres estimaciones adicionales para los países según el nivel de ingresos (bajos, medios y altos) realizada por [4].
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+Las estimaciones de modelo panel tienen la siguiente estructura:
+
+Log(y ) = β + β CH + β Tec + β
+
++ μ (1)
+
+Donde: Log(y ) representa la variable en logaritmo del PIB
+
+en cada período de tiempo (i) y en cada país (j);
+
+,
+
+corresponde a la variable logarítmica del Capital Humano; al
+
+igual que
+
+, perteneciente a la variable logarítmica de LA
+
+tecnología; y
+
+referida a la población en logaritmos.
+
+Asimismo, respecto a los coeficientes, corresponde al
+
+término independientemente; mientras que, , y son los
+
+coeficientes de las variables independientes, respectivamente. El
+
+término de error se representa por .
+
+En el caso de la modelación del modelo panel del conjunto total de los países hubo que corregir problemas de heterocedasticidad, correlación temporal y autocorrelación con el método Feasible Generalized Least Squares (FGLS).
+
+Finalmente, para elegir qué modelo se ajusta mejor en cada grupo de países según sus ingresos se realizó la prueba de Hausman [11], dando como resultado un modelo de panel de efectos aleatorios para los países clasificados como de ingresos altos y bajos; mientras que, para los países de ingresos medios se utilizó un modelo panel de efectos fijos.
+
+B. Resultados
+En la tabla 2, se muestran las estimaciones del PIB y su relación con el capital humano, tecnología y población en el total de territorios (E1) y en cada grupo de países en función de sus ingresos (E2, E3 y E4).
+
+Las estimaciones E1, E2 y E4 muestran lo que se había identificado gráficamente en la figura 1, 2 y 3. Es decir, existe una relación directa y significativa entre el crecimiento económico y el capital humano, la tecnología y la población para los países de ingresos bajos, altos y del conjunto latinoamericano.
+
+Por otro lado, la estimación E3, correspondiente a los países de ingresos medios, el índice de capital humano tiene un efecto negativo al crecimiento de estos; sin embargo, no es significativo, como tampoco lo es la tecnología. La única variable estadísticamente significativa es la variable control de la población.
+
+En lo que respecta al efecto de cada variable, se observa que es mayor el impacto del capital humano que de la tecnología, tanto del total de los países como por grupos de países (bajos y altos).
+
+TABLA 3. ESTIMACIONES DEL PIB POR GRUPOS DE PAÍSES (SEGÚN INGRESOS)
+
+Índice Capital Humano (log) Tecnolo gía
+
+[E1] Total
+0,745** * (0,191)
+0,104** *
+
+[E2] Bajos
+0,265** (0,113)
+0,065** *
+
+[E3] Medios
+-0,381 (0,251)
+0,023 (0,049)
+
+[E4] Altos
+0,441** (0,195)
+0,392** *
+
+(log)
+
+(0,023) (0,021)
+
+(0,035)
+
+Població 1,059** 0,972** 1,893** 0,717**
+
+n
+
+*
+
+*
+
+*
+
+*
+
+(log)
+
+(0,051) (0,044) (0,279) (0,035)
+
+_cons
+
+5,498** * (0,704)
+
+6,811** * (0,663)
+
+-5,769 (3,975)
+
+7,61*** (0,279)
+
+() errores estándar robustos, ***, ** y * expresan la
+
+significancia
+
+estadística al 1%, 5% y 10%,
+
+respectivamente,
+
+Fuente y elaboración, Autores con datos del Penn World Table y World Economic Forum y Banco Mundial, 2021.
+
+IV. DISCUSIÓN DE RESULTADOS
+Los resultados mostraron que, para incrementar el crecimiento económico en la región latinoamericana, tanto el rol del desarrollo del capital humano como de la tecnología son claves, lo que coincide con lo encontrado por los autores [1], [14], [15], [16], [17] y [21] y cumple con el objetivo planteado en la investigación.
+El efecto positivo del capital humano en el crecimiento económico expresa la importancia del gasto público en la educación para alcanzar mayores niveles de crecimiento y competitividad, como expresa [24]. A la par de mejorar el capital humano, se debe enfocar en la infraestructura para reducir los costes y por ende fortalecer el crecimiento económico [3] y [7].
+
+En consecuencia, los gobiernos latinoamericanos, atendiendo a sus diferencias regionales, deben crear condiciones para mejorar el capital humano y la tecnología como lo recomienda [7], [9] y [22] en industrias con un alto valor añadido, que impliquen rendimientos crecientes y economías de escala, en este contexto las firmas podrían tener excedentes que podrían ser exportables [13].
+Al analizar los países por grupo de nivel de ingresos, la excepción de la evidencia teórica fueron los países de ingresos medios. En estos, la relación fue negativa y no significativa para el capital humano; y, positiva y no significativa para la tecnología. Esto se explicaría por el comportamiento en conjunto de ambas variables, específicamente por la proxy utilizada para la tecnología, la cual está relacionada con otros problemas en países de ingresos medios. Asimismo, el problema puede deberse a tal como mencionan [1] y [2]; es decir, a que la infraestructura que poseen u aranceles que impidan la existencia de un crecimiento económico.
+
+Finalmente, hay que destacar que, a nivel global y por grupos resultó tener mayor efecto el capital humano que la tecnología; esto puede explicarse a que es precisamente el factor humano el que propicia el desarrollo tecnológico y el que tiene el conocimiento de cómo utilizarlo. También se destaca que, el efecto en los países de ingresos altos es casi el doble el efecto generado por el capital humano y más del cien por ciento el de la tecnología comparándolo con los datos de países de ingresos bajos, problema que se relaciona directamente con lo expuesto por [1] y [2].
+
+V. CONCLUSIONES
+La utilización del modelo de panel ha permitido cumplir el objetivo de analizar el impacto del capital humano y la
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+tecnología en el crecimiento económico latinoamericano. En definitiva, los resultados muestran que tanto el capital humano como la tecnología influyen de manera positiva en el crecimiento latinoamericano. El mismo que difiere si se analiza según los ingresos del grupo de países, siendo significativos para los bajos y altos, pero no para los medios, en donde el acceso a tecnología y capital humano tienen algunas complicaciones.
+Si bien la utilización del grupo de países y su respectiva distribución por ingresos es un pilar fundamental para el análisis, para futuras investigaciones es importante analizar las diferencias entre cada uno de los países, para poder generar estrategias de política a escala local. De igual manera, se podría analizar otros factores que afecten directamente a sus respectivos crecimientos económicos.
+Finalmente, cabe mencionar que, las políticas establecidas por el gobierno a más de buscar los mecanismos de financiamiento e inversión en Capital Humano y Tecnología deben también garantizar las condiciones para que a nivel interno, se pueda aprovechar equitativamente estas inversiones y generar también desde la empresa, la creación de capital humano.
+
+VI. AGRADECIMIENTOS
+Agradecimiento al Departamento de Economía de la Universidad Técnica Particular de Loja quién brinda los insumos para poder investigar.
+
+REFERÊNCIAS BIBLIOGRÁFICA
+
+[1] Adeleye, N., y Eboagu, C. (2019). Evaluation of ICT development and economic growth in Africa. NETNOMICS: Economic Research and Electronic Networking, 20(1), 31-53. https://doi.org/10.1007/s11066019-09131-6
+
+[2] Aghaei, M., & Rezagholizadeh, M. (2017). The impact of information and communication technology (ICT) on economic growth in the OIC Countries. Economic and Environmental Studies, 17(2 (42)), 257-278.
+
+[3] Aquino, J, (2015), Estimación de la Productividad Total de Factores de Paraguay: mediciones alternativas, 1-21,
+
+[4] Banco Mundial. (2020). World Bank Country and Lending Groups: World Bank Atlas method. Recuperado de: https://datahelpdesk.worldbank.org/knowledgebase/article s/906519-world-bank-country-and-lending-groups
+
+[5] Banco
+
+Mundial
+
+https://datos.bancomundial.org/indicator
+
+(2021).
+
+[6] Carrillo, L., Navarro, C. y Bergamini, T. (2017). El capital intelectual y el capital emprendedor como impulsores del crecimiento económico regional. Cuadernos de Economía, 40(114), 223-235.
+
+[7] Chang, X. y Shi Y. (2016). The Econometric Study on
+
+Efects of Chinese Economic Growth of Human Capital.
+
+Procedia Computer Science, 91(Itqm), 1096-1105.
+
+[8] Cuadrado-Roura, J. et al. (2010), Política Económica,
+
+Elaboración,
+
+objetivos
+
+e
+
+instrumentos,
+
+https://www,researchgate,net/publication/279885643_PO
+
+LITICA_ECONOMICA_Elaboracion_objetivos_e_instru
+
+mentos/citations
+
+[9] Cuéllar, C. (2015). Análisis y estimación de la contribución de los factores capital físico y capital humano, en la tasa de
+
+crecimiento económico de Colombia 1981 - 2005,
+
+Pregrado en Economía, Universidad del Tolima.
+
+[10] Enriquez, I. (2016). Las teorías del crecimiento económico: notas críticas para incursionar en un debate inconcluso.
+
+Revista Latinoamericana de Desarrollo Económico
+
+(LAJED),
+
+73-
+
+125.
+
+https://doi.org/10.35319/lajed.20162564
+
+[11] Hausman, J, (1978), SPECIFICATION TESTS IN ECONOMETRICS, Econometrica, 46(6), 73–101, https://doi,org/10,1007/978-981-10-5466-2_5
+
+[12] IndexMundi.
+
+(2016).
+
+Indicadores.
+
+https://www.indexmundi.com/es/datos/indicadores
+
+[13] Jordá-Borrell, R., y López-Otero, J. (2020). Factores de crecimiento económico en los países en desarrollo: el papel de las TICs. Boletín de la Asociación de Geógrafos Españoles, (86).
+
+[14] Monroy, G. V., y Flores, R. P. (2009). Perspectiva de la teoría del capital humano acerca de la relación entre educación y desarrollo económico. Tiempo de educar,
+
+10(20), 273-306.
+
+[15] Pradhan, P., Rudra, P., Mak, B., Arvin, S., Neville R., & Norman, S.(2015). The dynamics of information and communications technologies, infrastructure, economic growth, and financial development: Evidence from Asian countries. Technology in Society, 42, 135149.https://www.sciencedirect.com/science/article/pii/S01 60791X15000378?via%3Dihub
+
+[16] Kiveu, M., y Ofafa, G. (2013). Enhancing market access in
+
+Kenyan SMEs using ICT. Global Business and Economics
+
+Research
+
+Journal,
+
+2(9),
+
+29-46.
+
+https://doi.org/10.1108/13287261111164844
+
+[17] Kruger A. y Lindahl M. (2001) Education for growth: Why and for whom? Journal of economic literature, 39(4), 1101-1136
+
+[18] Penn World Table (2021), Version 9,1. https://www.rug.nl/ggdc/productivity/pwt/pwtreleases/pwt9.1?lang=en
+
+[19] Rodríguez, H. E. D. (2017). Tecnologías de la información y comunicación y crecimiento económico. Economía
+
+Informa, 405, 30-45.
+
+[20] Roztocki, N,, y Weistroffer, H, R, (2009), Research trends in information and communications technology in developing, emerging and transition economies, Collegium
+
+of Economic Analysis, 20, 113-127,
+
+[21] Shapiro, J. M. (2006). Smart cities: quality of life, productivity, and the growth effects of human capital. The review of economics and statistics, 88(2), 324-335.
+
+[22] Solow, R. (1956). A contribution to the theory of economic growth. Quarterly Journal of Economics, 70, 65-94.
+
+[23] Swan, T. (1956). Economic growth and capital accumulation. Economic Record, 32, 344.61.
+
+Tchanturia, N., Beridze, T., y Kurashvili, G. (2015). Features of Development of the Human Capital in Georgia. Procedia - Social and Behavioral Sciences, 213, 580-585.
+
+[24] UNCTAD. (2019). Informe sobre las inversiones en el
+
+mundo.
+
+Geneve,
+
+Switzerland.
+
+https://unctad.org/es/PublicationsLibrary/wir2019_overvi
+
+ew_es.pdf
+
+[25] Vedia-Jerez, D. H., y Chasco, C. (2016). Long-run determinants of economic growth in South America. Journal of Applied Economics, 19(1),169-192.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

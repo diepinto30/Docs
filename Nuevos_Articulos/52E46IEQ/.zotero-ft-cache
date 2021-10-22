@@ -1,0 +1,496 @@
+Potencial digital femenino en el mercado laboral
+Female digital potential in labor market
+
+Songor-Jaramillo Ximena, Banegas-Ochoa Daniela
+Departamento de Economía Universidad Técnica Particular de Loja,
+Loja – Ecuador xsongor@utpl.edu.ec dfbanegas@utpl.edu.ec
+
+Resumen — El rol de la mujer en el mercado laboral ha sido ampliamente estudiado. Sin embargo, el análisis a partir del acceso a TIC entre mujeres es un tema que requiere la atención en un mundo digitalizado y en el que las desigualdades en su contra persisten. Esta investigación plantea poner en evidencia las diferencias en la posibilidad de participar en el mercado laboral ecuatoriano entre mujeres que tienen acceso a TIC (usar computador y de Internet) frente a aquellas que no tienen acceso. La metodología utilizada contempla un modelo probabilístico de variable binaria que asume una función de distribución logística de las perturbaciones estocásticas. Los resultados encontrados demuestran diferencias significativas a favor de las mujeres que poseen acceso a TIC. Con esto hallazgos, se fortalece el debate sobre la necesidad de investigación para promover propuestas concretas para la reducción de brechas digitales entre mujeres, en economías en desarrollo como la ecuatoriana.
+Palabras Clave – Acceso a TIC; mujeres; trabajo; Ecuador.
+Abstract — The role of women in labor market has been widely studied. However, the analysis based on ICT access among women is an issue that requires attention in a digitized world, in which inequalities persist against it. This research proposes to highlight the differences in the possibility of participating in the Ecuadorian labor market between women who have access to ICT (computer and Internet) compared to those who do not have access. The methodology used is a probabilistic binary variable model that assumes a logistic distribution function of stochastic disturbances. The results show significant differences in favor of women who have access to ICT. With these findings, the debate for research to promote concrete proposals for reducing digital gaps between women in developing economies such as Ecuador is strengthened.
+Keywords – ICT access; women; labor; Ecuador.
+I. REVISIÓN DE LA LITERATURA
+El ingreso de las mujeres al mercado laboral ha sido cada vez mayor, pero este ascenso ha tenido lugar dentro de lo que, actualmente, se conoce como Economía del Cuidado, pues gran parte de ellas se han vuelto responsables de la atención y vigilancia en sectores como la salud, la educación, trabajo social, etc.; y pocas de ellas se dedican a las industrias involucradas con la tecnología, lo que está relacionado con la estructura sociocultural en la que se vive. Sin embargo, este desarrollo, pequeño pero significativo, no necesariamente va de la mano con condiciones laborales adecuadas [3]. De hecho, [15] indica que las mujeres que se incorporan al mercado laboral están
+
+ligadas a la precarización laboral y continua discriminación de género.
+En el informe de [11] se expuso que, dentro del mercado laboral, las mujeres procedentes de hogares con ingresos más altos pueden desarrollar trayectorias laborales estables, lo que les permite llegar a ser individuos independientes dentro de la sociedad económica. Por el contrario, el resto de mujeres se encuentran asociadas a un patrón laboral susceptible a los cambios que se dan en la economía, los mismos que pueden llegar a perjudicar de forma significativa a la necesidad de ingresos que tienen estas personas con el fin de cumplir con las obligaciones financieras de sus hogares. Vale la pena mencionar que, la participación de las mujeres de estratos socioeconómicos más bajos es menor, debido a que cuentan con un bajo nivel de escolaridad, mayor número de hijos y la imposibilidad de acceder a servicios de cuidado. De tal manera que, se concluyó que la brecha laboral entre los grupos más vulnerables y el resto de mujeres es cada vez más extenso.
+La brecha social existente condiciona el desarrollo del potencial de las mujeres, lo que les impide lograr una mejor integración laboral; la educación es el primer paso para lograrlo [13], la cual que no se basa únicamente en la adquisición de conocimientos básicos de determinados componentes, sino que va más allá de estos, debido a que es necesario que también capten aprendizajes relacionados a la tecnología, esto dependiendo del acceso que tengan a las TIC. [7] menciona que las mujeres siempre fueron las que tejieron las redes, haciendo alusión a que, iniciaron tejiendo fibras vegetales, después también se encargaron de la elaboración de redes de pesca, posteriormente, a la confección de telas, así como a otras actividades relacionadas, y mencionaba que, esto también las llevaría a ser las primeras tejedoras de lo que actualmente conocemos como las redes de comunicación.
+En 1998, fue el año de prosperidad para las mujeres, ya que, es entonces cuando iniciaron su vinculación al mundo del Internet, con miras a que las redes puedan ser más bien controladas por ellas; esto como resultado de que, el número de féminas que dirigen o son parte de algún proyecto relacionado a Internet, cada vez es mayor [10]. Sin embargo, como se mencionó con anterioridad, la propagación de las TIC tiene efectos sociales desiguales entre las mujeres; que se dan debido a factores como la clase social, raza, edad, acceso a la educación, etc. [20], [2]. Autores como [1] y [5], indican que algunas mujeres carecen de tiempo para interactuar con las TIC ya que deben realizar actividades domésticas o de maternidad, lo que
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+provoca que se alejen del entorno laboral y, por lo tanto, expanden la brecha tecnológica que hay entre mujeres.
+[20] expone lo siguiente: “La condición tecnológica de ‘utilizadoras tardías rezagadas’, que afecta la socialización y educación de las mujeres como colectivo, termina acortando la curva personal de aprendizaje de las estudiantes que recién ingresan en carreras de tecnología informática o relacionadas”, lo que provoca que las mujeres tengan menores oportunidades laborales en el sector. De tal manera que, para aumentar y mejorar el empleo femenino, es esencial mejorar las cualificaciones educativas generales, pero sobretodo, las que se relacionan con el desarrollo de habilidades en las TIC [12].
+[2] determinó que las tasas de actividad de las mujeres en sectores relacionados con las TIC eran bajas, sobretodo de aquellas que pertenecían a grupos vulnerables; esto provoca que este grupo se aleje del mercado laboral 2.0, lo que dificulta su inserción laboral y, por lo tanto, provoca el deterioro de sus condiciones de vida. Esto, indica el autor, sucede especialmente debido a un factor clave, la falta de ingresos, ya que, el acceso a computadores e Internet depende en gran parte de ello. Según, [19] esto implicaría que dejemos atrás a una gran proporción de la fuerza laboral, enfocándose especialmente en las mujeres, porque no cuentan con suficientes recursos económicos que les permitan acceder a cursos de capacitación; esta falta de digitalización provocaría que 3 millones de mujeres pierdan su empleo en el futuro. Sorgner y otros (2018, citado en [14]) señalan:
+“Si no se incluye activamente en los preparativos para el futuro del trabajo, las mujeres se enfrentarán a varios desafíos en el mercado laboral y con su situación financiera. Con el mercado laboral cada vez más digital, las mujeres que no tienen acceso a las tecnologías digitales no podrán ver anuncios de trabajo, solicitarlos y obtener información detallada sobre salarios o sus derechos laborales. Además, al ser excluidas digitalmente, las mujeres encontrarán aún más dificultades para acceder a los servicios financieros, que dependen cada vez más de los algoritmos informáticos”. (pág. 13)
+Además, es de conocimiento para todos que muchas mujeres enfrentan limitaciones de desplazamiento debido a que también dedican su tiempo en la economía del cuidado de sus hogares; las TIC les permiten crear espacios de negociación y comercialización de bienes y servicios que ofertan sin necesidad de transportarse constantemente, lo que ha logrado “una mejor compatibilización de las esferas profesionales y familiares” [1]. David Beasley, Director Ejecutivo del PMA, argumentó que: “La tecnología digital puede cambiar vidas si la ponemos en manos de quienes la necesitan, y esa es la razón por la que trabajamos duro cada día para contribuir a mejorar el acceso de las mujeres del medio rural. Cada vez que una de esas mujeres agricultoras utiliza una aplicación del PMA para vender sus cultivos, mejora la prosperidad de su familia y de su comunidad y nosotros estamos un paso más cerca de alcanzar la equidad de género” [16].
+Como resultado de ello, en algunos estudios como los de [9] y [18] se concluye que las mujeres se sienten útiles gracias al uso de estas tecnologías [17]; [3] expone que cuando las mujeres tienen acceso a estas herramientas y las utilizan para el desarrollo de un negocio, las probabilidades de éxito son muy altas, lo que ha ampliado el potencial de desarrollo productivo
+
+dentro del marco de la economía digital. Además, [6] señalan que esto les ha permitido mejorar sus habilidades tecnológicas, lo que involucra una mayor participación de las mujeres en el ámbito digital.
+De tal manera que, es muy importante que se conozca el valor del uso de las TIC como competencia laboral, ya que esta herramienta es un componente esencial del perfil de empleabilidad de las personas [3]. Por lo tanto, las habilidades que las mujeres adquieren en TIC, les permitirán tener acceso al mercado laboral y encontrar trabajos que les permitan desarrollarse a nivel profesional; pues si las mujeres tienen un acceso y uso limitado de las TIC, sus posibilidades de empleo pueden ser afectadas significativamente, ya que el tipo de trabajo puede llegar a ser informal, de baja productividad y su salario bajo [3] [4].
+
+II. DESCRIPCIÓN DE DATOS
+Para la consecución de los objetivos de investigación propuestos, el estudio contempla los microdatos disponibles en la Encuesta Nacional Multipropósito de Hogares de diciembre 2018 [8].
+En la figura 1 se muestran datos sobre las frecuencias relativas de mujeres con y sin acceso a TIC, esto a partir del nivel de instrucción educativo de las mismas (considerando el último año de educación culminado). Como se aprecia, en términos descriptivos, al parecer conforme mejora el nivel de instrucción de las mujeres ecuatorianas en edad de trabajar, también se incrementa la participación en el grupo de mujeres que posee acceso a TIC.
+
+100% 80% 60% 40% 20% 0%
+
+20%
+
+67% 90%
+80%
+
+Pre-bachiller
+
+33%
+Bachiller-No Universitario
+
+10%
+Profesional (universitario o
+postgrado)
+
+No posee acceso a TIC Posee acceso a TIC
+
+Figure 1. Acceso a TIC y nivel de instrucción 2018.
+En la figura 2 se observan las frecuencias relativas sobre el acceso a TIC y el estado civil de las mujeres en Ecuador.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Tiene pareja
+
+53%
+
+47%
+
+Tuvo pareja*
+
+54%
+
+46%
+
+Soltera
+
+37%
+
+63%
+
+0%
+
+50%
+
+100%
+
+No posee acceso a TIC Posee acceso a TIC
+
+Figure 2. Acceso a TIC y estado civil 2018. Nota: *La categoría tuvo pareja contempla a mujeres divorciadas y viudas.
+
+Entre las categorías del estado civil definidas en este estudio, se observa relativa homogeneidad entre la proporción de mujeres con y sin acceso a TIC, en el grupo de mujeres que tienen pareja en la actualidad1 (casadas y unidas) y aquellas que tuvieron pareja (divorciadas y viudas). No obstante, en el caso de las mujeres solteras, existe preponderancia en la proporción de mujeres que posee acceso a TIC.
+
+III. METODOLOGÍA Y RESULTADOS
+Como se informa en la sección anterior, los datos contemplados son de sección cruzada, disponibles en la encuesta Multipropósito levantada por el [8] en Ecuador. La investigación se centra en las mujeres que forman parte de la PEA. Se contemplan las mujeres cuya edad oscila entre los 15 y 65 años. La investigación se centra en las diferencias en la participación en el mercado laboral entre mujeres que tienen acceso a TIC, específicamente a un computador y que hacen uso de Internet, y aquellas que no tienen acceso a tecnologías de información. Así, la muestra final comprende 14203 mujeres, cuyos resultados son inferibles a toda la población considerando el factor de elevación correspondiente.
+
+A. Metodología
+Partiendo del objetivo de investigación propuesto, se requiere evaluar la participación en el mercado laboral de las mujeres, condicionando este resultado al acceso a TIC en Ecuador. Así, la propuesta metodológica considerada idónea para esta investigación es un modelo probabilístico. Asumiendo una distribución logística de las perturbaciones estocásticas, la función de distribución de probabilidades está dada por:
+
+1
+
+= 1−
+
+(
+
+)
+
+(1)
+
+El logaritmo de la razón de probabilidades se define de la siguiente manera:
+
+= ln
+
+=+
+
+(2)
+
+1−
+
+La aproximación de la razón entre las probabilidades de éxito y la de fracaso, destaca la utilidad del Logit, justamente por la facilidad de interpretar las probabilidades a favor de que un evento suceda. De este modo, la ecuación a estimar se especifica a continuación:
+
+=
+
+= 1 = + + (3)
+
+donde: es el set de características de las mujeres que
+determinan la probabilidad de estar o no empleada. Se realizan tres estimaciones, la primera contempla un modelo para todas las mujeres considerando como variable dependiente aquella binaria que identifica a las mujeres empleadas de las no empleadas. Las regresoras de esta primera estimación son: acceso a tecnología, edad y educación (se contemplan algunos controles). Se realizan dos estimaciones adicionales, en este caso se diferencian los resultados para el grupo de mujeres que evidencia acceso a TIC de los resultados para el grupo que no posee acceso a TIC. Retomando la explicación de la ecuación (3), y son las constantes y y , los coeficientes del set
+de variables en cada modelo.
+
+Con esto, se espera contrastar la hipótesis que contempla diferencias significativas en la participación en el mercado laboral ecuatoriano a favor de las mujeres que tienen acceso a TIC.
+
+B. Resultados
+En esta sección se presentan los resultados de las estimaciones realizadas con base en la metodología propuesta en la sección A. En la tabla 1 se presentan los resultados de las estimaciones realizadas para el total de mujeres estudiadas. En la tabla 2 se incluyen las estimaciones del Logit que contrastan los resultados para cada grupo: con acceso y sin acceso a TIC. En la tabla 3 se presentan las razones de probabilidad (odds ratio), las que se incluyen con el fin de lograr una interpretación más sencilla de los resultados.
+
+TABLA 1. ESTIMACIONES LOGIT Y ODDS RATIO M1
+
+Área rural
+
+Edad
+
+Edad2
+
+Educación:
+
+Bachiller
+
+(NO
+
+universitario)
+
+Educación: Profesional (Universitario
+
+o Postgrado)
+
+2do cuartil de ingresos
+
+3er cuartil de ingresos
+
+4to cuartil de ingresos
+
+[M1 Coeficientes
+Logit] -0,2338* 0,0556* -0,0010*
+0,4311*
+1,4648*
+0,7827* 1,2170* 1,2312*
+
+[M1 Odds Ratio] 0,7999* 1,0595* 0,9989*
+1,5603*
+4,2721*
+2,3625* 3,5887* 3,9959*
+
+1 Entiéndase el término “actualidad” como referencia al momento en el que fue levantada la encuesta (2018).
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Etnia: Indígenas Estado civil: Tiene pareja Acceso a TIC Constante Tamaño de muestra:
+
+-0,5043*
+
+0,5110*
+
+-0.6763*
+
+0,4716*
+
+0,5793*
+
+1,6449*
+
+-1,7878*
+
+0,1797*
+
+14203
+
+Pseudo R2
+
+0,20
+
+Precisión del pronóstico
+
+72,13%
+
+(Tabla de clasificación)
+
+Significancia individual: ** p<0.05, * p<0.01
+
+NOTA: Los errores estándar no se informan para ahorrar espacio; pero están
+
+disponibles con pedido a las autoras.
+
+La tabla 1 se observa los coeficientes estimados del Logit y las razones de probabilidad. Se verifican los efectos no lineales de la edad en el caso de la participación laboral de las mujeres, mostrando esta variable un comportamiento convexo. Tal como lo anticipaba la descripción de datos de la sección 2, un mejor nivel de instrucción de las mujeres ecuatorianas incrementa las probabilidades de encontrarse empleadas en el mercado laboral. La variable de interés de este modelo recae sobre lo que revela la identificadora del grupo de mujeres que tiene acceso a TIC. De esta forma, se evidencian diferencias significativas entre la participación laboral de las mujeres que tienen acceso a TIC con referencia quienes no lo tienen. En términos de probabilidades, las mujeres con acceso a TIC tienen 1.7 veces más probabilidades de participar en el mercado laboral que aquellas que no tienen acceso a TIC (computador e Internet).
+
+TABLA 2. ESTIMACIONES LOGIT M2 Y M3
+
+M2: Acceso TIC = 0 M3: Acceso TIC = 1
+
+[M2]
+
+[M3]
+
+Área rural
+
+-0,1863*
+
+-0,3376*
+
+Edad
+
+0,0235*
+
+0,0425*
+
+Edad2 Educación: Bachiller (NO universitario) Educación: Profesional (Universitario o Postgrado) 2do cuartil de ingresos
+3er cuartil de ingresos
+4to cuartil de ingresos
+
+-0,0009* 0,1513* 1,0503* 0,8501* 1,3288* 1,0781*
+
+-0,0007* 0,7322* 1,6237* 0,9906* 1,4289* 1,6933*
+
+Etnia: Indígenas
+
+-0,9238*
+
+-0,4705*
+
+Estado civil: Tiene pareja
+
+-0,8733*
+
+-0,6956*
+
+Constante
+
+-0,2822*
+
+-1,2597*
+
+Tamaño de muestra:
+
+7839
+
+6364
+
+Pseudo R2
+
+0,15
+
+0,12
+
+Precisión del pronóstico (Tabla de clasificación).
+
+75.60%
+
+69,80%
+
+Significancia individual: ** p<0.05, * p<0.01
+
+NOTA: Los errores estándar no se informan para ahorrar espacio; pero están
+
+disponibles con pedido a las autoras.
+
+La tabla 2 contrasta los resultados del modelo de probabilidad para cada grupo, aquí se presentan las estimaciones del modelo Logit. Más allá del tamaño del coeficiente, se observa la misma dirección del efecto de cada regresora en los dos modelos. Así, independientemente del acceso a TIC, las mujeres del área rural tienen menos probabilidades de encontrarse empleadas que las del área urbana. El estrato social al que pertenece cada mujer, definido por el cuartil de ingresos del hogar en el que se ubica, contempla mejores probabilidades para quienes se ubican en el extremo superior de la distribución, esto con referencia a los hogares de ingresos más bajos. Se presentan diferencias significativas en contra de las mujeres indígenas. Finalmente, las mujeres que poseen pareja tienen mejores probabilidades de encontrarse empleadas, esto con relación a las solteras y a aquellas que tuvieron pareja (viudas y divorciadas).
+
+TABLA 3. RAZONES DE PROBABILIDAD M2 Y M3
+
+M2: Acceso TIC = 0 M3: Acceso TIC = 1
+
+[M2]
+
+[M3]
+
+Área rural
+
+0,8300* 0,7134*
+
+Edad
+
+1,0238* 1,0434*
+
+Edad2
+
+0,9991* 0,9992*
+
+Educación: Bachiller (NO universitario)
+
+1,1633* 2,0796*
+
+Educación: Profesional (Universitario o Postgrado) 2do cuartil de ingresos
+
+2,8585* 2,3398*
+
+5,0718* 2,6929*
+
+3er cuartil de ingresos
+
+3,7764* 4,1740*
+
+4to cuartil de ingresos
+
+2,9389* 5,4372*
+
+Etnia: Indígenas
+
+0,3970* 0,6246*
+
+Estado civil: Tiene pareja
+
+0,4175* 0,4987*
+
+Constante
+
+0,6260* 0,2024*
+
+Significancia individual: ** p<0.05, * p<0.01 NOTA: Los errores estándar no se informan para ahorrar espacio; pero están disponibles con pedido a las autoras.
+
+La tabla 3 permite visualizar los odds ratio, lo cual facilita la comparación de resultados entre los dos grupos objeto de contraste de esta investigación. La edad refleja efectos no lineales estables entre los dos grupos. Los resultados de la educación en una mujer con acceso a TIC revelan 5.1 mayores probabilidades de acceder al mercado laboral en el caso de tener título superior o postgrado con referencia a las mujeres que solamente alcanzaron el bachillerato. No obstante, en el caso del grupo que no posee acceso a TIC, esta ventaja se reduce a solamente 2,9 veces. En el caso de la etnia, las probabilidades de una mujer indígena de no encontrar un trabajo, debido a que no posee acceso a TIC, equivalen a 2.5 veces más que en cualquier otra etnia. Pero si la misma mujer indígena tiene acceso a TIC, sus probabilidades de acceso nulo al mercado laboral se reducen a 1.6. Finalmente, el estrato social (el cuartil de ingresos al que pertenece el hogar) demuestra la ampliación de brechas entre grupos, es claro que las mujeres que viven en hogares del cuartil 4 tienen una brecha mucho más amplia que la que evidencia las mujeres que pertenecen a hogares del cuartil 2.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Considerando los efectos no lineales de la variable edad en el caso de las mujeres, se presentan nuevas estimaciones segmentando la muestra. La tabla 4 resume estos resultados y presenta los modelos (4) y (5) para mujeres entre 15 y 40 años; los modelos (6) y (7) se estimaron con datos de mujeres mayores a 40 años.
+
+TABLA 4. Odds ratio: muestra segmentada (edad de la mujer).
+
+M4_M6: Acceso TIC = 0 M5_M7: Acceso TIC = 1
+
+15 - 40 años
+
+M4
+
+M5
+
+40 - 65 años
+
+M6
+
+M7
+
+Área rural
+
+0,76* 0,62* 0,90* 1,06*
+
+Edad
+
+0,97* 1,01* 0,94* 0,99*
+
+Educación: Bachiller
+
+1,19* 1,83* 1,15* 2,74*
+
+Educación: Profesional
+
+3,76* 4,05* 2,34* 7,07*
+
+2do cuartil de ingresos
+
+2,34* 2,27* 2,38* 4,78*
+
+3er cuartil de ingresos
+
+4,71* 3,74* 3,13* 6,66*
+
+4to cuartil de ingresos
+
+3,38* 4,67* 2,65* 9,25*
+
+Etnia: Indígenas
+
+0,47* 0,53* 0,30* 1,28*
+
+Estado civil: Tiene pareja
+
+0.41* 0,47* 0,41* 0,53*
+
+Constante
+
+1,01* 0,43* 5,48* 0,17*
+
+N
+
+3284 4308 4555 2056
+
+Pseudo R2
+
+0,13
+
+0,12
+
+0,10
+
+0,12
+
+Precisión del pronóstico (Tabla de clasificación)
+
+69,03% 68,73% 81,12% 71,16%
+
+Significancia individual: ** p<0.05, * p<0.01
+
+NOTA: Los errores estándar no se informan para ahorrar espacio; pero están
+
+disponibles con pedido a las autoras.
+
+Las mujeres indígenas que tienen acceso a TIC tienen mayores probabilidades de formar parte de la fuerza laboral, incluso si poseen edades entre 40 y 65 años. Así también, la educación es un factor determinante en la participación de la mujer en el mercado laboral: un mejor nivel de instrucción. Específicamente, tener título profesional o de postgrado, por ejemplo, genera considerables diferencias en las probabilidades de acceso al mercado laboral, sobre todo en el caso de las mujeres más maduras (entre 40 y 65 años). Con referencia a la edad –variable que se ingresó linealmente en los modelos de la tabla 4–, en el caso de las mujeres jóvenes (15-40 años), se evidencia el efecto positivo de las TIC en las probabilidades de participación en el mercado laboral. No obstante, en el caso de las mujeres mayores, la edad se mantiene como un factor que reduce las probabilidades, independientemente de si estas cuentan o no con acceso a TIC.
+
+IV. CONCLUSIONES
+La hipótesis de investigación planteada en el estudio se valida, pues se evidencian diferencias significativas a favor de las mujeres que poseen acceso a TIC. Así, las brechas entre los grupos contrastados derivadas de la raza y estrato [19], [2] y [17]. Las probabilidades a favor de tener un empleo se reducen
+
+para las mujeres con niveles educativos inferiores [20]. Las mujeres que tienen computador, acceso a Internet y tienen pareja, tienen mayores probabilidades de tener un empleo en el mercado laboral ecuatoriano, esto en comparación a las mujeres que reflejan el mismo estado civil, pero no poseen acceso a TIC. Así, intentando desagregar este aspecto, el efecto del estado civil podría arrastrar el impacto de la asignación de los roles reproductivos dentro del hogar, que tradicionalmente recaen sobre la mujer [11]. No obstante, el fortalecimiento de programas para reducir la brecha digital entre grupos en el país, así como un adecuado proceso de digitalización para la mujer, podría ser un factor relevante para mejorar las probabilidades de participación de la misma en el mercado laboral [9] [14] [16].
+Se debería y se recomienda, para trabajos futuros, profundizar en el análisis segmentando la muestra: por grupos de edad, estrato socioeconómico y otros atributos que podrían generar diferencias en el efecto que el acceso a TIC pueda tener sobre la participación de la mujer en el mercado laboral.
+
+AGRADECIMIENTOS
+Agradecemos a la Universidad Técnica Particular de Loja y al Vicerrectorado de Investigación de la Universidad por el apoyo brindado para la publicación de este artículo.
+
+REFERENCIAS BIBLIOGRÁFICAS
+
+[1] Caridad Sebastian, M., & Ayuso García, M. D. (2012). Situación de la brecha digital de género y medidas de inclusión en España. Investigación Bibliotecológica. Archivonomía, Bibliotecología e Información, 25(55), 227. https://doi.org/10.22201/iibi.0187358xp.2011.55.32973
+[2] CEPAIM, F. (2015). Notas para el empoderamiento digital con mujeres. 64.
+[3] CEPAL (2013). Mujeres en la economía digital - Superar el umbral de la desigualdad. XII Conferencia Regional Sobre La Mujer de América Latina y El Caribe. https://doi.org/10.1007/s10209-005-0001-0
+[4] CEPAL (2017). Mercado laboral, la llave para igualdad de las mujeres en América Latina y el Caribe. https://www.cepal.org/es/articulos/2017mercado-laboral-la-llave-igualdad-mujeres-america-latina
+[5] Cleary, P. F., Pierce, G., & Trauth, E. M. (2004). Closing the digital divide: Understanding racial, ethnic, social class, gender and geographic disparities in Internet use among school age children in the United States. Universal Access in the Information Society, 4(4), 354–373.
+
+[6] Griffiths, M., Moore, K., & Richardson, H. (2007). Celebrating
+
+heterogeneity? A survey of female ICT professionals in England.
+
+Information
+
+Communication
+
+and
+
+Society.
+
+https://doi.org/10.1080/13691180701409945
+
+[7] Guil, A. (2011). Redes sociales y praxis ciberfeminista: Nuevas alianzas en Internet. Asparkía. Investigació Feminista, 22, 73–83. http://www.erevistes.uji.es/index.php/asparkia/article/view/599/510
+
+[8] INEC (2018). Encuesta Nacional Multipropósito de Hogares 2018. En https://www.ecuadorencifras.gob.ec/encuesta-nacional-multipropositode-hogares/
+
+[9] Lanigan, J. D. (2009). A sociotechnological model for family research and
+
+intervention: How information and communication technologies affect
+
+family
+
+life.
+
+Marriage
+
+and
+
+Family
+
+Review.
+
+https://doi.org/10.1080/01494920903224194
+
+[10] Martínez, R. (2006). La brecha digital y el ciberfeminismo en la sociedad de la información. http://www.monografias.com/trabajos99/brechadigital-sociedad-informacion/brecha-digital-sociedad-informacion.shtml
+
+[11] Naciones Unidas para el Desarrollo y Organización Internacional del Trabajo. (2019). El Mercado Laboral en América Latina: Análisis de sus Características por Estratos Sociales y Desafíos de Política Pública.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+https://www.latinamerica.undp.org/content/rblac/es/home/library/women s_empowerment/el-mercado-laboral-en-america-latina--analisis-de-suscaracteris.html
+[12] ONU Mujeres. (2011). Las TIC: herramientas clave para alcanzar la igualdad de género Por una sociedad de la información con equidad de género “Visualizamos el uso potencial de las TIC para reestructurar redes familiares de comunicación”, entrevista a.
+[13] Ortega Ponce, L. (2012). Las relaciones de género entre la población rural del Ecuador, Guatemala y México. Serie Mujer y Desarrollo. https://repositorio.cepal.org/bitstream/handle/11362/5848/S1200873_es. pdf?sequence=1&isAllowed=y
+[14] Picot, M. D., & Spath, K. (2020). Women and the Future of the Digital Economy in Asia. Decent work for all ?
+[15] Ramos, A. M. G., Bosch, N. V., & García, J. S. M. (2017). Women in the technology labour market. Revista Espanola de Investigaciones Sociologicas, 159, 73–90. https://doi.org/10.5477/cis/reis.159.73
+[16] ReliefWeb. (2018). Las TIC son esenciales para el empoderamiento y el progreso de las mujeres pobres del medio rural.
+
+https://reliefweb.int/report/world/las-tic-son-esenciales-para-elempoderamiento-y-el-progreso-de-las-mujeres-pobres-del
+[17] Songor-Jaramillo, X., Moreno-Hurtado, C., & Petter-Pérez, L. "Youth labor precariousnes in Ecuador: what is the role of ICT?," 2019 14th Iberian Conference on Information Systems and Technologies (CISTI), Coimbra, Portugal, 2019, pp. 1-6, doi: 10.23919/CISTI.2019.8760698.
+[18] Simões, M. J., Heras, S. Las, & Augusto, A. (2011). Género e tecnologias da informação e da comunicação no espaço doméstico: não chega ter, é preciso saber, querer e poder usar. Género e Tecnologias Da Informação e Da Comunicação No Espaço Doméstico: Não Chega Ter, é Preciso Saber, Querer e Poder Usar. https://doi.org/10.4000/configuracoes.831
+[19] UNI Global Union. (2015). Digitalization from a gender perspective. www.socialeurope.eu
+[20] Zapata, C. B., Arraíza, P. M., & Ferreira Da Silva, E. (2018). Desafíos de la Inclusión Digital: antecedentes, problemáticas y medición de la Brecha Digital de Género. Conocimiento y Sociedad, 7(2), 162–198.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

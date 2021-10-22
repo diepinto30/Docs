@@ -1,0 +1,484 @@
+Impacto del Capital Humano y Tecnología en el Índice de Desarrollo Humano de América Latina
+Impact of Human Capital and Technology in Human Development Index in Latin American
+
+Cevallos-Meneses, Germán; Valdivieso-Burneo, Diana; Ávila-Sánchez, Igor; Ochoa-Moreno, Santiago
+Departamento de Economía Universidad Técnica Particular de Loja
+Loja, Ecuador gacevallos11@utpl.edu.ec; dpvaldivieso1@utpl.edu.ec;
+imavila2@utpl.edu.ec; wsochoa@utpl.edu.ec
+Resumen — La presente investigación muestra evidencia del impacto entre el Capital Humano y la Tecnología en el Índice de Desarrollo Humano (IDH) de América Latina. Para demostrar la relación existente se utilizó datos de panel de 12 países de América Latina, desagregados en 3 grupos de 4 países acorde a sus ingresos, (Según método Atlas del Banco Mundial) es decir países de ingreso alto (Chile, Panamá, Uruguay, México), de ingreso medio (Argentina, Brazil, Colombia, Ecuador) y de ingreso bajo (Perú, Bolivia, Honduras, Nicaragua). Los resultados reflejaron que la variable tecnología influye de manera positiva en el IDH en los países de ingreso medio y bajo, corroborando la teoría, siendo el efecto mayor en los países de este último grupo. Sin embargo, los países de ingreso alto presentan una relación negativa entre la tecnología y el IDH. Como recomendación de Política, los gobiernos deben preocuparse por el Fomento del capital humano y las oportunidades de acceso a tecnología de manera individual, para mejorar la calidad de vida.
+Palabras Clave – Capital Humano, Tecnología, IDH
+Abstract — This research shows evidence of the impact n between Human Capital and Technology in the Human Development Index (HDI) of Latin America. To demonstrate the existing relationship, panel data from 12 Latin American countries were used, disaggregated into 3 groups of 4 countries according to their income, (According to the Atlas method of the World Bank) that is, high-income countries (Chile, Panama, Uruguay, Mexico), middleincome (Argentina, Brazil, Colombia, Ecuador) and lowincome (Peru, Bolivia, Honduras, Nicaragua). The results reflected that the technology variable positively influences the HDI in low- and middle-income countries, corroborating the theory, the effect being greater in the countries of the latter group. However, high-income countries show a negative relationship between technology and the HDI. As a Policy recommendation, governments should be concerned with the Promotion of human capital and opportunities for access to technology individually, to improve the quality of life.
+Keywords –Human Capital, Technology, HDI
+
+I. INTRODUCCIÓN
+La telefonía móvil, es decir el Servicio Móvil Terrestre, tiene diversos efectos en la vida diaria de las personas [1].Según algunos autores [2, 3, 4], la calidad de vida hace referencia a las oportunidades que los individuos pueden alcanzar, en materia de salud educación e ingresos. Varios estudios [5, 6] han tratado de explicar la significante relacion de la educación como factor principal en el desarrollo. La tecnología móvil suele ser un indicador tambien que fomenta la educación [7]. Por ende, es relevante analizar la relación que presenta la suscripción de telefonía móvil como variable proxy de la tecnología en la calidad de vida y el desarrollo humano en la región latinoamericana.
+El desarrollo humano, se entiende como la expansión de libertades del individuo y la garantía de las mismas. Cuando se hace referencia a este índice se debe abarcar consideraciones económicas, sociales y políticas. Dentro de la primera se destaca, el acceso a servicios públicos, de la cual forma parte la tecnología, es primordial para garantizar las libetades del individuo y así, observar un efecto positivo en el mismo [8].
+La difusión de la telefonía móvil en América Latina afecta a la pobreza de manera indirecta a través de una variable mediadora que es el desarrollo [9]. Este efecto es negativo, es decir a medida que aumenta la suscripción de telefonía móvil la pobreza disminuirá en 0,549. Asimismo, la difusión de este servicio tendrá un resultado positivo en el progreso de la calidad de vida, con un efecto total estandarizado de 0,607 [10]. Este estudio realizado en l8 países de la región demostró que mientras incremente la suscripción de telefonía móvil la pobreza disminuirá. De igual manera, a medida que incrementa esta suscripción, el IDH aumentará en la región. El efecto positivo al desarrollo también se lo puede visualizar en países desarrollados.
+El uso de las TIC está siendo determinante no solo en el desarrollo de la economía y de la sociedad sino también en el crecimiento económico principalmente en los países de ingreso medio y bajo en mayor proporción que en los países desarrollados [11].
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+En el periodo comprendido entre el 2000-2014, en una investigación realizada [12] en los países de la región norte, sur y este del Mediterráneo acerca de la influencia del desarrollo tecnológico sobre el IDH demostraron que los países en desarrollo por ejemplo, Marruecos, Turquía y BosniaHerzegovina tienen un potencial de crecimiento más alto que los países desarrollados por sus bajos valores iniciales, disminuyendo así la brecha tecnológica. Esto evidenció que la inversión en tecnología esta estrechamente ligada al desarrollo humano. Por lo cual, al momento de realizar un estudio socioeconómico, se debe considerar las TIC debido a que su rápida propagación generará un mayor IDH en las sociedades con un nivel mínimo en este índice.
+Por otra parte, el capital humano, variable explicativa del IDH, hace referencia al potencial que posee una persona en su conocimiento, habilidades y salud, diferenciándolos del resto de la sociedad como miembros productivos de la misma [13]. Los beneficios que otorga un capital humano cualificado son superiores a los de una fuerza de trabajo ordinal, estos pueden ser a nivel individual y colectivo enfocandonos al crecimiento y desarrollo de un país [14]. Por tal razón, el índice de capital humano se enmarca dentro de un modelo de desarrollo endógeno, el cual depende de introducción tecnológica y de conocimientos como el tema central de los procesos de transformación de la economía y sociedad [15]. Este proceso se lo interpreta como el crecimiento y acumulación de capital de una localidad o territorio. Sobre todo, la teoría mencionada surge del pensamiento de cercimiento endógeno encabezada por Solow, en la cuál enfatizó que el éxito del desarrollo económico debe estar sujeto a una acumulación de capital humano introduciendo cambios tecnológicos que permitan nuevos factores de producción. Así, el desarrollo de un país incrementará si el capital humano también lo hace [16].
+Algo semejante, ocurre con la renta per cápita y su relación con el IDH. Un aumento del mismo, provocará que los países mejoren sus indicadores de salud, nutrición y educación [17]. Es por esto, que se trabaja con el PIB per cápital como variable control. De modo idéntico, se determinó que el efecto del crecimiento económico de un país es positivo al desarrollo, es decir mientras más alta sea su renta, el país podrá ofertar una mayor accesibilidad de servicios públicos e incrementar la probabilidad de que la población tenga una vida digna [18]. Así, al obtener más ingresos y tener un crecimiento de la economía se prevé cierta mejora en el nivel de vida de la población en el corto plazo.
+Al contrario, a mediano y largo plazo el crecimiento económico al ser exponencial genera un elevado impacto ambiental, lo cual produce un avance mínimo en el IDH. A diferencia, del significiativo efecto positivo que genera esta exapnsión en el desarrollo humano a corto plazo como resultado del mínimo impaco ambiental [19].
+Se debe destacar que la suscripción de telefonía móvil en las TIC dinamizan los procesos de innovación económica y desarrollo, aprovechando así, las oportunidades de la formación del capital humano [20].
+
+De esta manera, los resultados que se presentan en esta investigación son positivos para la industria de la telefonía móvil para su continua innovación y expansión en los países en vías de desarrollo por el efecto positivo que genera su suscripción en el IDH en comparación al efecto en los países desarrollados.
+El artículo está organizado en 4 secciones que incluye: 1) la descripción de datos; 2) la metodología; 3) resultados de las estimaciones y 4) las conclusiones. En consecuencia, el objetivo del presente estudio es analizar las relaciones entre el capital humano y la suscripción de telefonía móvil con el IDH considerando el PIB per cápita como variable control, a través de un modelo de datos de panel para 12 países de América Latina, y así determinar si: ¿El capital humano y la suscripción de telefonía móvil influyen de manera positiva en el IDH en América Latina? y ¿Existe alguna diferencia en las relaciones dependiendo si el país es de ingresos altos, medios o bajos?
+II. DESCRIPCIÓN DE DATOS
+
+La investigación, se desarrolla a partir de un modelo de panel de 12 países latinoamericanos en el período de 1996 al 2017 con información del Penn World Table, versión 9.1 (2021) donde se obtuvo los datos de capital humano y por otra parte, se utilizó la fuente del Banco Mundial (2021) del cual, se extrajo las variables suscripción de telefonía móvil, pib per cápita y el IDH. El fin de esta investigación es reflejar el efecto que tiene el capital humano y las suscripciones a la telefonía móvil como variable proxy de la tecnología en el IDH en la región. La descripción de los datos se los indica en la tabla1
+
+TABLA 1. DESCRIPCIÓN DE VARIABLES Y FUENTES DE DATOS
+
+Variable
+IDH (Índice de desarrollo humano)
+
+Definición
+
+El IDH, engloba el
+
+enfoque
+
+de
+
+capacidades
+
+de
+
+Amartya Sen con el
+
+fin de comprender el
+
+bienestar humano
+
+como un nivel de vida
+
+adecuada.[21]
+
+Fuente [22]
+
+Basado en años de
+
+escolaridad
+
+y
+
+rendimiento de la
+
+educación.
+
+Se
+
+Índice de identifica como la
+
+capital
+
+educación formal, la
+
+[24]
+
+humano
+
+experiencia laboral e
+
+inclusive
+
+hace
+
+referencia a la
+
+condición de salud del
+
+individuo.[23].
+
+Suscripciones
+
+a
+
+Suscripciones a la telefonía móvil (por cada 100 personas)
+
+telefonía
+
+celular
+
+móvil a un servicio
+
+público de telefononía
+
+móvil que brindan
+
+acceso a a PSTN
+
+usando tecnología
+
+[26]
+
+celular.[25].
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+Se obtiene diviendo el
+
+PIB entre el número
+
+PIB
+
+per de habitantes. Permite
+
+cápita
+
+comparar el bienestar
+
+[26]
+
+de los habitantes en
+
+diferentes países.[22].
+
+Fuente y elaboración. Autores con datos del Penn World Table y World Economic Forum y Banco Mundial, 2021.
+
+Para poder analizar el impacto de las variables en el IDH, en esta investigación se utiliza información de durante el período 1996-2017; los cuales serán analizados en función de sus niveles de ingresos (bajos, medios y altos)
+En la figura 1, 2, y 3 se observa la evolución en el tiempo de análisis del IDH en función del capital humano, la suscripción de telefonía móvil (variable que se considerará como tecnología) y con la variable control, el PIB per cápita. A grosso modo, existe una correlación positiva del IDH con el capital humano, Además, se observa esta misma relación con el PIB per cápita. Cabe destacar, el comportamiento cuadrático con la suscripción de telefonía móvil.
+
+Figura 3. IDH y Pib per Cápita en los países latinoamericanos. Fuente y elaboración. Autores con datos del Pen World Table y World Economic Forum y Banco Mundial 2021.
+
+TABLA 2. DESCRIPTIVOS DEL IDH, CAPITAL HUMANO Y SUSCRIPCIÓN DE TEELEFONÍA MÓVIL.
+
+Países
+
+por nivel de
+
+IDH
+
+ingresos
+
+Índice de Suscripción de capital telefonía móvil humano (log)
+
+Pib per cápita(log)
+
+Bajos
+
+0.64
+
+2.34
+
+(0.56) (0.35)
+
+14.44 (2.20)
+
+7.67 (0.45)
+
+Medios
+
+0.73
+
+2.52
+
+(0.05) (0.28)
+
+16.57 (1.86)
+
+8.85 (0.36)
+
+Altos
+
+0.72
+
+2.68
+
+(0.09) (0.18)
+
+15.35 (2.06)
+
+9.16 (0.27)
+
+Total
+
+0.70
+
+2.50
+
+(0.08) (0.31)
+
+15.30 (2.32)
+
+8.55 (0.74)
+
+() Representa la desviación estándar en cada grupo.
+
+Fuente y elaboración. Autores con datos del Pen World Table y World
+
+Economic Forum y Banco Mundial, 2021.
+
+Figura 1. IDH y Capital Humano en los países latinoamericanos. Fuente y elaboración. Autores con datos del Pen World Table y World Economic Forum y Banco Mundial 2021.
+Figura 2. IDH y suscripción de telefonía móvil en los países latinoamericanos. Fuente y elaboración. Autores con datos del Pen World Table World Economic Forum y Banco Mundial 2021.
+
+Respecto a la tabla 2, se observa una diferencia significativa del IDH entre los distintos países de ingresos altos y medios con respecto a los países de ingresos bajos. En cambio, no existe una diferencia notable entre los países de ingresos altos y medios. Se debe destacar, que en el caso del Índice de Capital Humano y el Pib per cápita los países de ingresos altos tienen una diferencia notoria en comparación a los dos grupos. No obstante, la suscripción de telefonía móvil es mayor en los países de ingresos medios en relación a los otros dos grupos.
+III. METODOLOGÍA Y RESULTADOS
+A. Metodología
+Con el fin de lograr identificar la relación entre las variables y con los datos seleccionados en la sección II, la metodología que se implementó es de datos panel construido con datos de corte transversal (12 países latinoamericanos) y de temporalidad (período 1996-2019). El modelo se realizó, en función, de la variable dependiente (IDH), de las variables independientes (capital humano, tecnología) y de la variable control (PIB per cápita).
+B. Estructura del modelo
+Las estimaciones de la regresión tienen la siguiente estructura:
+
+IDH = β + β CH + β Tec + β
+
++ μ (1)
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+Donde: IDH representa la variable del Índice de Desarrollo
+
+Humano en cada período de tiempo (i) y en cada país (j); ,
+
+corresponde a la variable de Capital Humano en cada uno de los
+
+países de Latinoamérica; al igual que
+
+, perteneciente a la
+
+variable de tecnología (suscripción de telefonía móvil); y
+
+referida al PIB per cápita. Asimismo, respecto a los
+
+coeficientes corresponde al término independientemente;
+
+mientras que, , y son los coeficientes de las variables independientes, respectivamente. El término de error se
+
+representa por .
+
+C. Modelo de panel de efectos fijos
+
+Para determinar el modelo que se de usar par datos de panel entre efectos aleatorios y fijos, se realizó la prueba de Hausman [27], dando como resultado un modelo de panel de efectos fijos en los tres grupos de países.
+
+C. Identificación de errores: heterocedasticidad, correlación temporal y autocorrelación.
+
+Primeramente, para realizar la modelación de datos de panel y que no existan valores atípicos, se debe verificar que los datos se encuentren balanceados, es decir que no se presenten años con datos incompletos que puedan alterar los resultados. Asimismo, se tuvo que identificar si existe heterocedasticidad, correlación temporal o autocorrelación en el modelo.
+
+TABLA 3. COEFICIENTES PRUEBAS DE ERRORES
+
+Heterocedasticidad
+
+[E1] Bajos 0,000
+
+[E2] Medios 0,000
+
+[E3] Altos 0,000
+
+Correlacion temporal
+
+0,000
+
+0,000
+
+0,000
+
+Autocorrelacion
+
+0,000
+
+0,000
+
+0,000
+
+Elaboración: Autores
+Al realizar la estimación de estos errores como se muestra en la tabla 3, los coeficientes son menores a 0,05 y se acepta la hipótesis nula. Por lo cual, se encontró heterocedasticidad correlación temporal y autcorrelacion de primer orden AR (1).
+D. Método de Prais-Winsten
+Para llevar a cabo la corrección del modelo con residuos de la forma AR (1), se procedió a realizar la regresión de PraisWinsten para mediciones correlaciones en el tiempo [28]. Este método es de regresión lineal en el que las variables son dependientes del tiempo [29]. Por lo cual, las estimaciones se realizaron a través de este método.
+E. Resultados
+Las estimaciones [E1-E4] de modelo de datos panel de la tabla 4, muestran la relación positiva que gráficamente se había
+
+calculado entre el capital humano y el IDH en los tres grupos de países siendo en los países de ingresos altos mayor el coeficiente ante un aumento del 1% en el capital humano el IDH se incrementará en 37,43%. En cambio, los países de ingresos medio y bajo tendrán un aumento de 9,35% y 8,94% respectivamente. En cuanto a la variable de tecnología, suscripción de telefonía móvil tienen una relación positiva. Si bien, esta variable aumenta en 1% en los países medios y bajos, el IDH aumentará en 0.4% y un 0.35% respectivamente. Por el contrario, presenta una relación negativa con los países de ingresos altos a corto plazo, si la variable de tecnología aumenta en 1%, el IDH disminuirá en 12,53%. Por otro lado, a nivel regional el efecto es positivo, si el índice de capital humano y la suscripción de telefonía móvil aumenta en 1%, el IDH aumentará en 12,09% y 0,27% respectivamente. La variable control, PIB per cápita es significativa en todos los países y de la misma manera a nivel regional.
+
+TABLA 4. ESTIMACIONES DEL PIB POR GRUPOS DE PAÍSES (SEGÚN INGRESOS)
+
+[E1]
+
+[E2]
+
+[E3]
+
+[E4]
+
+Bajos
+
+Medios
+
+Altos
+
+Total
+
+Índice Capital Humano
+
+0.0894*** (0.1455)
+
+0.0935*** (0.1510)
+
+0.3743*** (0.0285)
+
+0.1209*** (0.0101)
+
+Suscripc
+
+ión de
+
+0.0041*** 0.0035** -0.1253*** 0.0027***
+
+telefonía (0.0007)
+
+(0.0017)
+
+(0.0024)
+
+(0.0006)
+
+móvil.
+
+Pib per 0.0600*** 0.0575*** 0.0436**
+
+0.0464***
+
+cápita
+
+(0.0118)
+
+(0.0135)
+
+(0.0216)
+
+(0.0046)
+
+_cons
+
+-0.0890 (0.0737)
+
+-0.0722 (0.1100)
+
+21.1611*** (0.4144)
+
+-0.0435*** (0.0348)
+
+()errores estándar robustos. ***, ** y * expresan la significancia estadística al
+
+1%, 5% y 10%, respectivamente.
+
+Fuente y elaboración. Autores con datos del Pen World Table y World
+
+Economic Forum y Banco Mundial, 2021.
+
+IV. DISCUSIÓN DE RESULTADOS
+Los resultados de la regresión no fueron los esperados en los países de ingresos altos, pues la telefonia no está relacionada directamente con la calidad de vida la largo plazo. El efecto del incremento de las suscripciones de telefonía móvil en este grupo tiene una incidencia inversa en el IDH, discrepando con la teoría. Varios autores [30, 31] concuerdan que, el impacto de la telefonía móvil es menor en países desarrollados en relación a países en vías de desarrollo donde la infraestructura no es utilizada de manera eficiente. Asimismo, esto se puede dar por la relación existente entre la variable telefonía y la de obesidad [32] (no es objeto de estudio de esta investigación).
+Por el contrario, los resultados para los países de ingresos medios y bajos concuerdan con la teoría, que en los países en vías de desarrollo este efecto de la tecnología en el IDH se cumple siendo positivo. Las estimaciones presentadas concuerdan con los trabajos de Castells, Fernández & Galperín (2011) y Mohamed & et (2017) en los cuales, el uso de tecnologías, capital humano y otras variables influyen de
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+manera positiva en mejorar la calidad de vida de la población con mayor énfasis en países de renta media y baja.
+V. CONCLUSIONES
+La metodología utilizada permite comprobar el objetivo de analizar el impacto del capital humano y la tecnología en el IDH.
+Los resultados de la presente investigación, muestran que la contribución de un incremento de la suscripción de la telefonía móvil al IDH influye de manera positiva en los países de ingresos medios y bajos. Sin embargo, en los países de renta alta, la relación es negativa siendo menor el efecto en el IDH. El objetivo planteado en el presente documento, se contrasta con un estudio realizado acerca de las comunicaciones móviles y el desarrollo económico, donde se determina la mayor contribución que tiene el aumento de telefonía móvil en América Latina en relación a la OCDE [11]. Haciendo así, una referencia a países con ingresos elevados y bajos.
+Finalmente como recomendación de política, ya que la mayoría de indicadores de calidad de vida como el IDH se basan en indicadores de ingreso, salud y educación, el fortalecimiento de las opciones de acceso a tecnología o de incremento de capital humano, son una buena estrategia para incrementar la calidad de vida, por lo cual variaciones en las medidas impositivas o incluso subvenciones, pueden ser una buena opción de política de incentivos
+AGRADECIMIENTOS
+Agradecimiento al Departamento de Economía de la Universidad Técnica Particular de Loja quién brinda los recursos para realizar investigación
+REFERENCIAS BIBLIOGRÁFICAS
+[1] Rouvinen, P. (2006). Diffusion of digital mobile telephony: Are developing countries different? Telecommunications Policy, 30(1), 4663.
+[2] Abella, C. L. (2010). Amartya Sen y el desarrollo humano. Memorias, 8(13), 277-288.
+[3] Rodas, P. (2000). “La medición del desarrollo humano: una tarea interminable y polémica” [en línea], disponible en: http://www.eclac.cl/deype/mecovi/docs/TALLER5/27.pdf, recupe-rado: 12 de noviembre de 2009.
+[4] Sen, A. (1998). Bienestar, justicia y mercado, Barce-lona, Ediciones Paidós Ibérica.— (2000).
+[5] Graells, P. M. (2000). Las TIC y sus aportaciones a la sociedad. Departamento de pedagogía aplicada, facultad
+[6] Rico, L. A. G., & Vilchis, J. V. (2009). Tecnologías de la Información y la Comunicación [TIC] desde el concepto de" calidad de vida". Convergencia. Revista de Ciencias Sociales, 16, 207-224
+[7] Jagun, A., Heeks, R., & Whalley, J. (2008). The impact of mobile telephony on developing country micro-enterprise: A Nigerian case study. Information Technologies & International Development, 4(4), pp47.
+[8] Desarrollo y libertad, Barcelona, Edicio-nes Planeta.
+
+[9] Cecchini, S. (2005). Oportunidades digitales, equidad y pobreza en América Latina:¿ Qué podemos aprender de la evidencia empírica?. CEPAL.
+[10] Fernández-Ardévol, M.(s.f). Las comunicaciones móviles y el desarrollo socioeconómico: Una perspectiva latinoamericana. Crónica ONU.
+[11] Mohamed, M., Pérez, M., Montero, M., Mohamed, M., & Miragaya, C. (2017). La influencia de las Tecnologías de la Información y la Comunicación (TIC) en el Desarrollo Humano de los países de la cuenca del Mediterráneo.
+[12] Abarzúa, I. N.(2005). Capital Humano: Su Definicion y Alcances en el Desarrollo Local y Regional. Archivos Analíticos de Políticas Educativas, 13(35).
+[13] Perez, D. I., & Castillo, J. L. (2016). Capital humano, teorías y métodos: importancia de la variable salud. Colombia.
+[14] Vásquez-Barquero, A. (2000). Desarrollo endógeno y globalización. Santiago.
+
+[15] Barquero, A. V. (2007). Desarrollo endógeno. Teorías y políticas de
+
+desarrollo territorial. Investigaciones Regionales.
+
+[16] Ray, D. (1998). Development Economics. Princeton: Princeton
+
+University Press.
+
+[17] Pellón, S. (2016). Renta y Riqueza en España entre 1850 y 2000.
+
+[18] Unieversidad de Valladolid. (s.f.). A más crecimiento económico, mayor
+
+desarrollo humano.
+
+[19] Zegarra, J. (2007). El Uso de la Telefonía Móvil en las Estrategias de
+
+Negocios Empleadas por Micro Productores y Comerciantes de la Feria
+
+16 de Julio de la Ciudad de el Alto.
+
+[20] Díaz, V.; Yañez, A.; Ponce, C. Villegas, R & Pastén J.(2006): Tendencia
+
+de la mortalidad por tumores cerebrales malignos en Chile. Análisis de
+
+tasas.
+
+[21] Stanton, E. (2007): The Human Development Index: A History.
+
+[22] DatosMacro(2019). Indicadores: https://datosmacro.expansion.com/idh
+
+[23] Bañuls, A.; Ramón, A. & Sevilla Martín (2007): El Capital Humano como
+
+factor estratégico para la competitividad del sector turístico.
+
+[24] Penn World Table(2019): https://www.rug.nl/ggdc/productivity/pwt/pwt-
+
+releases/pwt9.1?lang=en
+
+[25] IndexMundi
+
+(2016).
+
+Indicadores:
+
+https://www.indexmundi.com/es/datos/indicadores/IT.CEL.SETS.P2
+
+[26] Banco Mundial(2019). Indicadores:
+
+https://datos.bancomundial.org/indicator/IT.CEL.SETS.P2
+
+[27] Montero, R. (2005). Universidad de Granda: Test de Hausman.
+
+[28] De Lira, A.(2011): Modelos de regresión lineal con problemas de
+
+autocorrelación.
+
+[29] Pérez, M.; Leistikow, B. & Montes, A. (2009): El cáncer de pulmón como
+
+marcador de tabaquismo: relación con la mortalidad por cáncer no
+
+pulmonar.
+
+[30] Waverman, L.; Meschi, M. & Fuss, M. (2005): The impact of telecoms
+
+on economic growth in developing countries.
+
+[31] Datta, A.; Agarwal, S. (2004): Telecommunications and economic
+
+growth: a panel data approach, Applied Economics, 36,15: 1649-1654.
+
+[32] Ruiz, R. D., & Castañeda, M. A. (2016). Relación entre uso de las nuevas
+
+tecnologías y sobrepeso infantil, como problema de salud pública. RqR
+
+Enfermería Comunitaria, 4(1), 46-51.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal
+ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

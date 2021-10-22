@@ -1,0 +1,958 @@
+Gasto en I+D, PIB y su impacto en la Huella Ecológica en Sudamérica y MENA
+Expenditure on R&D, GDP and its impact on the Ecological footprint in South America
+
+Torres-González Génesis-Carolina; Torres-Díaz Viviana; Ochoa-Moreno Wilman-Santiago
+Equipo de Investigación del Departamento de Economía
+
+Universidad Técnica Particular de Loja Loja, Ecuador
+gctorres7@utpl.edu.ec;vctorres@utpl.edu.ec; wsochoa@utpl.edu.ec
+
+Resumen — La inversión en I+D generan varias interacciones en la sociedad y su calidad de vida y por ende con el medio ambiente. Sin embargo, los procesos productivos y el incremento de la población hacen que la necesidad de recursos incremente con el tiempo. La presente investigación, tiene como objetivo analizar la relación existente entre el Gasto en I+D, el producto interno bruto y la huella ecológica en Sudamérica, utilizando una metodología panel que facilitará el análisis transversal y en series de tiempo. Los resultados muestran que existe una relación directa entre el PIB y la Huella Ecológica que tienen los países, sin embargo, la relación con el gasto en I+D es inversa, lo que resalta su importancia y la aplicación de política pública adecuada que preserve los recursos naturales o en su defecto permitan aprovecharlos de manera más sostenible mediante la promoción de tecnologías más limpias.
+Palabras Clave -. tecnologías; información; conocimiento; desarrollo sostenible; medio ambiente
+Abstract — Investment in R&D generates several interactions in society and its quality of life and therefore with the environment. However, production processes and population growth mean that the need for resources increases over time. This research aims to analyze the relationship between R&D expenditure, gross domestic product and ecological footprint in South America, using a panel methodology that will facilitate cross-cutting analysis and time series. The results show that there is a direct relationship between GDP and the Ecological Footprint that countries have, however, the relationship with R&D spending is inverse, highlighting their importance and the implementation of appropriate public policy that preserves natural resources or, if not, allows them to be exploited more sustainably by promoting cleaner technologies.
+Keywords - technologies, information, knowledge, sustainable development, environment.
+
+I. INTRODUCCIÓN
+En la medida que crecen las economías se ha desatado una creciente demanda sobre los recursos naturales, que en parte han llevado a plantear los objetivos de desarrollo sostenible para contrarrestar los impactos del cambio climático [1][18]. Ya en 2017, los datos de la Organización de las Naciones Unidas para la Agricultura y la Alimentación [FAO] muestran que las emisiones mundiales totales de gases de efecto invernadero [GEI] de todos los sectores económicos ascendieron a 51 mil millones de toneladas de CO2eq año-11 lo que deja en evidencia de que las presiones sobre el medio ambiente incrementan a medida que los ingresos económicos de los países se elevan [6].
+La relación descrita anteriormente se fundamenta en la hipótesis de la curva ambiental de Kuznets (EKC) que afirma que existe una relación a largo plazo en forma de U invertida entre la degradación ambiental y el crecimiento económico, lo que implica que el deterioro ambiental será una función creciente del nivel de actividad económica hasta lograr un umbral determinado de renta, donde el incremento de esta generaría una mejor calidad ambiental [8].
+La medida más empleada en el análisis de degradación ambiental es las emisiones de CO2, pero esta variable solo mide la contaminación en el aire y no sobre otros recursos que también corren riesgo de agotarse como los bosques, el petróleo o los minerales [3] [5]. Ante ello, una alternativa para englobar los efectos sobre otros recursos es el indicador de huella ecológica, que mide la demanda sobre los recursos disponibles, en hectáreas globales 2 , necesarios para satisfacer las necesidades de una población determinada considerando las superficies de tierras de cultivo, tierras de pastoreo, bosques, suelos necesarios para la absorción de carbono, superficie destinada para actividades de pesca y para infraestructura [15].
+
+1 Equivalente de dióxido de carbono al año.
+
+2 Son hectáreas normales pero estandarizada a la media de productividad mundial.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Entre algunos de los trabajos que analizan la curva de Kuznets se puede señalar el de [13] que empleando la huella ecológica como proxi de degradación ambiental, encuentra que se cumple la hipótesis de la EKC para los países de la Unión Europea, en el periodo 1980 – 2013. De manera similar, para 15 países de Medio Oriente y África del Norte [MENA] [11] determinan que en las submuestras para países exportadores de petróleo hay la relación de forma de U invertida entre el PIB per cápita real y la huella ecológica, empleando datos entre 1975 – 2007.
+En lo que respecta a la influencia de la tecnología sobre la EKC [10] menciona que dada la relación dinámica entre el ingreso per cápita y la calidad ambiental se espera en las primeras fases del crecimiento haya un deterioro del capital natural a causa de la intensificación de la agricultura y la explotación de recursos naturales; sin embargo, tras un cambio en la composición de la producción que impulsa los sectores industriales y de servicios se lograría desarrollar tecnologías eficientes y más limpias, lo que revertiría el deterioro ambiental cumpliendo las etapas de escala composición y tecnología como también lo sostiene [14].
+Introduciendo el efecto de la tecnología sobre la calidad ambiental y especialmente sobre la huella ecológica la evidencia empírica es limitada. De este modo, se destaca el trabajo de [16], realizado en los sectores más contaminados de 25 países de la UE en el periodo 1997 – 2005, valida un efecto de reducción en las emisiones de CO2 a medida que incrementa el Gasto en I+D. En este sentido también está el aporte de [12], que revela que los resultados de cointegración de un panel de 22 economías emergentes para los años de 1984 a 2016, confirman que a largo plazo la huella ecológica incrementa a causa del crecimiento económico, pero también que las innovaciones tecnológicas, examinadas mediante la proxy de solicitudes de patentes, la reducen significativamente.
+También cabe mencionar la contribución de [4] que investigaron los efectos de las innovaciones tecnológicas en las emisiones de CO2 para 28 países de la OCDE durante el período 1990-2014, demostrando que la relación inversa entre innovación tecnológica y emisiones de CO2. No obstante, el estudio rechazó la hipótesis EKC para las economías de la OCDE en el periodo en cuestión. En cambio, los resultados de [17] que indagan la interacción entre innovación, consumo de energía renovable y emisiones de CO2 para las economías BRICS de 1980 a 2016, demuestran que las actividades de innovación no han logrado interrumpir las emisiones de CO2 en China, India, Rusia y Sudáfrica, exceptuando a Brasil, pero se cumple la existencia de la hipótesis EKC en todas las economías BRICS, excluidas India y Sudáfrica.
+Por último, en Sudamérica [11] estudia la interrelación entre el consumo de electricidad, el PIB y las emisiones de CO2, comprobando que a corto plazo en la región la contaminación tiene relación con el crecimiento económico y la electricidad proveniente de fuentes fósiles, así como también que las energías renovables ayudan a reducir las emisiones de CO2 a
+
+largo plazo, lo que sin duda está en correspondencia con la EKC.
+El presente estudio abarca dos grupos de países de las regiones de América del Sur y Medio Oriente y África del Norte [MENA, por sus siglas en inglés], debido a que el debate en la literatura sobre degradación ambiental, crecimiento económico e innovación tecnológica hace referencia a la importancia del contexto de las economías en desarrollo como es el caso de los países de esta región. Además, la variedad de recursos como suelos fértiles, fuentes de energía y otros productos básicos susceptibles de impulsar el crecimiento de las exportaciones son características que junto a un correcto desarrollo de tecnologías podrían llevar a estas economías a cumplir la hipótesis de EKC en todas sus etapas. El objetivo de la presente investigación es analizar como el gasto en investigación y desarrollo influyen en la huella ecológica de los países sudamericanos y de MENA en el marco de la EKC evaluando el crecimiento económico mediante la variable PIB.
+
+II. DESCRIPCIÓN DE DATOS
+Para el objetivo de analizar el impacto del Gasto en I+D en la huella ecológica en esta investigación se utiliza información de 8 países de Sudamérica y 10 de MENA, en el periodo 20002017, con los datos obtenidos de la Red Global de la Huella Ecológica [7] y el Banco Mundial [2]. Por lo que para conocer la calidad ambiental se emplea la variable de Huella Ecológica (en billones hectáreas globales), para interpretar el efecto de la innovación tecnológica se ocupa la variable Gasto en I+D (como % del PIB) y para evaluar el crecimiento económico el PIB (US$ a precios constantes de 2010).
+En las figuras 1 y 2, se observa la relación existente entre el la Huella ecológica, el Gasto en I+D y el PIB. En el primer caso la Huella Ecológica y el Gasto en I+D muestran una débil correlación que se identifica como negativa dados los datos de la matriz de correlación (Tabla 1), que demuestran que su coeficiente de correlación es de -0.06, en tanto que, para el segundo caso, la Huella Ecológica y el logaritmo del PIB tienen una correlación positiva moderada que se confirma con el coeficiente de correlación de 0.27, esto en el caso de las economías de la región de Sudamérica.
+Tabla 1. Matriz de Correlación países de Sudamérica
+
+Huella Ecológica
+LPIB
+Gasto I+D
+
+Huella Ecológica
+1.0000
+0.2724 -0.0608
+
+LPIB
+1.0000 0.8069
+
+Gasto I+D 1.0000
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+1000 800 600 400 200 0 0
+
+.5 Gasto I+D
+Huella Ecológica (hag) Fitted values
+
+1
+
+1.5
+
+Fitted values
+
+Figure 1. Huella Ecológica vs Gasto en I+D en Sudamérica.
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0 0
+
+1
+
+2
+
+3
+
+Gasto I+D
+
+Huella Ecológica (hag) Fitted values
+
+4
+
+5
+
+Fitted values
+
+Figure 3. Huella Ecológica vs Gasto en I+D en MENA
+
+1000 800 600 400 200 0 24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+LPIB
+
+Huella Ecológica (hag) Fitted values
+
+Fitted values
+
+Figure 2. Huella Ecológica vs LPIB en Sudamérica
+
+Para las economías de Medio Oriente y África del Norte la matriz de correlación (Tabla 2), demuestra que la Huella Ecológica y el Gasto en I+D tiene una débil correlación opuesta a la correlación positiva moderada que presenta la Huella Ecológica y el PIB. Al examinar la figura 3 la concentración de los datos en dos extremos denota la divergencia entre los países de la región en lo que respecta a Gasto en I+D, que difiere notablemente a la figura 4 correspondiente a la correlación con el PIB.
+Tabla 2. Matriz de Correlación países de MENA
+
+Huella Ecológica
+LPIB
+Gasto I+D
+
+Huella Ecológica
+1.0000
+0.1843 0.0160
+
+LPIB
+1.0000 0.1793
+
+Gasto I+D 1.0000
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0 23
+
+24
+
+25
+
+LPIB
+
+Huella Ecológica (hag) Fitted values
+
+26
+
+27
+
+Fitted values
+
+Figure 4. Huella Ecológica vs LPIB en MENA
+
+Por otro lado, la evolución del promedio de ambos grupos para la Huella Ecológica se muestra en la figura 5 y determina que, en el inicio del periodo analizado, año 2000 el promedio en ambas regiones era similar, con una diferencia de 6 billones de hag, en el caso de Sudamérica era de 383 billones de hag, en tanto que la de MENA era de 377 billones de hag. Esta brecha al final del periodo, año 2017, llega a ser de 55 billones de hag, con una HE que en Sudamérica casi llega a los 400 billones de hag y que en los países de MENA se acerca a las 340 hag.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+600
+
+500
+
+400
+
+300
+
+200 2000
+
+2005
+
+2010 Años
+
+HE - Sudamérica
+
+2015 HE - MENA
+
+2020
+
+Figure 5. Evolución del promedio de la Huella Ecológica por región (2000 - 2017)
+
+Para el análisis de la evolución del Gasto en I+D para el promedio de ambos grupos, la figura 6 indica que el grupo de los países de la región MENA ha tenido superioridad en este indicador a lo largo del tiempo, pese a que la tendencia es creciente, la diferencia al 2017 entre los países de MENA y los de Sudamérica es de 0.33 puntos porcentuales, donde el promedio de Sudamérica llega a 0.44% y el de MENA al 0.78%.
+.8
+
+.7
+
+.6
+
+.5
+
+.4
+
+.3 2000
+
+2005
+
+2010
+
+Años
+
+Gasto en I+D - Sudamérica
+
+2015
+
+2020
+
+Gasto en I+D MENA
+
+Figure 6. Evolución del promedio del Gasto en I+D por región (2000 - 2017)
+
+Del análisis de estas dos últimas gráficas, se menciona que para un análisis desagregado por país del comportamiento de cada variable a lo largo del tiempo se puede remitir a las figuras adjuntas en Anexos, de la 9 a la 14, que demuestra de manera individual las tendencias de las variables a lo largo del tiempo.
+
+III. METODOLOGÍA Y RESULTADOS
+A. Metodología
+En esta investigación se pretende tener un análisis más complejo por ende se utiliza la metodología de datos panel, la cual nos permitirá observar el comportamiento de las variables a través de los individuos en un corte transversal y de temporalidad (periodo 2000-2017). El primer grupo de 8 países de Sudamérica no considera a Bolivia, Guyana Francesa,
+
+Guyana, Surinam y Uruguay; en tanto que en el segundo grupo de 10 países de MENA se omite a Bahréin, Djibouti, Jordania, Líbano, Libia, Marruecos, Qatar, Siria, Emiratos Árabes Unidos y Yemen, esto por escasez de datos especialmente para la variable de Gasto en I+D. Las estimaciones acordes con el modelo panel sugieren que las diferencias entre los países existentes son constantes, para el caso de las variables independientes como Gasto en I+D y PIB se establece la siguiente estructura:
+
+‫ݕ‬௝(௜௧) = ߙை + ߚଵܺ௞(௜௧) + +ߤ௜௧
+
+(1)
+
+dónde ‫ݕ‬௝(௜௧) representa la variable dependiente considerada para el análisis (j= Huella Ecológica, en millones de hectáreas globales) en cada país (i), en el año (t); ܺ௞(௜௧) representan cada una de las variables independientes (k= Gasto en I+D, PIB) y, ߤ௜௧, representan el término de error.
+
+B. Resultados
+Las estimaciones de la Tabla 3 muestran la relación entre la huella ecológica, el Gasto en I+D y el PIB. La significancia estadística se aprueba para las dos variables explicativas y la constante. Y la relación de los signos se encuentra acorde a la teoría donde se espera que un incremento en el Gasto en I+D reduzca la HE; en tanto que, ante el incremento del PIB en las economías sudamericanas, que aún se encuentran en la etapa escalada de la EKC, la HE incrementará.
+
+Tabla 3. Estimación del modelo panel con efectos aleatorios, en grupo de países de Sudamérica
+
+Variable GASTO EN I+D LPIB Cons
+
+y1
+-443.66 (185.17) 178.13 (47.15) -4059.46 (1139.87)
+
+t -2.40 3.78 3.56
+
+Prob | t | 0.017** 0.000*** 0.000***
+
+y1= Huella Ecológica. () errores estándar robustos. ***, ** y * expresan la significancia estadística al 1%, 5% y 10%, respectivamente.
+
+Para el grupo de países de MENA las estimaciones de la Tabla 4 también reflejan significancia estadística para las dos variables explicativas y la constante. Además de que la relación estadística denota que se espera que ante un incremento en el Gasto en I+D, la HE se reduzca en menor medida que en el primer grupo; y en lo correspondiente al PIB la estimación es muy similar a las economías sudamericanas.
+Tabla 4. Estimación del modelo panel con efectos fijos, en grupo de países de MENA
+
+Variable GASTO EN I+D LPIB Cons
+
+y1
+-166.07 (90.38) 172.43 (92.84) -3971.53 (2328.51)
+
+t -1.84 1.86 -1.71
+
+Prob | t | 0.069** 0.066** 0.091*
+
+y1= Huella Ecológica.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+() errores estándar robustos. ***, ** y * expresan la significancia estadística al 1%, 5% y 10%, respectivamente.
+
+En lo que concierne a estadísticos descriptivos la Tabla 5 refleja que la media de las tres variables para el grupo de 8 países de Sudamérica es en la HE cerca a los 425.77 billones de hectáreas globales; para el Gasto en I+D como % del PIB, es de 0.35%; y para el logaritmo del PIB el promedio se acerca a 26.05%.
+De manera semejante, la Tabla 6 de los 10 países de MENA, indica que la media de la HE llega a 295.27 billones de hectáreas globales; la del Gasto en I+D es de 0.91%; y la del PIB 25.47%.
+Comparando ambas tablas la media de la HE es más baja en los países de Medio Oriente y África del Norte por lo que se podría intuir que en el primer grupo la calidad ambiental está más deteriorada; la media del Gasto en I+D es muy superior en el segundo grupo; y el promedio del PIB es muy similar en ambos países.
+Tabla 5. Estadísticos descriptivos para países de Sudamérica
+
+Variable
+
+Obs Media Desviación Min Estándar
+144 425.7795 292.4705 3.05916
+
+Max 993.217
+
+HUELLA ECOLÓGICA
+144 0.353070 0.3314403 0.008176 1.34264
+
+GASTO EN I+D
+
+144 26.05822 1.240268 23.65942 28.51614
+
+LPIB
+
+Tabla 6. Estadísticos descriptivos para países de MENA
+
+Variable
+
+Obs Media Desviación Min Estándar
+180 295.27 231.205 2.22595
+
+HUELLA ECOLÓGICA
+128 0.914009 1.348269
+
+0.03435
+
+GASTO EN I+D
+
+180 25.47152 1.164538
+
+22.673
+
+LPIB
+
+Max 996.638 4.81602 27.2600
+
+Estas estadísticas proporcionan una visión de que tan consistentes son los datos, especialmente con la medida de desviación estándar que indica en promedio cuan alejados están los datos de la media aritmética, y la divergencia entre los países de cada grupo o región bajo la evaluación de los valores mínimos y máximos.
+IV. CONCLUSIONES
+Para este estudio se logra comprobar que en 8 países de Sudamérica y en 10 de MENA, la innovación tecnológica aportaría al desarrollo sostenible de la región, ya que una mayor inversión en investigación y desarrollo mejora el indicador de huella ecológica, similar al resultado que obtienen [4] [12] [16].
+
+Para ambos grupos de países, implementar políticas que prioricen el Gasto en investigación y desarrollo, que por definición recoge investigación básica, investigación aplicada y el desarrollo experimental fuertemente ligados a la educación superior – academia y empresas tecnológicas, puede dar paso a tecnologías más limpias que disminuyan la huella ecológica generada en sus territorios.
+
+El considerar a la huella ecológica como la variable que mide la calidad ambiental y especialmente en este trabajo que se relaciona con el papel de las innovaciones tecnológicas, aporta en el crecimiento de la literatura alternando el empleo de las emisiones de CO2, variable que no reflejan de manera íntegra el problema de la contaminación.
+
+En relación con la hipótesis de la EKC el efecto del PIB indica que las economías no logran concluir el proceso de explotación de sus recursos naturales que de paso a la etapa de composición y tecnología necesarias para asimilar los procesos industriales menos contaminantes sin que se detenga su crecimiento económico.
+
+Los coeficientes de las estimaciones correspondiente a la variable PIB para ambos grupos son similares, lo que presenta la noción de que bajo un análisis de ingresos ambas regiones tienen un comportamiento similar y podrían ubicarse en una misma clasificación.
+
+Como recomendación de política se puede destacar la importancia de disminuir los efectos en el medioambiente con la producción, mientras más inversión en I+D se puede disminuir la huella ecológica que necesita cada país. Para la producción (el PIB) va siendo momento de pensar en la sustentabilidad.
+
+Estimular el desarrollo de la investigación, tecnología y sistemas de información pueden mejorar la calidad ambiental, porque implementa estrategias y mecanismos que hacen uso eficiente de los recursos y la energía, pero es necesario lograr la transferencia de esos conocimientos (gestión del conocimiento) a los países en desarrollo aquí estudiados que de por sí destinan un exiguo Gasto en I+D.
+
+Además, el análisis que aquí se presenta, de la relación costo-beneficio entre impulsar las economías a costa de la salud ambiental, aporta como material informativo para la toma de decisiones, que deben apoyarse en herramientas como las variables aquí analizadas para evaluar las posibles implicaciones en la sociedad y el entorno.
+
+Para finalizar se visiona que una alternativa para futuros trabajos es examinar la cointegración a largo plazo de las series, así como también incluir variables que midan el grado de la acción gubernamental dentro de política.
+
+REFERENCIAS BIBLIOGRÁFICAS
+
+[1]
+
+A. Figueroa, “Crecimiento económico y medio ambiente,” 2013.
+
+Accessed: Feb. 17, 2021. [Online]. Available:
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+https://repositorio.cepal.org//handle/11362/11569.
+
+[2]
+
+Banco Mundial, “Indicadores del desarrollo mundial | Banco de
+
+Argentina
+
+Brasil
+
+Chile
+
+datos,” 2020. https://databank.bancomundial.org/source/world-
+
+1000
+
+development-indicators (accessed Feb. 18, 2021).
+
+500
+
+[3]
+
+C. O. Clugston, “Scarcity Humanity’s Final Chapter?,” 2012.
+
+[4]
+
+C. N. Mensah, X. Long, K. B. Boamah, I. A. Bediako, L. Dauda,
+
+0
+
+Huella Ecológica (hag)
+
+and M. Salman, “The effect of innovation on CO 2 emissions of
+
+Colombia
+
+Ecuador
+
+Paraguay
+
+OCED countries from 1990 to 2014,” Environ. Sci. Pollut. Res., vol.
+
+1000
+
+25, no. 29, pp. 29678–29698, 2018, doi: 10.1007/s11356-018-2968-
+
+500
+
+0.
+
+[5]
+
+D. I. Stern, “The Environmental Kuznets Curve: A Primer, CCEP
+
+0
+
+Working Paper 1404,” 2014. Accessed: Feb. 17, 2021. [Online].
+
+0
+
+.5
+
+1
+
+1.5
+
+Available:https://ageconsearch.umn.edu/record/249424/files/ccep14 04.pdf.
+
+1000
+
+Perú
+
+Venezuela
+
+[6]
+
+FAO, “ESS Website ESS : Emission Shares,” The Contribution of
+
+500
+
+Agriculture to Greenhouse Gas Emissions, 2020.
+
+http://www.fao.org/economic/ess/environment/data/emission-
+
+shares/en/ (accessed Feb. 17, 2021).
+
+[7]
+
+Global Footprint Network, “Open Data Platform,” Global Footprint
+
+0
+
+0
+
+.5
+
+Graphs by País
+
+1
+
+1.5 0
+
+.5
+
+1
+
+1.5
+
+Gasto I+D
+
+Network, 2020.
+
+https://data.footprintnetwork.org/?_ga=2.70799890.365272024.161 3695603-593693899.1610379866#/ (accessed Feb. 18, 2021).
+
+Figure 7. Huella Ecológica vs Gasto en I+D, por país en Sudamérica.
+
+[8]
+
+G. M. Grossman and A. B. Krueger, “Economic growth and the
+
+environment,” Q. J. Econ., vol. 110, no. 2, pp. 353–377, 1995, doi:
+
+Arabia Saudita
+
+Argelia
+
+Egipto, República Árabe de
+
+Iraq
+
+10.2307/2118443.
+
+1000
+
+[9]
+
+H. A. D. Hdom, “Examining carbon dioxide emissions, fossil &
+
+renewable electricity generation and economic growth: Evidence
+
+500
+
+Huella Ecológica (hag)
+
+from a panel of South American countries,” Renew. Energy, vol. 139, pp. 186–197, Aug. 2019, doi: 10.1016/j.renene.2019.02.062. [10] H. Catalán, “Curva ambiental de Kuznets: implicaciones para un
+
+0
+Irán, República Islámica del 1000
+
+Israel
+
+K uwai t
+
+Malta
+
+crecimiento sustentable,” Econ. Inf., vol. 389, pp. 19–37, Nov.
+
+2014, doi: 10.1016/s0185-0849(14)72172-3.
+
+500
+
+[11] L. Charfeddine and Z. Mrabet, “The impact of economic 0 development and social-political factors on ecological footprint: A
+
+0
+
+50
+
+5
+
+panel data analysis for 15 MENA countries,” Renewable and
+
+Omán
+
+Túnez
+
+Sustainable Energy Reviews, vol. 76. Elsevier Ltd, pp. 138–154,
+
+1000
+
+Sep. 01, 2017, doi: 10.1016/j.rser.2017.03.031. 500
+[12] M. Ahmad, P. Jiang, A. Majeed, M. Umar, Z. Khan, and S.
+
+Muhammad, “The dynamic impact of natural resources, technological innovations and economic growth on ecological footprint: An advanced panel data estimation,” Resour. Policy, vol. 69, p. 101817, Dec. 2020, doi: 10.1016/j.resourpol.2020.101817.
+
+0 0
+Graphs by País
+
+50
+
+5
+Gasto I+D
+
+[13] M. A. Destek, R. Ulucak, and E. Dogan, “Analyzing the environmental Kuznets curve for the EU countries: the role of
+
+Figure 8. Huella Ecológica vs Gasto en I+D, por país en MENA
+
+ecological footprint,” Environ. Sci. Pollut. Res., vol. 25, no. 29, pp.
+
+29387–29396, Oct. 2018, doi: 10.1007/s11356-018-2911-4.
+
+[14] M. I. Zilio, “The environmental Kuznets curve: The validity of its
+
+1000
+
+Argentina
+
+Brasil
+
+Chile
+
+foundations in developing countries,” Cuad. Econ., vol. 35, no. 97,
+
+pp. 43–54, Jan. 2012, doi: 10.1016/S0210-0266(12)70022-5.
+
+500
+
+Huella Ecológica (hag)
+
+[15] M. Wackernagel and W. Rees, “Our Ecological Footprint: Reducing Human Impact on the Earth,” New Society Publishers, (Vol. 9), 1998.
+[16] S. Auci and G. Trovato, “The environmental Kuznets curve within
+
+0 1000
+
+Colombia
+
+Ecuador
+
+Paraguay
+
+European countries and sectors: greenhouse emission, production
+
+500
+
+function and technology,” Econ. Polit., vol. 35, no. 3, pp. 895–915,
+
+0
+
+2018, doi: 10.1007/s40888-018-0101-y.
+
+24
+
+26
+
+28
+
+30
+
+[17] S. I. Khattak, M. Ahmad, Z. U. Khan, and A. Khan, “Exploring the impact of innovation, renewable energy consumption, and income
+
+1000
+
+Perú
+
+Venezuela
+
+on CO2 emissions: new evidence from the BRICS economies,”
+
+Environ. Sci. Pollut. Res., vol. 27, no. 12, pp. 13866–13881, 2020,
+
+500
+
+doi: 10.1007/s11356-020-07876-4.
+
+0
+
+[18] U. Nations, “70/1. Transforming our world: the 2030 Agenda for
+
+24
+
+26
+
+28
+
+30 24
+
+26
+
+28
+
+30
+
+Sustainable Development Transforming our world: the 2030
+
+LPIB
+
+Agenda for Sustainable Development Preamble,” 2015. [Online].
+
+Graphs by País
+
+Available: moz-extension://97e296d0-c854-4078-92585581b450abb3/enhanced-
+
+Figure 9. Huella Ecológica vs LPIB, por país en Sudamérica.
+
+reader.html?openApp&pdf=https%3A%2F%2Fwww.un.org%2Fen
+
+%2Fdevelopment%2Fdesa%2Fpopulation%2Fmigration%2Fgeneral
+
+assembly%2Fdocs%2Fglobalcompact%2FA_RES_70_1_E.pdf.
+
+ANEXOS:
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Huella Ecológica (hag)
+
+1000
+
+Arabia Saudita
+
+Argel ia
+
+Egipto, República Árabe de
+
+Iraq
+
+500
+
+0
+Irán, República Islámica del 1000
+
+Israel
+
+Kuwait
+
+Malta
+
+500
+
+0 1000
+
+Omán
+
+Túnez
+
+22
+
+24
+
+26
+
+28 22
+
+24
+
+26
+
+28
+
+500
+
+0
+
+22
+
+24
+
+26
+
+28 22
+
+24
+
+26
+
+28
+
+LPIB
+
+Graphs by País
+
+Figure 10. Evolución de la Huella Ecológica por país en MENA
+
+Huella Ecológica (hag)
+
+1000
+
+Argentina
+
+Brasil
+
+Chile
+
+500
+
+0 1000
+
+Colombia
+
+Ecuador
+
+Paraguay
+
+500
+
+0 1000
+
+Perú
+
+Venezuela
+
+2000 2005 2010 2015
+
+500
+
+0 2000 2005
+Graphs by País
+
+2010
+
+2015
+
+2000
+
+2005 2010
+Años
+
+2015
+
+Figure 11. Evolución de la Huella Ecológica por país en Sudamérica.
+
+Huella Ecológica (hag)
+
+1000
+
+Arabia Saudita
+
+Argel ia
+
+Egipto, República Árabe de
+
+Iraq
+
+500
+
+0
+Irán, República Islámica del 1000
+
+Israel
+
+Kuwait
+
+Malta
+
+500
+
+0 1000
+
+Omán
+
+Túnez
+
+2000 2005 2010 2015 2000 2005 2010 2015
+
+500
+
+0 2000 2005 2010 2015
+Graphs by País
+
+2000 2005 2010 2015
+Años
+
+Figure 12. Evolución de la Huella Ecológica por país en MENA
+
+Gasto I+D
+
+Argentina 1.5
+1 .5 0
+
+Brasil
+
+Chile
+
+Colombia 1.5
+1 .5 0
+
+Ecuador
+
+Paraguay
+
+2000 2005 2010 2015
+
+1.5 1 .5 0 2000
+
+Perú 2005 2010
+
+Graphs by País
+
+2015
+
+2000
+
+Venezuela
+2005 2010 2015
+Años
+
+Figure 13. Evolución de Gasto en I+D por país en Sudamérica.
+
+Gasto I+D
+
+Arabia Saudita 5 4 3 2 1 0
+
+Argelia
+
+Egipto, República Árabe de
+
+Iraq
+
+Irán, República Islámica del 5 4 3 2 1 0
+
+Israel
+
+Kuwait
+
+Malta
+
+2000 2005 2010 2015 2000 2005 2010 2015
+
+5 4 3 2 1 0
+2000
+
+Omán 2005 2010
+
+2015
+
+Graphs by País
+
+2000
+
+Túnez
+2005 2010 2015
+Años
+
+Figure 14.Evolución de Gasto en I+D por país en MENA
+
+LPIB
+
+Argentina 30 28 26 24
+
+Brasil
+
+Chile
+
+Colombia 30 28 26 24
+
+Ecuador
+
+Paraguay
+
+2000 2005 2010 2015
+
+Perú 30 28 26 24
+
+Venezuela
+
+2000 2005 Graphs by País
+
+2010
+
+2015
+
+2000
+
+2005 2010
+Años
+
+2015
+
+Figure 15. Evolución de Logaritmo de PIB por país en Sudamérica
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+LPIB
+
+Arabia Saudita 28
+
+Argelia
+
+Egipto, República Árabe de
+
+Iraq
+
+26
+
+24
+
+22
+Irán, República Islámica del 28
+
+Israel
+
+Kuwait
+
+Malta
+
+26
+
+24
+
+22
+Omán 28
+
+Túnez
+
+2000 2005 2010 2015 2000 2005 2010 2015
+
+26
+
+24
+
+22 2000 2005 2010 2015
+Graphs by País
+
+2000 2005 2010 2015
+Años
+
+Figure 16. Evolución de Logaritmo de PIB por país en MENA
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

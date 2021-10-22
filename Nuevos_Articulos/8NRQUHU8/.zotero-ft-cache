@@ -1,0 +1,435 @@
+Producción Agrícola y Contaminación Ambiental: Relación entre Emisiones agrícolas de Gas Metano, Producción Agrícola y Exportaciones de Servicios de TIC en América Latina
+Agricultural Production and Environmental Pollution: Relationship between Agricultural Methane Gas Emissions, Agricultural Production
+and Exports of ICT Services in Latin America
+
+Julio Reyes, jareyes8@utpl.edu.ec Departamento de Economía de la Universidad Técnica Particular de Loja
+Santiago Ochoa, wsochoa@utpl.edu.ec; Departamento de Economía de la Universidad Técnica Particular de Loja
+Resumen — Este artículo tiene por objetivo realizar una estimación de la Curva ambiental de Kuznets para un conjunto de 17 países pertenecientes a América Latina, en el periodo de 1970-2008, mediante la especificación de un modelo de datos panel, para evidenciar si existe realmente una Curva Ambiental de Kuznets en estos países. Los principales resultados muestran que, la relación entre las Emisiones Agrícolas de Gas Metano, la Producción Agrícola y las Exportaciones de Servicios de TIC, pueden describir una curva en forma de U invertida, indicando que la Producción Agrícola y las Exportaciones de Servicios de Tics juegan un papel importante en aumentar los impactos del crecimiento en el deterioro ambiental.
+Palabras Clave - Kuznets; CH4; PIB Agrícola; TIC; medio ambiente.
+Abstract — The objective of this article is to estimate the environmental Kuznets Curve for a group of 17 countries belonging to Latin America, in the period 1970-2008, by specifying a panel data model, to show whether there really is a Curve Kuznets environmental in these countries. The main results show that the relationship between Agricultural Emissions of Methane Gas, Agricultural Production and Exports of ICT Services, can describe an inverted U-shaped curve, indicating that Agricultural Production and Exports of ICT Services play an important role in increasing the impacts of growth on environmental degradation.
+Keywords - Kuznets; CH4; Agricultural GDP; TIC; environment.
+INTRODUCCIÓN
+Actualmente la protección del medio ambiente es un tema primordial que genera preocupación en todas las elites sociales, catalogado como un tema de relevancia en las decisiones políticas de los países, por estar directamente
+
+relacionado con la afectación del ser [1]. A partir de un punto de vista teórico, a medida que crecen las economías, cada vez se preocupan más por el estado del medio ambiente y asimismo con la preservación de los recursos naturales [2]. A nivel mundial en las últimas décadas se ha hablado de un desarrollo económico, que no conlleva únicamente beneficios, sino consecuencias como fuertes impactos ambientales producto de la utilización de los factores de producción [3]. “La contaminación sigue siendo un problema enorme que amenaza con agravarse como resultado del aumento del consumo, los niveles de vida y la población” [4].
+En las últimas décadas, la contaminación ha ido incrementando, por lo general, el aire del exterior suele estar contaminado con monóxido de carbono, plomo, ozono, material particulado, dióxido de nitrógeno, dióxido de sulfuro, benceno, butadieno y humo de motores diésel. En sí, se trata de contaminación de diversas fuentes [5], provocando así problemas en el medio ambiente y en la condición de la salud y el bienestar de los seres humanos y de los otros organismos [6], lo que a futuro generaría también problemas dentro de la economía, ya que dicha contaminación afecta el bienestar del capital humano, aumentando el riesgo de que una persona contraiga una enfermedad [7], además de la calidad y cantidad de los recursos naturales que se emplean para satisfacer a los seres humanos.
+Desde un punto de vista económico, el medio ambiente y los recursos naturales que este ofrece, tienen cuatro destinos: el primero es proveer insumos directo al sistema productivo; el segundo es actuar como un sumidero para aquellos residuos que provienen de la producción y consumo; en tercer lugar, formar parte del soporte de vida y, por último, suministrar un servicio ameno para el esparcimiento y placer [8]. La actividad económica siempre se ha visto como un proceso que genera una gran demanda de activos ambientales y recursos naturales, debido a esto la producción de bienes y servicios perjudican la calidad del medio ambiente [9].
+Al hablar de los debates actuales acerca de la crisis ambiental se puede incluir la racionalidad económica como una posible causa de dicha crisis [10]. Los recursos naturales y ambientales al ser utilizados por los seres humanos, ya sea en actividades de consumo o de generación de bienestar para la
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+sociedad, se les asigna un valor económico y por consiguiente se los podrá tratar como activos económicos [11]. Según los economistas clásicos la tierra era únicamente considerado como uno de los tres factores productivos, la cual hacia posible que existiese un crecimiento económico y la veían un supuesto recurso natural inagotable [12]. Es por esto que, “se argumenta que la actividad económica genera una demanda creciente de recursos naturales y activos ambientales, por lo que la producción de bienes y servicios tiene un impacto negativo en la calidad del medio ambiente” [13].
+La relación entre crecimiento económico y el deterioro del medio ambiente, siempre ha sido un tema de gran debate, es por esto que la mayoría de las investigaciones se han realizado bajo la hipótesis de la curva ambiental de Kuznets; esta curva establece que la relación entre el nivel de ingreso per cápita y el deterioro de la calidad del medio ambiente se puede representar con una curva con forma de U invertida [14], “indicando que bajos niveles de ingreso están correlacionados con un creciente deterioro en el medio ambiente, pero después de un cierto punto de inflexión del ingreso per cápita, la relación entre las dos variables se vuelve negativa” [15].
+En principio, Simon Kuznets, en su investigación “Economic Growth and Income Inequality” demostró que entre el crecimiento económico (PIB per cápita) y la distribución del ingreso existe una relación en forma de U invertida, debido a que el crecimiento de un país conlleva a un mayor nivel de desigualdad, hasta un punto de inflexión donde el ingreso per cápita genera un cambio en la tendencia de la curva, es decir, cuando ocurra un aumento en el ingreso, existirá una menor desigualdad [16].
+Figura 1. Curva Ambiental de Kuznets Nota. Parra D., 2017 [17]. Este estudio se lo puede realizar también para ver la relación de las emisiones de gases de efecto invernadero con variables de crecimiento económico, como el PIB. Un país que incremente su PIB, según la teoría, verá también un incremento en sus emisiones de Gases de Efecto Invernadero (GEI), hasta un punto de inflexión donde los procesos tecnológicos, en este caso la Exportación de Servicios de TIC, hacen que dicho país pueda mejorar las actividades
+
+productivas y es cuando las emisiones de los GEI empiezan a disminuir [18]
+La tecnología frente al deterioro ambiental actúa como un reductor de la presión ambiental a través de diferentes maneras, como por ejemplo: incrementando la eficiencia en los procesos productivos, lo que a su vez orienta a la reducción de la cantidad de los insumos requeridos para la producción de la misma o mayor cantidad de bienes en una industria; puede sustituir recursos altamente contaminantes para el medio por otros más amigables; y por último, la tecnológica realizada por los países en vías de desarrollo hacen que los patrones de crecimiento de la degradación ambiental tengan menores impactos negativos en los mismos países [19]. La tecnología minimiza los impactos ambientales; el proceso de vida útil de los recursos se alarga, es decir, “la tecnología tiene la facultad de revertir, recuperar, renovar, reciclar y reusar los recursos naturales y, mitigar los impactos negativos que se generan al medio ambiente” [20].
+I. DESCRIPCIÓN DE DATOS
+Para el objetivo de este estudio las variables a utilizar en el modelo econométrico (extraídas del Banco Mundial) son: las Emisiones agrícolas de Gas Metano (CH4), Producción Agrícola (PIB agrícola) y Exportaciones de Servicios de TIC (XTICS). Para esta investigación se toman en cuenta 17 países, los mismos que se dividen en cuatro grupos de acuerdo a la clasificación del Banco Mundial [21]: países de ingresos altos, medio altos, medio bajos y bajos.
+Se cuenta con datos en un periodo de 1970-2008. Estas variables mencionadas se pueden definir de la siguiente manera:
+
+TABLA 1. VARIABLES UTILIZADAS.
+
+VARIABLE
+Emisiones Agrícolas de CH4 Producción agrícola
+Exportaciones de servicios de TIC
+
+ABREVIATURA CH4 PIBAgr XTICS
+
+UNIDADES DE MEDIDA Kilo toneladas (kt) equivalentes al CO2 Agricultura, valor agregado a precios constantes 2010 Balanza de pagos, US$ a precios actuales
+
+FUENTE
+Banco Mundial
+Banco Mundial
+Banco Mundial
+
+Para mejor comprensión se consideran únicamente dos grupos, donde el primero de ellos son aquellos países de ingresos medio altos y altos como: Argentina, Brasil, Chile, Colombia, Costa Rica, Ecuador, Guatemala, México, Panamá, Paraguay, Perú, República Dominicana, Uruguay y Venezuela. Para el segundo grupo de ingresos medios bajos y bajos se encuentran los siguientes países: Bolivia, El Salvador y Honduras.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+En las figuras 2 y 3, se observa la relación existente entre la variable dependiente y las dos independientes para el grupo 1, PIB Agrícola y Exportaciones de Servicios de TIC, respectivamente, mostrando una moderada-alta correlación positiva entre las variables en las dos figuras, lo cual se esperaría debido a que el aumento del PIB Agrícola, hará que se incrementen más las emisiones de GEI [18].
+
+9.5
+
+ocasionadas por el hombre y es cuando las emisiones de los GEI empiezan a disminuir.
+
+9
+
+8.5
+
+8
+
+14
+
+7.5
+
+12
+
+7
+
+6
+
+8
+
+10
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+LOGPIBAgr
+
+Fitted values
+
+LOGCH4
+
+Figura 2. Relacion entre entre Emisiones Agrícolas de Gas metano y PIB Agrícola, grupo 1.
+
+20
+
+20.5
+
+21
+
+21.5
+
+LOGPIBAgr
+
+Fitted values
+
+LOGCH4
+
+.
+
+Figura 4. Relacion entre entre Emisiones Agrícolas de Gas metano y PIB Agrícola, grupo 2.
+
+9.5
+
+9
+
+14
+
+8.5
+
+8
+
+12
+
+7.5
+
+10
+
+7
+
+6
+
+8
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+LOGXTICS
+
+LOGCH4
+
+Fitted values
+
+Figura 3. Relación entre Emisiones Agrícolas de Gas metano y Exportaciones de Servicios de TIC, grupo 1
+
+Con estas figuras se busca ver la relación existente entre las emisiones de CH4 y el PIB agrícola, para verificar la hipótesis del estudio. Esta hipótesis nos dice, según Kraft y Kraft [18], que la relación de las emisiones de gases de efecto invernadero con una variable de crecimiento económico, como lo es el PIB, es directa, que quiere decir que mientras un país incremente su PIB, sus emisiones de GEI incrementarán también, pero, hasta un punto de desviación en el que los procesos tecnológicos hacen que este país sea más competente en la manera que realizan las actividades
+
+17
+
+17.5
+
+18
+
+18.5
+
+19
+
+LOGXTICS
+
+LOGCH4
+
+Fitted values
+
+Figura 5. Relación entre Emisiones Agrícolas de Gas metano y Exportaciones de Servicios de TIC, grupo 2.
+Mientras que en las figuras 4 y 5, se observa la relación existente entre la variable dependiente y las dos independientes para el grupo 2, mostrando una moderada correlación negativa entre las variables en las dos figuras, lo cual tendría sentido debido a que los procesos tecnológicos harán que dicho país mejore sus actividades productivas, posteriormente las emisiones de los GEI empiezan a disminuir [18]. Sin duda la línea que muestra la tendencia hace que sea más fácil apreciar lo mencionado por Kraft.
+Las pruebas gráficas, por lo general, no son determinantes para concluir si un país cumple con la curva ambiental de Kuznets, es por esto que, se deben realizar otras pruebas formales mediante un modelo econométrico el cual permita comprobar la relación entre las variables a largo plazo.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+II. METODOLOGÍA Y RESULTADOS
+A. Metodología Para conocer en realidad la relación de las emisiones
+agrícolas de CH4 el PIB agrícola y Exportaciones de Servicios de TIC, se pretende realizar un modelo econométrico en donde la metodología a utilizar será la de un modelo de panel en el cual se encuentran 17 países y datos en el periodo de 19702008.
+Por tratarse de un modelo de panel, hay que realizar el test de Hausman, el cual nos muestra que si el modelo se debe realizar bajo efectos fijos o variables.
+En el caso del test de Hausman, este se encuentra especificado de la siguiente manera:
+= ( − )( − )^(−1)( − ), ~ (1)
+
+donde:
+
+,
+
+,
+
+,
+
+,
+
+(ú
+
+)
+
+El resultado de esta prueba nos indica cuál de los modelos es el indicado, si el valor de p < 0,05 se dice que el mejor modelo a aplicar es el de efectos aleatorios, pero si el valor de p > 0,05 se debe de escoger el modelo de efectos fijos.
+
+B. Resultados
+Las estimaciones de la tabla 2, 3, 4 y 5 muestran la relación de las Emisiones Agrícolas de Gas Metano con el PIB Agrícola y el cuadrado de la misma, y las Exportaciones de Servicios de TIC con el cuadrado de la misma, respectivamente, dentro del grupo 1.
+
+TABLA 4. ESTIMACIÓN DEL MODELO PANEL CON EFECTOS FIJOS, PIB2. GRUPO 1
+
+Variable PIB Agr (log) PIB2 (log) Cons
+
+CH4 -2.222 -0.346 0.053 -0.007 28.554 -3.803
+
+t -5.95 6.84 7.51
+
+Prob | t | 0.000*** 0.000*** 0.000***
+
+() errores estándar robustos. ***, ** y * expresan la significancia estadística al 1%, 5% y 10%, respectivamente.
+
+TABLA 2. ESTIMACIÓN DEL MODELO PANEL CON EFECTOS ALEATORIOS, PIB2. GRUPO 2
+
+Variable PIB Agr (log) PIB2 (log) Cons
+
+CH4 -2.167 0-351 0.056 0-007 29.56 3.858
+
+t -6.17 7.08 7.66
+
+Prob | t | 0.000*** 0.000*** 0.000***
+
+() errores estándar robustos. ***, ** y * expresan la significancia estadística al 1%, 5% y 10%, respectivamente.
+Las estimaciones de modelos fijos y aleatorios correspondiente al PIB, confirman que las variables explicativas son estadísticamente significativas, lo cual es coherente con las figuras mostradas en el apartado anterior, ya que, la Producción Agrícola, si influye de manera positiva en las Emisiones de CH4, mientras que el PIB Agrícola.
+Esta relación entre las variables a niveles y las mismas al cuadrado, ya pueden indicar cierta presencia de una Curva de Kuznets, en forma de U, ya que las variables a nivel tienen signo negativo mientras que al cuadrado positivo.
+
+TABLA 3. ESTIMACIÓN DEL MODELO PANEL CON EFECTOS FIJOS, XTICS^2 GRUPO 1
+
+Variable XTICS (log) XTICS2 (log) Cons
+
+CH4 -0.051 0.11 0.001 0.003 9.269 0.931
+
+t -0.47 -0.57 10.41
+
+Prob | t | 0.639* 0.572* 0.000***
+
+() errores estándar robustos. ***, ** y * expresan la significancia estadística al 1%, 5% y 10%, respectivamente.
+
+TABLA 5. ESTIMACIÓN DEL MODELO PANEL CON EFECTOS ALEATORIOS, XTICS 2. GRUPO 2
+
+Variable XTICS (log) XTICS2 (log) Cons
+
+CH4 -0.056 0.11. 0.001 0.003 9.891 0.9891
+
+t -0.51 0.51 9.93
+
+Prob | t | 0.609* 0.541* 0.000***
+
+() errores estándar robustos. ***, ** y * expresan la significancia estadística al 1%, 5% y 10%, respectivamente
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Las estimaciones de la tabla 4 y 5 muestran la misma relación de las tablas 2 y 3, pero utilizando la variable Exportaciones de Servicios de TIC. Las estimaciones de los modelos con efectos fijos y aleatorios no son estadísticamente significativas, aunque la relación tiene coherencia a corto plazo, sin embargo, las Exportaciones de Servicios de TIC, muestran una relación positiva con la variable dependiente a largo plazo.
+Al igual que las tablas anteriores, se presenta una relación en forma de U por los signos de las variables,
+Una vez realizado el test de Hausman, se opta por escoger el modelo de efectos aleatorios. La prueba respectiva se encuentra en la parte de anexo.
+
+TABLA 6. ESTIMACIÓN DEL MODELO PANEL CON EFECTOS ALEATORIOS , XTICS 2 Y PIB2. GRUPO 1
+
+Variable PIB Agr (log) PIB2 XTICS (log) XTICS2 Cons
+
+CH4 -2.093 0.684 0.526 0.015 0.1044 0.106 -0.003 0.003 29.12 7.341
+
+t -3.75 3.39 0.98 -1.18 3.97
+
+Prob | t | 0.002** 0.001** 0.326** 0.237** 0.000***
+
+() errores estándar robustos. ***, ** y * expresan la significancia estadística al 1%, 5% y 10%, respectivamente
+
+TABLA 7. ESTIMACIÓN DEL MODELO PANEL CON EFECTOS ALEATORIOS, XTICS 2Y PIB2. GRUPO 2
+
+Variable PIB Agr (log) PIB2 (log) XTICS (log) XTICS2 (log) Cons
+
+CH4 -2.586 0.697 0.064 0.015 0.127 0.109 -0.004 0.003 34.05 7.498
+
+t -3.71 4.1 1.16 -1.39 4.54
+
+Prob | t | 0-000*** 0-000*** 0.247** 0.163** 0-000***
+
+() errores estándar robustos. ***, ** y * expresan la significancia estadística al 1%, 5% y 10%, respectivamente
+Por el empleo de un modelo log – log, los resultados numéricos se pueden interpretar como porcentajes, así con esto, la regresión del primer grupo se puede interpretar de la siguiente manera: manteniendo constante la variable dependiente (logCH4), al existir un incremento del 1% del logPIBAgr^2, las emisiones de CH4 aumentan en un 52.6%. Ante un aumento en 1% de XTICS, las emisiones de CH4 aumenta en un 10.4 %. Para el caso del grupo dos se interpreta de la misma manera que el grupo 1.
+
+Como indica Kuznets, en su estudio, el crecimiento de un país conlleva a un mayor nivel de desigualdad, hasta un punto de inflexión donde el ingreso per cápita genera un cambio en la tendencia de la curva, es decir, cuando ocurra un aumento en el ingreso, existirá una menor desigualdad y hace que se vea una relación gráfica en forma de U invertida. En estos dos modelos los efectos en la CKA, tuvieron resultados consistentes con la teoría, ya que, las variables a niveles tienen sus estimaciones signos positivos o negativos, mientras que, al elevarlas al cuadrado, signos contrarios que demuestran la presencia de una U invertida en su forma gráfica o forma de U normal.
+III. CONCLUSIONES
+La evidencia empírica presentada en este trabajo muestra que al considerar una muestra de 17 países en el periodo de 1970 a 2008, mediante un modelo de datos panel, la relación entre las Emisiones de CH4, el PIB Agrícola y las Exportaciones de Servicios de TIC, se ajustan a una curva ambiental de Kuznets en forma.
+Se determinó, en parte, que los modelos estudiados (países con ingreso alto y medio alto) cumple con las características de la hipótesis a evaluar (Curva Ambiental de Kuznets). La variable XTICS muestra una U invertida gráficamente, debido a que sus estimaciones tienen signos positivos y a largo plazo negativo, mientras que la variable PIB Agrícola muestra esta relación de la Curva de Kuznets, pero como una U normal,
+En los países con bajos niveles de Emisiones de CH4, tienden a elevar la Producción Agrícola y con ello, en poca medida, el deterioro ambiental. Estos países en vías de desarrollo por lo general no cuentan con tecnología sofisticada para desarrollar los procesos de agricultura, suelen explotar las tierras con policultivos y con muchas sustancias tóxicas como pesticidas.
+En los estudios presentados para esta investigación [5], [6], [14], [15], [6], los autores plantean que en los países en vías de desarrollo existen un problema muy grande en lo que es el costo ambiental, ya que estos países centran sus actividades económicas únicamente en la agricultura y la explotación de los recursos naturales, sin utilizar tecnología que ayude a no perjudicar las generaciones futuras con contaminación ambiental.
+El coeficiente de la variable PIB Agrícola y la misma al cuadrado, puede concluir que las mejoras ambientales no dependen únicamente de una variable como el crecimiento económico; se debe acudir a las regulaciones políticas y considerarse la capacidad institucional de los gobiernos para mitigar la degradación ambiental.
+REFERÊNCIAS BIBLIOGRÁFICA
+[1] Martínez, D., Varela, G., & Quezada, C. (Octubre de 2017). CRECIMIENTO ECONÓMICO Y MEDIO AMBIENTE EN SUDAMÉRICA: ¿EXISTE LA CURVA AMBIENTAL DE KUZNETS EN LA REGIÓN? Obtenido de ResearchGate: https://www.researchgate.net/publication/321507207_CRECIMIENT O_ECONOMICO_Y_MEDIO_AMBIENTE_EN_SUDAMERICA_E
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+XISTE_LA_CURVA_AMBIENTAL_DE_KUZNETS_EN_LA_REG ION
+
+[2] Gómez López, C. S., Barrón Arreola, K. S., & Moreno Moreno, L. (2011). CRECIMIENTO ECONÓMICO Y MEDIO AMBIENTE EN MÉXICO. EL TRIMESTRE ECONÓMICO, 547-582.
+
+[3] Moran Molina, G. (2017). Análisis de la medición del impacto ambiental como producto del crecimiento económico. UNIVERSIDAD Y SOCIEDAD, 87-90.
+
+[4] ONU. (2017). Programa de las Naciones Unidas para el Medio Ambiente. Nairobi: UNEP.
+
+[5] Estrada Paneque, A., Gallo González, M., & Nuñez Arroyo, E. (2016). CONTAMINACIÓN AMBIENTAL, SU INFLUENCIA EN EL SER HUMANO, EN ESPECIAL: EL SISTEMA REPRODUCTOR FEMENINO. Universidad y Sociedad, 80-86.
+
+[6] Domínguez , M. C. (2015). La contaminación ambiental, un tema con compromiso social . Producción+ Limpia , 9-21.
+
+[7] Banco Mundial. (2016). The Cost of Air Pollution. Washington: International Bank for Reconstruction and Development.
+
+[8] Granda Carvajal, C. (2006). Relaciones Medio Ambiente-Economía. La necesidad de una nueva mirada. Obtenido de ResearchGate: https://www.researchgate.net/publication/5016055_Relaciones_Medi o_Ambiente-Economia_La_necesidad_de_una_nueva_mirada
+
+[9] Kolstad, C. D. (2001). Economia Ambiental. Oxford: Oxford University Press.
+
+[10] Serna Mendoza, C. A. (2010). Economía y medio ambiente. CENES, 9 - 26.
+
+[11] Mendieta, J. C. (2000). Economía Ambiental . Bogotá: Universidad de los Andes.
+
+[12] San Román, A. (2008). RELACIONES ENTRE ECONOMÍA Y MEDIO AMBIENTE. En F. Becker Zuazua, L. M. Cazorla Prieto, & J. M. Simancas Sánchez, Tratado de tributación medioambiental (págs. 1075-1087). España: IBERDROLA .
+
+[13] Escalante Semerena, R., & Catalán Alonso, H. (2005). Economía ambiental: una revisión temática y bibliografía actual. Ciudad de México: Universidad Nacional Autónoma de México.
+
+[14] Grossman, G. M., & Krueger, A. B. (1995). Economic Growth and the Environment. The Quarterly Journal of Economics, 353-377
+
+[15] Catalán, H. (2014). Curva ambiental de Kuznets: implicaciones para un crecimiento sustentable. Economía Informa, 19-37
+
+[16] Kuznets, S. (1955). Economic Growth and Income Inequality. The American Economic Review, 1-28.
+
+[17] Parra, D. (2017). LA CURVA AMBIENTAL DE KUZNETS. Supuestos, 2-3.
+
+[18] Kraft, J., & Kraft, A. (1978). On the relationship between energy and GNP. Journal of Energy and Development, 401-403.
+
+[19] Gitli , E., & Hernández, G. (2002). La existencia de la curva de kuznets ambiental (CKA) y su impacto sobre las negociaciones internacionales. Costa Rica: CINPE.
+
+[20] Almeida Quinteros, D. (2013). Crecimiento Económico y Medio Ambiente: La Curva Ambiental de Kuznets para el Ecuador en el Periodo 1970 - 2010. Quito: PONTIFICIA UNIVERSIDAD CATÓLICA DEL ECUADOR.
+
+[21] Banco Mundial. (1 de julio de 2018). World Bank Country and Lending
+
+Groups. Nuevo Hampshire: The World Bank Group. Obtenido de
+
+Banco
+
+Mundial:
+
+https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
+
+ANEXO
+
+TABLA I. Test de Hausman modelo 1
+
+Coefficients
+
+(b)
+
+(B)
+
+fixed
+
+random
+
+(b-B)
+
+sqrt(diag(V_bV_B))
+
+Difference S.E.
+
+PIB Agr 0.2224 (log)
+
+0.2699
+
+-0.0475 0.0091
+
+XTICS
+
+-0.2568
+
+(log)
+
+Prob>chi2 = 0.0000
+
+-0.3262
+
+0.0069
+
+0.0135
+
+Una vez realizado el test, en base a la probabilidad chi2 en la que se basa esta prueba, se opta por escoger el modelo de efectos aleatorios ya que la probabilidad que tenemos como resultado (0,0000) es menor al 5% de significancia.
+
+TABLA II. Test de Hausman modelo 2
+
+Coefficients
+
+(b)
+
+(B)
+
+fixed
+
+random
+
+(b-B)
+
+sqrt(diag(V_bV_B))
+
+Difference S.E.
+
+PIB Agr 0.2831 (log)
+
+2.7132
+
+-2.4301 0.4102
+
+XTICS
+
+0.1660
+
+(log)
+
+Prob>chi2 = 0.0000
+
+-0.7063
+
+0.8724
+
+0.1723
+
+En este caso, coincidiendo con la tabla 7, se dice que el modelo más eficiente es el de efectos aleatorios.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

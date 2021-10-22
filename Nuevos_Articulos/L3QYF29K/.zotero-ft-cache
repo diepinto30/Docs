@@ -1,0 +1,285 @@
+Emisiones de CO2, y bosque, el efecto del uso de internet y las TICs en la contaminación
+CO2 emissions, and forest, the effect of internet use and ICT on pollution
+Liz Valle-Carrión1 lavalle1@utpl.edu.ec
+Melania Gonzalez 1 mygonzalez@utpl.edu.ec
+1 Universidad Técnica Particular de Loja - Departamento de Ciencias Empresariales
+Santiago Ochoa-Moreno2 wsochoa@utpl.edu.ec
+2Universidad Técnica Particular de Loja - Departamento de Ciencias Económicas
+
+Resumen — El objetivo de la presente investigación fue analizar la relación entre el uso de internet, la exportación de TICs y el PIB per cápita tanto en las emisiones de CO2 como en la deforestación. Se utilizó información de Colombia, Ecuador y Perú para exponer esta relación. Para el primer modelo, los resultados mostraron que tanto las exportaciones de TICS como la Inversión Extranjera Directa en el corto plazo tienen efectos perjudicales para las emisiones de CO2, sin embargo a largo plazo, estas emisiones comenzarian a descender, cumpliendo la U invertida de Kuznets para el caso de las exportaciones de TICS, pero no para la Inversión Extranjera directa (IED) pues el coeficiente no fue significativo. Para el segundo modelo, el uso de internet en el corto plazo tendría un efecto negativo en la recuperación de bosque, incrementando su utilización, pero a largo plazo, existiría una recuperación del bosque. De igual manera para el PIB per cápita, en el corto plazo, existiría un efecto positivo para la recuperación del bosque, pero a largo plazo, existiría un deterioro. Como recomendación se destaca la importancia de la elaboración de productos de alta tecnología, pues reducen la contaminacion al corto o al largo plazo.
+Palabras Clave – CO2, PIB, TICs, uso e internet
+Abstract - The objective of this research was to analyze the relationship between the use of the internet, the export of ICTs and the GDP per capita both in CO2 emissions and in deforestation. Information from Colombia, Ecuador, and Peru was used to expose this relationship. For the first model, the results showed that both the expressions of TICs and Foreign Direct Investment in the short term have detrimental effects on CO2 emissions, however in the long term, these emissions
+
+would begin to decrease, fulfilling the inverted U of Kuznets. in the case of TICs exportations, but not for Foreign Direct Investment (FDI) as the coefficient was not significant. For the second Model, the use of the internet in the short term would have a negative effect on the recovery of the forest, increasing its use, but in the long term, there would be a recovery of the forest. In the same way, for the GDP per capita, in the short term, there would be a positive effect for the recovery of the forest, but in the long term, there would be a deterioration. As a recommendation, the importance of the production of hightech products is highlighted, since they reduce pollution in the short or long term.
+
+CO2, GDP, Exports of tics, use and internet
+
+Keywords - CO2, Tics, internet use GDP per capita
+
+I.
+
+Introducción
+
+Según [17]el dióxido de carbono es el principal gas de efecto invernadero; China libera el 21,6% de las emisiones de CO2 del mundo; Estados Unidos libera el 14,36% de las emisiones mundiales, la Unión Europea libera el 9,66% de las emisiones totales de CO2, India el 17%, Rusia el 5% y Brasil el 2,33% de las emisiones de CO2. En el caso de los países de estudio, las emisiones registradas de Co2 en toneladas métricas fueron: Ecuador con 2.496, Colombia con 2,03 y finalmente Perú con 1.857 emisiones de CO2 en toneladas métricas.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Actualmente la principal causa del calentamiento mundial y el cambio climático, son los gases de efecto invernadero [2]. El deterioro del medio ambiente es el problema más complicado de los países industrializados y no industrializados, y los gobiernos, aunque tratan de emitir políticas de control, no siempre lo han conseguido [10]. Los países emisores de gases de invernadero enfrentan complicaciones ya que las emisiones de CO2 son causadas por la producción de energía utilizada para el crecimiento de la economía en tales situaciones, la reducción del nivel de emisiones de CO2 implica un uso eficiente de los recursos, y esto en países en vías de desarrollo, no siempre es posible [21] [13].
+Sin embargo, la amenaza del cambio climático y la dependencia de las importaciones energéticas, junto al carácter agotable de los combustibles fósiles, han incentivado a muchos países a buscar fuentes de energía alternativas, esto con el fin de reducir las emisiones de gases efecto invernadero [8]. En los últimos años, las emisiones globales de dióxido de carbono
+provenientes de la quema de combustibles fósiles [5]. Con lo
+cual es importante mencionar que el actual estilo de desarrollo es insostenible. En efecto, el alto dinamismo económico de América Latina y el Caribe, apoyado en el auge de las exportaciones y los precios de los recursos naturales renovables y no renovables, ha contribuido a reducir la pobreza y mejorar las condiciones sociales en cierta media, pero el daño ambiental es creciente [8].
+Por otra parte, también los bosques tropicales juegan un rol importante en el ciclo del carbono global porque contribuyen a regular la concentración de dióxido de carbono en la atmósfera
+y, por lo tanto, la tasa del cambio climático [9]. Sin embargo,
+las crecientes tasas de deforestación, también han coadyuvado a la conformación de diversas externalidades negativas, tales como la contaminación ambiental o atmosférica y el cambio climático [8][9].
+En ese sentido, esas externalidades negativas tienen costos económicos significativos y crecientes y están erosionando las propias bases de sustentación del actual estilo de desarrollo [9]. La insostenibilidad del estilo de desarrollo actual se puede ilustrar con los patrones de consumo predominantes en la región: el crecimiento económico reciente se ha traducido en la conformación de nuevos grupos de ingresos bajos y medios [7].
+Sin embargo, en los últimos años también, en gasto en Investigación y Desarrollo (I+D), las tecnologías de información y comunicación (TICs) se están incluyendo cada vez más en los procesos productivos y están transformando la producción [3][4]. Tanto las TICs como la I+D ofrecen una gama de oportunidades para incrementar la producción, lo cual es importante ya que la productividad puede hacer que, con menos recursos, se incrementen los ingresos, se contamine menos [3].
+El desarrollo vigoroso de la industria de alta tecnología se convierte en una opción inevitable para reducir las emisiones de CO2 [16]. La industria de las TICs está creciendo más rápido que el resto de la economía, es probable que este porcentaje
+aumente con el tiempo [15] [21]. Este desarrollo no solo puede
+optimizar la estructura económica y promover el crecimiento económico sostenible, sino que también puede contribuir al
+
+desarrollo y aplicación de tecnologías de ahorro de energía y reducción de emisiones, y reducir el consumo de energía y las
+emisiones de CO2. [4] [20] [21]. Aunque el sector de las TICs
+en sí contribuye con aproximadamente el 2% de las emisiones mundiales de gases de efecto invernadero [15], las TICs también son un elemento vital para aportar soluciones a los problemas que tiene ante sí el planeta: la amenaza del cambio climático, de hecho, forman parte de la solución [6] [21]. Estas tecnologías ya se están empleando para reducir las emisiones y ayudar a los países a adaptarse a los efectos del cambio climático [13].
+Adicionalmente existe una competencia entre economías emergentes ofreciendo atractivas oportunidades de inversión que proporcionan financiación de capital para acelerar el desarrollo económico mediante transmisión de tecnología y ganancias de productividad [10]. La literatura existente advierte que las entradas de inversión extranjera directa( IED) pueden dañar el medio ambiente y con pocas regulaciones ambientales, especialmente en ubicaciones plagadas de industrias de alta contaminación y donde los estándares de medio ambiente son más permisivos[1].Por lo que la IED debe ser usada como una ruta para importar tecnologías de producción más limpia en una nación, y los gobierno debe brindar subsidios financieros a las industrias que utilizan las soluciones mejoradas de biomasa en
+los procesos de producción[15] . Siguiendo la ruta del comercio
+de tecnología, las naciones pueden tener acceso a soluciones de biomasa más limpias y mejoradas, que pueden servir como un reemplazo viable de las soluciones energéticas basadas en combustibles fósiles [1] [17] .
+En este contexto el presente estudio plantea dos modelos: en el primero se analiza la influencia de las exportaciones de TICS y la inversión extranjera directa en las emisiones de CO2, en el segundo se analiza la influencia del uso de internet y el PIB per cápita en el área de bosque (variable proxy a deforestación). Para analizar el corto y largo plazo se incluyó las variables en nivel y al cuadrado como lo sugiere la hipótesis medioambiental de Kuznets [11] la cual relaciona el crecimiento económico y la degradación ambiental, obteniéndose una forma funcional de U invertida.
+La presente investigación se divide en 4 secciones, luego de la introducción, la en la sección II se describen los datos, en la sección III la metodología y resultados, y finalmente en la sección IV las conclusiones.
+
+II.
+
+DESCRIPCIÓN DE DATOS
+
+La investigación se desarrolla a partir de un panel de Ecuador, Colombia y Perú (2000 – 2020) con información del [19], versión 9.1. La investigación tiene dos objetivos, el primero es identificar el efecto que tiene la exportación de TICs, y la IED en las emisiones de C02 y el segundo es identificar el efecto del uso de internet, y la variable de control PIB per cápita en el área de bosque.
+
+En las Figuras 1 y 2 se puede evidenciar la relación (esperada) entre las variables, dado que el área de bosque tiene
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+tendencias más marcadas, la relación es simple de observar.
+Figura 1. RELACIÓN ENTRE CO2 EXPORTACIONES DE TICS E INVERSIÓN EXRANJERA DIRECTA Elaboración los autores con información de [17]
+
+Figura 2. RELACIÓN ENTRE EL ÁREA DE BOSQUE USO DE INTERNET Y PIB PER CÁPITA Elaboración los autores con información de [18]
+
+En la Tabla 1 se muestran los estadísticos descriptivos de las variables objeto de estudio:
+
+TABLA 1. ESTADÍSTICOS DESCRIPTIVOS EMISIONES DE CO2, BOSQUE, EXPORTACIONES DE TICS Y PIB PER CÁPITA
+
+Variable
+
+Mean
+
+Std. Dev. Min
+
+Max
+
+CO2
+
+52925.25 22341.27 20718.55 104858.40
+
+BOSQUE
+
+489592.1 264798.8
+
+121542 761470.00
+
+USODEINTRNET
+
+31.85
+
+20.98
+
+1.46219
+
+73.11
+
+EXPTICS
+
+0.1420
+
+0.077 0.0312861
+
+0.38
+
+PIBPC
+
+5381.71
+
+1281.03
+
+3221.30
+
+8259.53
+
+IED
+
+2.94
+
+1.76
+
+-0.13
+
+7.07
+
+III. METODOLOGÍA Y RESULTADOS
+
+a. Metodología
+Para determinar los efectos dispuestos en el objetivo de la presente investigación, se realizan estimaciones con datos de panel (3 países, 10 años) con efectos fijos.
+La estimación se realiza del total de los datos y, en tal sentido, se realizan estimaciones de los siguientes modelos:
+
+yit = vi + β1X1 [it] + eit
+
+(1)
+
+CO2it = wi + α1 Exportación de TICS [it] + α2 (Exportación de
+
+TICS)2 [it] + α3 IED [it]+ α3 (IED)2[it]+ ui
+
+(2)
+
+Bosqueit = wi + α1 Uso de internet [it] + α2 (Exportación Uso de internet)2 [it] + α3 PIB per cápita [it]+ α3 (PIB per cápita)2[it]+ + ui
+(3)
+
+Donde el modelo panel indica: yit representa la variable dependiente para cada año y cada país vi la constante β1 la pendiente y X1 un set de variables explicativas para cada año y cada país, eit representa el término del error.
+Los modelos que se estimaron fueron los modelos 2 y 3 en donde:
+Para la ecuación 2:
+La variable dependiente fue:
+ Emisiones de CO2 en kilotoneladas
+Las variables explicativas:
+ Exportaciones de productos de TICs (% de las exportaciones de productos)
+ Inversión extranjera directa, entrada neta de capital (% del PIB)
+Para la ecuación 3:
+La variable dependiente fue:
+ Área de bosque (kilómetros cuadrados)
+Las variables explicativas:
+ Personas que usan Internet (% de la población)
+ PIB per cápita (US$ a precios constantes de 2010)
+Para comprobar la hipótesis de Kuznets [11], se elevó también las variables al cuadrado
+uit, representan el término de error, en cada una de las dos ecuaciones que anteceden, respectivamente.
+
+b. Resultados
+Las estimaciones la Tabla 2 muestran lo que gráficamente se había podido identificar en la Figura 1, como se observa, existe una relación directa, en todos los casos, entre las emisiones de CO2 y las variables dependientes
+Para comprobar la curva medioambiental de Kuznets se considera la variable al cuadrado para ver su efecto en el tiempo (Ver Tabla 2). Esta relación al ser significativa y tener un signo negativo, confirma la curva medioambiental de Kuznets para las emisiones de CO2 y la exportación de TICs en este grupo de países. Para el caso de la IED, esta relación no se cumple, pues, la variable no es significativa a pesar de tener una relación inversa, al elevarla al cuadrado, pudiendo concluir que la exportación de TICs tiene costos medioambientales que decrecen con el paso del tiempo, pero para la IED no se puede comprobar esa relación
+
+TABLA 2. ESTIMACIONES DE LAS EMISIONES DE CO2 EN FUNCIÓN DE EXPORTACIONES DE TICS E IED
+
+CO2
+
+Coef.
+
+Std. Err.
+
+P>z
+
+Exportación
+
+de TICS
+
+294229.9 113841.7
+
+0.010
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Exportación de TICS 2
+IED IED2
+_cons
+
+-645206.1 11841.6
+-920.2637 3843.269
+
+321343.2 4441.669 682.0102
+9632.52
+
+0.045 0.008 0.177 0.690
+
+per cápita tiene incidencia en el daño ambiental, sin embargo en el largo plazo la relación puede cambiar.
+Para esto, tanto la inversión en TICs y en internet son importantes, así como también la reconsideración de la producción per cápita y la inversión, que a largo plazo pueden tener resultados negativos.
+
+Para el segundo modelo (Ver Tabla 3) también la relación al ser significativa y tener un signo negativo, confirma la curva medioambiental de Kuznets para el área de bosque y el uso de internet en este grupo de países, en este caso, al corto plazo existe una disminución del área boscosa, pero a largo plazo, ya no existe. Para el caso del PIB per cápita, esta relación no se cumple, aunque la variable es significativa y tiene una relación positiva, al elevarla al cuadrado y cambia de signo y no deja de ser significativa se puede concluir que el uso de internet tiene costos medioambientales que decrecen con el paso del tiempo, pero para el PIB per cápita a largo plazo se disminuirá las zonas boscosas es decir incrementaría la deforestación.
+
+TABLA 3. ESTIMACIONES DE LOGARÍTMO DE LAS AREAS DE BOSQUE EN FUNCIÓN DEL USO DE INTERNET, Y PIB PER CÁPITA
+
+BOSQUE
+
+Coeficiente Std. Err. P>t
+
+Uso de internet
+
+-343.75 95.5798 0.001
+
+Uso de Internet2
+
+3.408088 1.315612 0.012
+
+PIB per cápita
+
+8.006261 2.886796 0.008
+
+PIB per cápita 2
+
+-0.0013443 0.0002558 0.0000
+
+Constante
+
+493627.1 7463.219 0.0000
+
+IV.
+
+CONCLUSIONES
+
+Para futuras investigaciones, es preciso analizar las diferencias entre cada uno de los países, para poder generar estrategias de política a escala local, sin embargo, la utilización del grupo de países es un pilar fundamental, para nuevas investigaciones y la metodología planteada ayudó a cumplir el objetivo de la investigación. Si bien, la Curva de Kuznets se cumple parcialmente, los resultados son importantes para el desarrollo de políticas.
+Las variables tecnológicas tienen un impacto en las emisiones de CO2 o la deforestación, para los gobiernos, es importante considerarlas a la hora de proponer políticas que mejoren la calidad ambiental así se pueden generar incentivos que promuevan el uso de nuevas tecnologías y disminuyan el impacto ambiental.
+En la evidencia empírica, si bien existen trabajos que investigan lar elación de la tecnología y las tic con el medioambiente [14][18], no se encontró investigaciones que lo relacionen con la deforestación y área de bosque
+Similar o lo reportado en [12] La inversión extranjera directa, afecta el medioambiente, aunque a largo plazo ese efecto podría disminuir. De igual manera similar a lo reportado en [22] el PIB
+
+AGRADECIMIENTOS (HEADING 5) Agradecemos a la Universidad Técnica Particular de Loja
+quién proporcionó los recursos necesarios para la investigación.
+REFERENCIAS BIBLIOGRÁFICAS
+[1] Abdouli, M., Hammami, S., 2017. The impact of FDI inflows and environmental quality on economic growth: an empirical study for the MENA countries.J. Knowl. Econ. 8 (1), 254e278
+[2] Ali, S., Ying, L., Anjum, R., Nazir, A., Shalmani, A., Shah, T., & Shah, F. (2020). Analysis on the nexus of CO2 emissions, energy use, net domestic credit, and GDP in Pakistan: an ARDL bound testing analysis. Environmental Science and Pollution Research, 1-21.
+[3] Castells, M. (1999). Information technology, globalization and social development (No. 114). Geneva: UNRISD.
+[4] Le, T. H., Chang, Y., & Park, D. (2016). Trade openness and environmental quality: International evidence. Energy policy, 92, 45-55.
+[5] Figueres, C., Schellnhuber, H. J., Whiteman, G., Rockström, J., Hobley, A., & Rahmstorf, S. (2017). Three years to safeguard our climate. Nature News, 546(7660), 593
+[6] Galindo, L. M., Jonhson, M., & Neves, L. (2007). Uso delas tic para hacer frente al cambio climático. Global esustainability initiative. Recuperado de: https://www. itu. int/dms_pub/itut/oth
+[7] Galindo L & Samaniego, J. (2010). La economía del cambio climático en América Latina y el Caribe: algunos hechos estilizados. Revista Cepal.
+[8] Godoy, V. S. L. (2018). Crecimiento económico y el uso de energía sustentable y no sustentable: un enfoque del caso ecuatoriano usando técnicas de cointegración. Killkana sociales: Revista de Investigación Científica, 2(3), 75-86
+[9] Honorio Coronado, E., & Baker, T. R. (2010). Manual para el monitoreo del ciclo del carbono en bosques amazónicos.
+[10] Khan, M. K., Teng, J. Z., Khan, M. I.,& Khan, M. O. (2019). Impact of globalization, economic factors and
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+energy consumption on CO2 emissions in Pakistan. Science of the total environment, 688, 424-436)
+[11] Kuznets, S. (1955). Economic Growth and Income Inequality. The American Economic Review, 1-28.
+[12] Lee, J. W. (2013). The contribution of foreign direct investment to clean energy use, carbon emissions and economic growth. Energy Policy, 55, 483-489.
+[13] López Ramírez, A. (2018). Escenarios para un nuevo régimen internacional de cambio climático.
+[14] Moreno-Hurtado, C., Wilman-Santiago, O. M., & OchoaJiménez, D. (2019, June). ICT Exports and Environmental Degradation: The Case of South America. In 2019 14th Iberian Conference on Information Systems and Technologies (CISTI) (pp. 1-6). IEEE.
+[15] Porras, A. A., Escobar, R. F., & Murcia, P. A. (2019). Las TIC ante el Cambio Climático. Revista Avenir, 3(2), 3-9.
+[16] Shahzad, U., Ferraz, D., Doğan, B., & do Nascimento Rebelatto, D. A. (2020). Export product diversification and CO2 emissions: Contextual evidences from developing and developed economies. Journal of Cleaner Production, 276, 124146.
+
+[17] Shahbaz, M., Balsalobre-Lorente, D., & Sinha, A. (2019). Foreign direct Investment–CO2 emissions nexus in Middle East and North African countries: Importance of biomass energy consumption. Journal of cleaner production, 217, 603-614.
+
+[18] Torres, V., & Ochoa, W., S (2020, June). ICT and Its Impact on Development and the Environment. Case study for South America. In 2020 15th Iberian Conference on Information Systems and Technologies (CISTI) (pp. 1-4). IEEE.
+
+[19] World
+
+Bank,
+
+2017.
+
+http://data.worldbank.org.
+
+Retrived
+
+from.
+
+[20] Xu, B., & Lin, B. (2017). Does the high–tech industry consistently reduce CO2 emissions? Results from nonparametric additive regression model. Environmental Impact Assessment Review, 63, 44-58.
+
+[21] You, W., & Lv, Z. (2018). Spillover effects of economic globalization on CO2 emissions: a spatial panel approach. Energy Economics, 73, 248-257.
+
+[22] Yang, G., Sun, T., Wang, J., & Li, X. (2015). Modeling the nexus between carbon dioxide emissions and economic growth. Energy Policy, 86, 104-117.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

@@ -1,0 +1,873 @@
+¿Influye la estructura de capital en la rentabilidad de las empresas ecuatorianas de comunicación?
+
+Does capital structure influence the profitability of
+Ecuadorian communication companies?
+Higuerey Gómez, A.1 y Armas Herrera, R.2 Departamento de Ciencias empresariales Universidad Técnica Particular de Loja Loja, Ecuador
+aahiguerey@utpl.edu.ec1, ahreinaldo@utpl.edu.ec2,
+
+Resumen — La estructura de capital afecta a la rentabilidad de la empresa. Las decisiones de financiamiento determinan que tipo de recursos emplean los empresarios y el coste de estos. El objetivo de este artículo es determinar cómo se relaciona la estructura de capital con la rentabilidad de las empresas de comunicación ecuatorianas en el periodo 2014-2019. Mediante regresiones cuantílicas se determina que la rentabilidad de los activos (ROA) está afectada negativamente por la estructura de capital, mientras que en el caso de la rentabilidad de los accionistas (ROE) solo en algunos cuantiles el impacto es positivo, siendo en la mayoría de los cuantiles no significativo.
+Palabras Clave - Estructura de capital; empresa de comunicación; regresión cuantílica; Ecuador.
+Abstract — The capital structure affects the profitability of the company. Financing decisions determine what type of resources entrepreneurs employ and the cost of these resources. The objective of this article is to determine how the capital structure is related to the profitability of Ecuadorian communication companies in the period 2014-2019. Through quantile regressions it is determined that the return on assets (ROA) is negatively affected by the capital structure, while in the case of shareholders' profitability (ROE) only in some quantiles the impact is positive, being in most quantiles not significant.
+Keywords - Capital structure; communication enterprise; quantile regression; Ecuador
+I. INTRODUCCIÓN
+El crecimiento de las compañías depende de los recursos financieros. Estos hacen que una pequeña empresa pueda convertirse en una compañía de referencia en los diferentes mercados.
+En Ecuador, estos recursos son escasos y la consecución de estos determina como es la estructura de capital de la empresa. El impacto de la estructura de capital sobre la rentabilidad de la empresa puede ser positivo o negativo ([1] o [2]).
+Las empresas de comunicación se caracterizan por ser empresas de servicios donde la eficiencia puede mejorar con una adecuada gestión, [3], que cree más valor agregado, [4], y mejore las probabilidades de supervivencia, [5].
+
+Este trabajo es uno de los primeros en estudiar la influencia de la estructura de capital sobre la rentabilidad de las empresas de comunicación ecuatorianas. El uso de la regresión cuantílica permite estudiar variables como la rentabilidad donde la distribución está concentrada.
+El resto del artículo tiene la siguiente estructura; en la sección dos está la revisión de la literatura, en la sección tres, datos, variables e hipótesis, en la sección cuatro resultados y en la sección cinco están las conclusiones y se muestran los lineamientos para futuras investigaciones.
+II. REVISIÓN DE LA LITERATURA
+A. Estructura de capital y rentabilidad de la empresa
+Hay diversas teorías sobre cómo la estructura de capital afecta al valor de la empresa, [6], [7], [8], [9], [10] o [11], entre otros.
+El impacto de la estructura de capital en la rentabilidad de las empresas puede ser positiva o negativa.
+Hay autores que determinan que el impacto de la estructura de capital sobre la rentabilidad es positivo. Así, [12] determina que hay una relación positiva entre la deuda a corto plazo y el ROE de las empresas ghanesas que cotizan en bolsa. [13] determinan que el apalancamiento es un factor que influye positivamente en la eficiencia de las empresas manufactureras francesas. [1] analizaron las empresas norteamericanas cotizadas y determinaron que la deuda a corto plazo impacta positivamente sobre el rendimiento.
+Sin embargo, otros autores han determinado que hay una relación negativa entre estructura de capital y rentabilidad. Así, [14] analizan empresas de Pakistán y determinaron que los niveles de deuda afectan al rendimiento. En el caso de las empresas de Egipto, [15] coinciden con el autor anterior en determinar esta relación negativa, al igual que [2] en el caso de las empresas de Vietnam.
+La forma funcional también es importante a la hora de determinar cómo se relacionan la estructura de capital y la rentabilidad. Puede ser lineal, [16], [2], [17], o de naturaleza no lineal, [13] o [18], entre otros.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+En el caso de las empresas de comunicación hay pocos estudios sobre estructura de capital y rentabilidad, cuestión que, si ha sido estudiada en otros sectores de la economía, ver [13] o [19] entre otros.
+B. Importancia del sector comunición en Ecuador El sector de la comunicación e información en Ecuador tiene
+relevancia en el mercado, teniendo diversas formas de personalidad jurídica. La información financiera relevante de las empresas que prestan este servicio está en la base de datos de la SUPERCIAS.
+La Agencia de Regulación y Control de las Telecomunicaciones de Ecuador (ARCOTEL) es el organismo que regula, administra y controla el uso, explotación y aprovechamiento del espectro radioeléctrico. Los servicios que controla este organismo son: radiodifusión sonora frecuencia modulada (FM) y amplitud modulada (AM), televisión abierta (TV) y televisión digital (ISDB-T).
+ISDB-T - Televisión Digital
+AM - Amplitud Modulada
+TV - Televisión Abierta
+FM - Frecuencia Modulada
+0 200 400 600 800
+Comunitario Pública Privada
+Figure 1. Estaciones de radiodifusión sonora y televisión abierta a nivel nacional, en Ecuador.
+Tal como se aprecia en la Fig. 1, para el 2021, las estaciones de radiodifusión sonora y televisión abierta a nivel nacional eran 1.519, que se encargaban de prestar el servicio de radiodifusión sonora y televisión abierta. Se observa que el mayor servicio que se presenta es el de radio de frecuencia modulada (FM), seguida de la televisión abierta (TV). Se destaca que la mayoría de estas estaciones tienen carácter de privado.
+Por otra parte, las estaciones de radiodifusión comunitaria tienen su mayor representatividad en el servicio de radio de frecuencia modulada. La televisión abierta (TV) y la radiodifusión de amplitud modulada (AM) no llegan a 20 estaciones en ambos sectores.
+En la televisión digital, para el año 2021, solo se encuentran 6 estaciones, y se distribuyen en igual proporción entre el sector público y el sector privado. Son de muy reciente aparición en Ecuador, apareciendo la primera de este tipo en la provincia de Guayaquil.
+La distribución por provincias de las estaciones de radiodifusión sonora y televisión se observan en la Fig. 2. En esta destacan las provincias de Guayas, Manabí, Azuay, Pichincha y Loja, porque son las provincias ecuatorianas que poseen más de 100 estaciones. Es de recordar que las provincias de Guayas y Pichicha son las de mayor proporción del PIB. Esta última provincia, ocupa el cuarto lugar en estaciones, debido a
+
+que cuenta con una menor cantidad de emisoras de radiodifusión de frecuencia modulada (FM).
+
+Otras provincias
+26%
+
+Guayas 8% Manabí 8%
+Azuay 8%
+
+Imbabura 4%
+
+Cañar 4%
+
+Santa Elena 4%
+
+Carchi
+
+4% Esmeraldas El Oro
+
+4%
+
+5%
+
+Tungurahua 5%
+
+Pichincha 7%
+Loja 7%
+Chimborazo 6%
+
+Figure 2. Distribución por provincia de las estaciones de radiodifusión sonora y televisión abierta en Ecuador
+
+Por otra parte, el resto de las provincias, tienen menos de 50 estaciones de radiodifusión sonora y de televisión, destacándose en todas ellas, la mayor presencia de estaciones de radio de frecuencia modulada (FM). Esta distribución se encuentra en consonancia con el desarrollo económico de las demás provincias ecuatorianas.
+Se destaca del análisis la poca presencia de la radio difusión de amplitud modulada (AM), existiendo provincias en las cuales no existe este tipo de servicio, tales como: Orellana, Pastaza, Zamora Chinchipe, Galápagos, Napo, Sucumbios, Morona Santiago y Santo Domingo de los Tsáchilas.
+
+III. DATOS Y METODOLOGÍA En esta investigación se han tomado los datos de la
+Superintendencia de Compañías, Valores y Seguros (SUPERCIAS) de Ecuador, del sector económico “J”, según la clasificación CIIU, que abarca las sociedades de los siguientes subsectores:
+ 5813.01: Servicios de prensa escrita.
+ J5813.02: Servicios de promoción y publicidad.
+ J6010.01: Radio.
+ J6010.02: Radio cadena.
+ J6020.01: Producción TV.
+ J6020.02: TV.
+Ahora bien, para seleccionar la base de datos se tomó el criterio de [20] y [4], que es que hubiera datos completos de las empresas en el periodo 2014-2019. Tras este proceso la base de datos quedó conformada por 444 observaciones pertenecientes a 74 empresas. Dentro de las variables empleadas están:
+ROA: Rentabilidad de los activos. Se define como el ratio de utilidad neta entre total activo. Ha sido empleada como variable dependiente por [14] en una regresión econométrica.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+ROE: Rentabilidad del patrimonio. Se define como la división de la utilidad neta entre el patrimonio. Ha sido utilizada por [2] y [16] como variable dependiente en una regresión econométrica.
+Deb_act: Endeudamiento del activo, se identifica como el ratio de pasivo entre activo. Ha sido empleada como variable independiente en una regresión por [16], [14] y [21].
+
+IV. RESULTADOS
+La estadística descriptiva se encuentra en la tabla I. En algunas de las variables hay una gran desviación como en el caso del endeudamiento patrimonial (Deb_pat) y el ratio de liquidez (Rat_liq). Esto es debido a la diversidad de empresas que hay en el sector y sus distintos tamaños y mercados en los que participan.
+
+Deb_pat: Endeudamiento del patrimonio. Es el ratio de pasivo entre patrimonio y ha sido usado por [2] como variable independiente en modelos de regresión.
+Deb_ac_cp: Endeudamiento del activo a corto plazo. Ha sido empleada por [2] y [22] como variable independiente en una regresión econométrica y se define como la división entre pasivo a corto plazo y total activo.
+Deb_ac_lp: Endeudamiento del activo a largo plazo. Ha sido empleada por [2] y [22] como variable independiente en una regresión econométrica y se define como la división entre pasivo a largo plazo y total activo.
+Size: variable de control que refleja el tamaño de la compañía. Se calcula como el logaritmo natural del total de activos y ha sido usado por [16] y [13].
+Rat_liq: es el ratio de liquidez y se define como el ratio entre activo corriente y pasivo corriente. Ha sido empleada por [17] como variable de control en una regresión econométrica.
+PIB: Tasa de crecimiento del PIB anual. Ha sido utilizada por [18] como variable de control en una regresión econométrica.
+Inf: Tasa de crecimiento del nivel de precios anual. [18] la ha empleado como variable de control dentro de una regresión econométrica.
+Siguiendo a [2] y [23] se formulan las siguientes hipótesis:
+
+La variable tamaño tiene un promedio alto si se compara con su límite superior e inferior, lo que indica las empresas de la muestra tienen una gran cantidad de activos. Esto se debe a que la base incluye empresas de diferentes tamaños y sectores donde prestan sus servicios.
+El rendimiento del activo de las empresas (ROA) está sobre el 9,1%, mientras que el rendimiento de los accionistas (ROE) está en promedio sobre el 21%.
+
+TABLE I.
+
+ESTADÍSTICA DESCRIPTIVA DE LAS VARIABLES EMPLEADAS
+
+Variable Obs Mean
+
+Std. Dev. Min
+
+Max
+
+ROA
+
+444 0,0919183 0,2157835 -0,8861791 1,40625
+
+ROE
+
+444 0,2099695 0,370055 -,09180651 1,823572
+
+Deb_ac_cp
+
+444 0,3489046 0,3382933
+
+0 4,235376
+
+Deb_ac_lp
+
+444 0,2002409 0,4260377
+
+0 3,408568
+
+Deb_act
+
+444 0,5491454 0,4958041
+
+0 4,235376
+
+Deb_pat
+
+444 2,535809 5,997934
+
+-12,1515 56,93668
+
+Size
+
+444 12,09284 1,84527
+
+6,684612 17,8207
+
+Rat_liq
+
+444 5,29618 14,48904
+
+0 178,3988
+
+PIB
+
+444 1,062126 1,653886 -1,226,384 3,788869
+
+Inf
+
+444 1,361667 1,590328
+
+-0,2
+
+3,67
+
+Nota: ROA la relación entre la utilidad después de impuestos e intereses y
+
+el total de activo. ROE la relación entre la utilidad después de impuestos e
+
+intereses y el total de patrimonio. Deb_act la relación entre el total de
+
+pasivo y el total de activo. Deb_pat la relación entre el total de pasivo y el
+
+total de patrimonio. Deb_ac_cp la relación entre el total de pasivo corriente
+
+y el total de activo. Deb_ac_lp la relación entre el total de pasivo no
+
+corriente y el total de activo. Size el logaritmo del total de activo. Rat_liq el
+
+ratio de activo corriente entre pasivo corriente. PIB es la tasa de crecimiento
+
+anual del Producto Interno Bruto. Inf es el índice de precios del Ecuador.
+
+ H1: La estructura de capital de las empresas de comunicación, en el periodo 2014-2019, está relacionada negativamente con el ROA.
+ H2: La estructura de capital de las empresas de comunicación, en el periodo 2014-2019, está relacionada negativamente con el ROE.
+
+La tabla II recoge las correlaciones de las variables en el estudio. En ningún caso las correlaciones superan 0.8, por lo que no habría problemas de multicolinealidad dentro de las regresiones planteadas.
+
+TABLE II.
+
+MATRIZ DE CORRELACIÓN DE LAS VARIABLES EMPLEADAS
+
+Los modelos econométricos son los siguientes:
+
+Rit=∝+β1Deb_actit+β2Size+β3Rat_liqit+β4PIBt+β4Inft+μit (1) Rit=∝+β1Deb_patit+β2Sizeit+β3Rat_liqit+β4PIBt+β4Inft+μit (2) Rit=∝+β1Deb_ac_cpit+β2Sizeit+β3Rat_liqit+β4PIBt+β4Inft+μit (3) Rit=∝+β1Deb_ac_lpit+β2Sizeit+β3Rat_liqit+β4PIBt+β4Inft+μit (4)
+Siendo R, el ROA o el ROE, i la empresa, t el tiempo, β el coeficiente de regresión y µ el término de error.
+Regresiones cuantílicas para analizar la relación entre estructura de capital y rentabilidad han sido empleadas por [18] o [24], entre otros. Los cuantiles empleados son 0,10; 0,25; 0,50; 0,75 y 0.90.
+
+ROA
+ROE
+Deb_ac_cp Deb_ac_lp Deb_act Deb_pat Size Rat_liq PIB Inf
+Deb_pat Size Rat_liq PIB
+
+ROA ROE 1
+0,6974
+
+Deb_ac_cp Deb_ac_lp Deb_act 1
+
+-0,269
+-0,1736 -0,3349 -0,0767 -0,0333 0,0186 0,4294 0,3284
+
+0,1149
+-0,0395 0,0468 -0,0133 -0,1244 -0,1205 0,4896 0,3725
+
+1
+-0,1737 0,5511 0,1392 -0,1034 -0,3828 -0,0096 -0,0524
+
+1 0,7261
+0,098 -0,0995 -0,1049 -0,0088 0,0098
+
+1 0,1803 -0,1565 -0,3562 -0,0142 -0,0283
+
+Deb_pat Size
+
+Rat_liq PIB
+
+1
+
+-0,0398
+
+1
+
+-0,167 -0,0248
+
+1
+
+0,0195 -0,0245
+
+-0,061
+
+Inf 1
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+3
+
+Inf
+
+-0,0313 -0,0696 -0,0746 0,2578
+
+1
+
+Nota: ROA la relación entre la utilidad después de impuestos e intereses y el
+
+total de activo. ROE la relación entre la utilidad después de impuestos e
+
+intereses y el total de patrimonio. Deb_act la relación entre el total de pasivo
+
+y el total de activo. Deb_pat la relación entre el total de pasivo y el total de
+
+patrimonio. Deb_ac_cp la relación entre el total de pasivo corriente y el total
+
+de activo. Deb_ac_lp la relación entre el total de pasivo no corriente y el total
+
+de activo. Size el logaritmo del total de activo. Rat_liq el ratio de activo
+
+corriente entre pasivo corriente. PIB es la tasa de crecimiento anual del
+
+Producto Interno Bruto. Inf es el índice de precios del Ecuador.
+
+En las figuras 3 y 4 se muestran la distribución de densidad del ROA y del ROE, observándose que ambas variables se concentran en la media, pero las densidades presentan un sesgo hacia la derecha en el caso del ROA y un sesgo a la izquierda en el caso del ROE, lo que fortalece la utilización del enfoque cuantílico en esta investigación.
+
+5
+
+4
+
+3
+
+Density
+
+2
+
+1
+
+0
+
+-1
+
+-.5
+
+0
+
+.5
+
+ROA
+
+1
+
+1.5
+
+Figure 3. Histograma del ROA
+
+corresponda. Se calculan las ecuaciones de la (1) a la (4) para los cuantiles recogidos en la tabla.
+
+TABLE III.
+
+RESULTADOS DE LA LÍNEA DE BASE PARA ROA: REGRESIÓN
+POR CUANTILES
+
+Variable (1)
+
+(2)
+
+(3)
+
+dependiente
+
+ROA
+
+0,1
+
+0,25
+
+0,5
+
+(4)
+
+(5)
+
+0,75
+
+0,9
+
+Deb_ac_cp -0,165*** -0,0294* -0,0542** -0,0923** -0,202***
+
+(0,0332) (0,0154) (0,0225) (0,0390) (0,0634)
+
+Constant
+
+-0,0351
+
+0,0112
+
+0,0961*
+
+0,232** 0,564***
+
+(0,0770) (0,0357) (0,0523) (0,0904) (0,147)
+
+Observatio
+
+444
+
+444
+
+444
+
+444
+
+444
+
+ns
+
+Pseudo R2
+
+0,0901
+
+0,0168
+
+0,0927
+
+0,2174 0,2720
+
+Variable (1)
+
+(2)
+
+(3)
+
+dependiente
+
+ROA 0,1
+
+0,25
+
+0,5
+
+(4)
+
+(5)
+
+0,75
+
+0,9
+
+Deb_ac_lp -0,132*** -0,0300*** -0,0463** -0,0555** -0,0945**
+
+(0,0390) (0,0111) (0,0179) (0,0265) (0,0479)
+
+Constant
+
+-0,111
+
+0,0190
+
+0,123** 0,242*** 0,430***
+
+(0,115) (0,0329) (0,0530) (0,0783) (0,141)
+
+Observatio
+
+444
+
+444
+
+444
+
+444
+
+444
+
+ns
+
+Pseudo R2
+
+0,0659
+
+0,0168
+
+0,0954
+
+0,2228 0,2793
+
+Variable (1)
+
+(2)
+
+(3)
+
+dependiente
+
+ROA 0,1
+
+0,25
+
+0,5
+
+(4)
+
+(5)
+
+0,75
+
+0,9
+
+Deb_act -0,167*** -0,0644*** -0,0869*** -0,0747*** -0,111***
+
+(0,0280) (0,0109) (0,0148) (0,0256) (0,0391)
+
+Constant
+
+-0,0435
+
+0,0576 0,144*** 0,251*** 0,489***
+
+(0,0981) (0,0380) (0,0520) (0,0896) (0,137)
+
+Observatio
+
+444
+
+444
+
+444
+
+444
+
+444
+
+ns
+
+Pseudo R2
+
+0,1226
+
+0,0346
+
+0,1169
+
+0,2357 0,2911
+
+Variable (1)
+
+(2)
+
+(3)
+
+dependiente
+
+ROA 0,1
+
+0,25
+
+0,5
+
+(4)
+
+(5)
+
+0,75
+
+0,9
+
+Deb_pat 0,000518 -0,000338 -0,00307** -0,00477** -0,00467
+
+(0,00312) (0,000631) (0,00120) (0,00199) (0,00310)
+
+Constant
+
+-0,172 -0,00359
+
+0,0829* 0,239*** 0,452***
+
+(0,129) (0,0261) (0,0495) (0,0824) (0,128)
+
+Observatio
+
+444
+
+444
+
+444
+
+444
+
+444
+
+ns
+
+Pseudo R2
+
+0,0347
+
+0,0125
+
+0,0983
+
+0,2222 0,2814
+
+Nota: Esta tabla presenta la regresión cuantílica agrupada para los cuantiles 0,10,
+
+0,25, 0,50, 0,75 y 0,90. La variable dependiente es ROA. La desviación estándar
+
+está en paréntesis. * p<0,1 **p<0,05; *** p<0,01.
+
+2
+
+Density
+
+1
+
+-1
+
+0
+
+1
+
+ROE
+
+Figure 4. Histograma del ROE
+
+Del análisis de los resultados de la tabla III se puede inferir que la estructura de capital influye negativamente sobre el ROA en las empresas de comunicación ecuatoriana, por lo que no se puede rechazar la hipótesis 1, excepto en el caso del endeudamiento patrimonial (Deb_pat) y en ciertos cuantiles determinados.
+
+2
+
+En la tabla IV se encuentra la regresión por cuantiles cuando
+
+la variable dependiente es el ROE. Por motivos de espacio solo
+
+se visualiza la variable dependiente y la independiente que
+
+corresponda. Se calculan las ecuaciones de la (1) a la (4) para los
+
+cuantiles recogidos en la tabla.
+
+0
+
+En la tabla III se encuentra la regresión por cuantiles cuando la variable dependiente es el ROA. Por motivos de espacio solo se visualiza la variable dependiente y la independiente que
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+TABLE IV.
+
+RESULTADOS DE LA LÍNEA DE BASE PARA ROE: REGRESIÓN
+POR CUANTILES
+
+Variable
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+dependiente
+
+ROE
+
+0,1
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+Deb_ac_cp
+
+0.0201 0.0555** 0.0569 0.309*** 0.465***
+
+(0.0542) (0.0226) (0.0456) (0.0769) (0.127)
+
+Constant
+
+-0.0826 0.0453
+
+0.168 0.355** 0.653**
+
+(0.126) (0.0523) (0.106) (0.178) (0.295)
+
+Observations
+
+444
+
+444
+
+444
+
+444
+
+444
+
+Pseudo R2
+
+0.0348 0.0283 0.1112 0.2259 0.3328
+
+Variable
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+dependiente
+
+0,1
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+ROE
+
+Deb_ac_lp -0.00276 -0.0288* -0.0357 0.00175 0.0409
+
+(0.0434) (0.0165) (0.0322) (0.0627) (0.0835)
+
+Constant
+
+-0.0822 0.109** 0.200** 0.525*** 0.943***
+
+(0.128) (0.0487) (0.0952) (0.185) (0.246)
+
+Observations
+
+444
+
+444
+
+444
+
+444
+
+444
+
+Pseudo R2
+
+0.0345 0.0301 0.1066 0.2115 0.3183
+
+Variable
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+dependiente
+
+0,1
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+ROE
+
+Deb_act
+
+-0.00282 -0.0235 0.0405 0.0629 0.264***
+
+(0.0369) (0.0151) (0.0298) (0.0536) (0.0734)
+
+Constant
+
+-0.0876 0.0937* 0.181* 0.438** 0.704***
+
+(0.129) (0.0528) (0.104) (0.188) (0.257)
+
+Observations
+
+444
+
+444
+
+444
+
+444
+
+444
+
+Pseudo R2
+
+0.0344 0.0256 0.1073 0.2159 0.3283
+
+Variable
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+dependiente
+
+0,1
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+ROE
+
+Deb_pat
+
+0.00134 0.00109 -0.00137 0.000662 0.000415
+
+(0.00285) (0.00135) (0.00229) (0.00430) (0.00635)
+
+Constant
+
+-0.0968 0.0797 0.212** 0.517*** 0.995***
+
+(0.118) (0.0560) (0.0948) (0.178) (0.263)
+
+Observations
+
+444
+
+444
+
+444
+
+444
+
+444
+
+Pseudo R2
+
+0.0356 0.0241 0.2115 0.2115 0.3181
+
+Nota: Esta tabla presenta la regresión cuantílica agrupada para los cuantiles 0,10,
+
+0,25, 0,50, 0,75 y 0,90. La variable dependiente es ROE. La desviación estándar
+
+está en paréntesis. * p<0,1 **p<0,05; *** p<0,01.
+
+Del análisis de la tabla IV se puede inferir que no hay relación entre la estructura de capital y el ROE, salvo en algunos cuantiles donde esta relación es positiva, por lo que se rechaza la hipótesis dos, que indicaba que la estructura de capital tenía una relación negativa con el ROE.
+De los resultados obtenidos en las tablas III y IV se puede afirmar que la rentabilidad de los activos (ROA) se ve afectada en negativo por la estructura de capital, pero no la rentabilidad del patrimonio (ROE). Estos resultados están en sintonía con los de [14], [15] y [2], es decir, aportan a la corriente de la literatura que establece una relación negativa entre las variables ya mencionadas.
+V. CONCLUSIONES
+Este trabajo analiza si hay una relación entre la estructura de capital y la rentabilidad, medida en términos de ROA y ROE, en las empresas de comunicación ecuatorianas en el periodo 20142019.
+Los resultados obtenidos en esta investigación muestran que el ROA está relacionado negativamente con la estructura de capital de las empresas de comunicación ecuatoriana, mientras
+
+que el ROE no presenta relación con la estructura de capital, excepto en algunos cuantiles, en las empresas de este sector.
+Este artículo aporta a la literatura porque es uno de los primeros que estudia la influencia de la estructura de capital en la rentabilidad mediante el uso de regresiones cuantiles y cómo la elección de financiarse es importante porque afecta a la rentabilidad de las empresas de comunicación de Ecuador.
+En futuras investigaciones se incluirán estructuras no lineales en las regresiones cuantiles para estudiar si esta relación es lineal o presenta otra forma funcional; con el fin de determinar cual es la mejor estructura que identifica la forma de financiamiento en las empresas del sector de la comunicación en Ecuador.
+AGRADECIMIENTOS
+Los autores agradecen a la Superintendencia de Compañías, Valores y Seguros (SUPERCIAS) de Ecuador; y a Agencia de Regulación y Control de las Telecomunicaciones de Ecuador (ARCOTEL), la disposición de los datos de las diferentes empresas de comunicación ecuatoriana para los investigadores en sus páginas web.
+REFERÊNCIAS BIBLIOGRÁFICAS
+[1] A. Gill, N. Biger, and N. Mathur, “The effect of capital structure on profitability: evidence from the United States, ” Int. J. Manag, vol. 28, no. 4, pp. 3–15, 2011.
+[2] T. P. V, Le, and T. B. N. Phan, “Capital structure and firm performance: Empirical evidence from a small transition country,” Research in international business and finance, vol. 42, pp.710-726, 2017.
+[3] A. Higuerey, R. Armas, and M. Peñarreta, “Efficiency and Productivity of Communication Companies: Empirical Evidence from Ecuador Using Panel Data and DEA”, In World Conference on Information Systems and Technologies, Springer, Cham, April 2020, pp. 589-597.
+[4] N. V. C., Alvear, R. A. Herrera, and A. Higuerey, “Los determinantes del EVA en las empresas de comunicación ecuatorianas: periodo 2012-2018”, Revista Ibérica de Sistemas e Tecnologias de Informação, vol. E26, pp. 192-201, 2020.
+[5] A. Higuerey, and R. Armas, “Evaluación de la supervivencia de las empresas de comunicación ecuatorianas a través de la eficiencia, ” Revista Ibérica de Sistemas e Tecnologias de Informação, vol. E40, pp. 512-525, 2021.
+[6] F. Modigliani, and M. Miller, “The cost of capital, corporation finance, and the theory of investment,” Am. Econ. Rev, vol. 48, pp. 655–669, 1958.
+[7] A. Kraus, and R.H. Litzenberger, “A state-preference model of optimal financial leverage, ” Journal of Finance, vol. 28, no. 4, pp. 911-922, 1973.
+[8] M.C. Jensen, and W.H. Meckling, “Theory of the firm: managerial behavior, agency costs and ownership structure”, Journal of Financial Economics, Vol. 3 No. 4, pp. 305-360. 1976.
+[9] S. Myers, “The capital structure puzzle”, Journal of Finance, vol. 39, pp. 575-592, 1984.
+[10] S. Myers, and N. Majluf, “Corporate financing and investment decisions when firms have information that investors do not have”, Journal of Financial Economics, vol. 13, pp. 187-221, 1984.
+[11] M. Baker, J.C, Stein, and J. Wurgler. “When does the market matter? Stock prices and the investment of equity-dependent firms, The Quarterly Journal of Economics”, vol. 118, no. 3, pp. 969-1005, 2003.
+[12] J. Abor, “The effect of capital structure on profitability: an empirical analysis of listed firms in Ghana, ” Journal of Risk Finance, vol. 6 no. 5, pp. 438-445, 2005.
+[13] D. Margaritis, and M. Psillaki, “Capital structure, equity ownership and firm performance, ” Journal of Banking & Finance, vol. 34, no.3, pp. 621632, 2010.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+[14] N. Ahmed, and T. Afza, “Capital structure, competitive intensity and firm performance: evidence from Pakistan,” Journal of Advances in Management Research, vol. 16, no.5, pp. 796-813, 2019.
+[15] A. Sakr, and A. Bedeir, “Impact of capital structure on firm’s performance: Focusing on non-financial listed Egyptian firms,” International Journal of Financial Research, vol. 10, no.6, pp. 78-87, 2019.
+[16] I. E. S. Ebaid, “The impact of capital‐structure choice on firm performance: empirical evidence from Egypt,” The journal of risk Finance, vol. 10, no.5, pp. 477-487, 2009.
+[17] D. F. Cueva, R. Armas, D. Rojas and D. González, “Capital structure: Micro and macroeconomic variables. The case of manufacturing companies in Ecuador,” 2016 11th Iberian Conference on Information Systems and Technologies (CISTI), Gran Canaria, Spain, 2016, pp. 1-4, doi: 10.1109/CISTI.2016.7521625.
+[18] T. D. Le, and D. T. Nguyen, “Capital structure and bank profitability in Vietnam: A quantile regression approach, ” Journal of Risk and Financial Management, vol. 13, no.8, 168, 2020.
+[19] H.P., Dinh, P.V., Nguyen, and J. C., Hosseini, “The impact of product diversification and capital structure on firm performance: evidence from
+
+Vietnamese manufacturing enterprises,” Journal for Global Business Advancement, vol. 12, no. 1, pp. 95-116, 2019.
+[20] M. Pardo-Cueva, R. Armas, and A. Higuerey, “La influencia del capital intelectual sobre la rentabilidad de las empresas manufactureras ecuatorianas,” Revista ESPACIOS, vol. 39, no. 51, 14, 2018.
+[21] Ngatno, E.P. Apriatni, and A. Youlianto, “Moderating effects of corporate governance mechanism on the relation between capital structure and firm performance, ” Cogent Business & Management, vol.8, no.1, 1866822, 2021.
+[22] L. B. Espejo, I. M. Robles, and A. A. Higuerey,“Apalancamiento financiero en las empresas manufactureras de Ecuador,” Revista Publicando, vol. 4, no. 13, pp. 241-254, 2017.
+[23] B. Thi, T. Dao, T. Dieu, and N. Ta, “A meta-analysis: Capital structure and firm performance,” Journal of Economics and Development, vol. 22, no.1, pp.111–129. https:// doi.org/10.1108/JED-12-2019-0072, 2020.
+[24] N.C. Das, M. A. F. Chowdhury, and M.N. Islam, “The heterogeneous impact of leverage on firm performance: empirical evidence from Bangladesh,” South Asian Journal of Business Studies, in press, 2021.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

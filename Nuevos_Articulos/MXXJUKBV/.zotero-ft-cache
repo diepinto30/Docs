@@ -1,0 +1,487 @@
+Relações entre Gestão do Conhecimento e Gestão da Qualidade no Desempenho Organizacional:
+
+uma Revisão Integrativa
+Relationships between Knowledge Management and Quality Management in Organizational Performance:
+
+an Integrative Review
+
+Amanda Soares
+Depart. de Engenharia do Conhecimento, Universidade Federal de Santa Catarina Florianópolis, Brasil
+amanda.a.soares@posgrad.ufsc.br
+
+Julio Rios-Zaruma
+Depart. Ciencias Empresariales, Universidad Técnica Particular de Loja
+Depart. de Engenharia do Conhecimento, Universidade Federal de Santa Catarina Loja, Ecuador jarios@utpl.edu.ec
+
+Resumo — Este estudo buscou identificar quais as relações entre gestão do conhecimento e gestão da qualidade no desempenho das organizações, através da análise dos facilitadores, mediadores e resultados existentes entre os elementos. O método utilizado foi a revisão integrativa da literatura, baseado na recomendação PRISMA. O levantamento dos dados foi realizado nas bases de dados Web of Science, Scopus e SciELO. As buscas ocorreram em outubro de 2020. Com base em um grupo de 19 artigos científicos pertencentes às áreas de estudo: gestão, negócios, operações e economia, os autores analisaram a pesquisa e recomendações no contexto das organizações. A relação mais frequente entre os construtos apresentados foi a gestão da qualidade como elemento facilitador e a gestão do conhecimento como elemento mediador no alcance do desempenho organizacional. As práticas e processos de gestão do conhecimento mais frequentes, foram o compartilhamento e a aquisição do conhecimento. Referente aos princípios e práticas de gestão da qualidade, foi identificado um maior número de artigos que utilizam os princípios de TQM. A gestão do conhecimento e gestão da qualidade possuem uma relação positiva no desempenho das organizações. A utilização de apenas duas variáveis pode auxiliar na identificação das relações, enquanto uma análise do desempenho organizacional de maneira integrada exige uma análise a partir de diferentes perspectivas, incluindo novas variáveis. Os indicadores de desempenho presentes nos artigos não foram totalmente objetivos. Além disso, foi evidente a ausência de estudos que possuíssem como população as economias emergentes e inovadoras.
+Palavras Chave - Gestão do Conhecimento; Gestão da Qualidade; Desempenho Organizacional; Revisão sistemática; Revisão integrativa.
+Abstract — This study sought to identify which are the relationships between knowledge management and quality
+
+management in organizational performance, through the analysis of facilitators, mediators and existing results between the elements. The method used was an integrative literature review, based on the PRISMA recommendation. The data survey was carried out in Web of Science, Scopus and SciELO databases. The searches took place in October 2020. Based on a group of 19 scientific articles belonging to the study areas: management, business, operations and economics, the authors analyzed the research and recommendations in the context of organizations. The most frequent relationship between the constructs presented was quality management as a facilitating element and knowledge management as a mediating element in achieving organizational performance. The most frequent knowledge management practices and processes were knowledge sharing and acquisition. Regarding the principles and practices of quality management, a greater number of articles using the principles of TQM were identified. Knowledge management and quality management have a positive relationship in the performance of organizations. The use of only two variables can help in the identification of relationships, although an analysis of organizational performance in an integrated manner requires an analysis from different perspectives, including new variables. The performance indicators present in the articles were not entirely objective. In addition, it was evident the absence of studies that had emerging and innovative economies as a population.
+Keywords - Knowledge management; Quality management; Organizational Performance; Systematic review; Integrative review.
+
+I.
+
+INTRODUÇÃO
+
+Na década de 90 surge um novo paradigma de estratégia corporativa, chamado “abordagem baseada em
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+recursos” [1], com o objetivo de auxiliar as organizações a competirem com mais eficácia no ambiente de constante mudança e globalização.
+[2] amplia esta abordagem baseada em recursos para uma abordagem baseada no conhecimento, reconhecendo o conhecimento como elemento crítico na produção e principal fonte de geração de valor. Nesse período, as organizações se depararam com a necessidade de modificar a estratégia de obtenção de sucesso e reconhecimento no mercado de atuação, onde anteriormente bastava garantir e manter uma posição adequada, iniciou-se o que [3] apresentaram como “guerra de movimentos”, na qual a garantia de sucesso exige a antecipação das tendências do mercado e um rápido retorno às necessidades dos clientes.
+Um dos componentes mais importantes e complexos da estratégia corporativa é a qualidade, pois as organizações competem pela qualidade, os clientes buscam qualidade e os mercados são transformados pela qualidade [4]. De acordo com [5], “a adoção de um sistema de gestão da qualidade é uma decisão estratégica para uma organização, que pode ajudar a melhorar seu desempenho global e a prover uma base sólida para iniciativas de desenvolvimento sustentável”. A norma também apresenta o termo "conhecimento organizacional" como um recurso a ser gerenciado e mantido pela organização, a fim de assegurar o alcance da conformidade de produtos e serviços.
+Ao realizar uma busca pelos termos "quality management", "knowledge management" e "performance", na base de dados Web of Science, é possível identificar a existência de poucas pesquisas que estudam essa relação no desempenho das organizações. Através da estratégia de busca utilizada, foram recuperados apenas 79 artigos com essa temática publicados entre os anos 2000 e 2020.
+A análise do cenário descrito, evidencia a necessidade de mais pesquisas que objetivam o estudo das relações entre gestão do conhecimento e gestão da qualidade no desempenho das organizações. Considera-se que a partir da identificação dos processos, práticas e princípios executados no ambiente organizacional dentro do contexto apresentado, será possível compreender as características e contribuições dos construtos no desempenho das organizações.
+Nesse sentido, este estudo visa responder a seguinte questão de pesquisa: Quais as relações entre gestão do conhecimento e gestão da qualidade no desempenho das organizações?
+Além da questão central, três subquestões também são abordadas:
+● Quais as práticas e processos de gestão do conhecimento existentes, visando o melhor desempenho das organizações?
+● Quais os princípios e práticas de gestão da qualidade existentes, visando o melhor desempenho das organizações?
+● Quais os resultados da gestão da qualidade e gestão do conhecimento no desempenho das organizações?
+
+Com base em um grupo de 19 artigos científicos indexados nas bases de dados Web of Science, Scopus e SciELO, pertencentes às áreas de estudo: gestão, negócios, operações e economia, os autores analisam e discutem as relações entre gestão do conhecimento e gestão da qualidade no desempenho das organizações.
+
+II.
+
+REFERENCIAL TEÓRICO
+
+A. Gestão do Conhecimento
+Na economia do conhecimento, o componente intelectual de produtos e serviços ganha importância devido aos benefícios que a gestão do conhecimento proporciona à organização. De acordo com [6], os benefícios podem ocorrer no nível individual e organizacional. No nível individual, a gestão do conhecimento proporciona aos funcionários oportunidades de aprimoramento das habilidades e a experiência do trabalho em conjunto, compartilhando o conhecimento e aprendendo uns com os outros, melhoram o desempenho pessoal, ocasionando um avanço na carreira. No nível organizacional, melhora o desempenho da organização através do aumento da eficiência, produtividade e inovação. A partir do conhecimento dos funcionários, as organizações tomam decisões com maior precisão, agilizam processos, reduzem o retrabalho, têm aumento na inovação, integridade dos dados e colaboração [6].
+
+B. Gestão da Qualidade
+A gestão da qualidade é uma filosofia administrativa focada na melhoria contínua, atendendo aos requisitos do cliente, reduzindo retrabalho, redesenho de processos, liderança, treinamento, medição de requisitos e relacionamento próximo com fornecedores [7] [8] [9].
+Um sistema de gestão da qualidade compreende atividades para a organização identificar os objetivos, processos e recursos para alcançar os resultados esperados. Neste aspecto, são também consideradas a alta direção e a oferta de produtos e serviços [10]. Dentre os sistemas de gestão da qualidade, destaca-se a gestão da qualidade total (TQM), o modelo europeu de qualidade (EFQM) e o modelo dos Estados Unidos Malcolm Baldridge National Quality Award (MBNQA).
+
+C. Desempenho Organizacional
+O desempenho organizacional refere-se aos resultados que uma organização atinge num período [11], que podem ser avaliados através de parâmetros quantificáveis denominados indicadores [12]. A definição dos indicadores e metas organizacionais deve ser realizada com base nas estratégias de negócio das organizações, considerando o potencial de sua influência nos ambientes interno e externo.
+Uma conceituação mais ampla enfatiza indicadores operacionais, isto é, não financeiros, onde são tratadas medidas “como participação de mercado, introdução de novos produtos, qualidade do produto, eficácia de marketing, valor agregado de
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+fabricação e outras medidas de eficiência tecnológica dentro do domínio empresarial” [13]
+III. PROCEDIMENTOS METODOLÓGICOS
+O método utilizado para realização da pesquisa foi a revisão integrativa da literatura, através da execução de 6 etapas estabelecidas conforme recomendações de [14]: identificação do problema, pesquisa de literatura, avaliação e coleta de dados, análise de dados, comparação de dados, interpretação e apresentação dos resultados.
+A revisão integrativa é uma forma de pesquisa que possui como características a revisão, crítica e sintetização da literatura representativa de um tópico específico de maneira integrada, visando a geração de novas perspectivas sobre o assunto [15], além de uma análise de estrutura conceitual (metodológica) [16].
+O processo de revisão baseou-se na recomendação PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses), que consiste em um checklist com 27 itens e um diagrama de 4 etapas, que possui como objetivo auxiliar autores a otimizarem o relato de revisões sistemáticas e metaanálises [17].
+O levantamento dos dados foi realizado nas bases de dados Web of Science, Scopus e SciELO. As buscas ocorreram no mês de outubro de 2020. A estratégia de busca incluiu a população do estudo através da utilização de termos e palavraschaves derivados da pesquisa de escopo, e experiência no campo do assunto. Os termos utilizados foram: knowledge management, quality management, organizational performance, firm performance, gestion de la calidad, gestion del conocimiento, desempeño.
+Na etapa de avaliação e coleta de dados, utilizou-se o site Rayyan, onde foram aplicados critérios de elegibilidade, a fim de determinar quais artigos seriam incluídos e excluídos da pesquisa. Para construção dos critérios de elegibilidade, foram considerados aspectos como: população, exposição, resultados e desenho do estudo.
+Na tabela 1 estão apresentados os critérios de inclusão e exclusão para seleção dos artigos através do site mencionado.
+
+TABLE I. CRITÉRIOS DE ELEGIBILIDADE.
+
+Critérios de inclusão Critérios de exclusão
+
+População
+
+Organizações privadas e públicas.
+
+Estudos de caso em uma única empresa ou
+com menos de 10 funcionários.
+
+Exposição
+
+Aplicação de gestão da qualidade e gestão
+do conhecimento.
+
+Estudos que não abordam a aplicação de gestão da qualidade
+e gestão do conhecimento.
+
+Resultados
+
+Modelo teórico de relação e coeficientes de influência entre os
+dois fatores.
+
+Estudos que não apresentam um modelo teórico ou uma aplicação empírica
+
+com o coeficiente de relação.
+
+Desenho do estudo
+
+Estudos teóricos e empíricos.
+
+Revisões de literatura.
+
+A pré-seleção dos artigos foi realizada através de leitura preliminar dos títulos, resumos e palavras-chaves. Na sequência, os artigos pré-selecionados foram lidos integralmente para seleção da amostra final para análise.
+
+IV. ANÁLISE E DISCUSSÃO DOS RESULTADOS
+A partir da pesquisa nas bases de dados, foram identificados 89 artigos, sendo 47 na base de dados Web of Science, 40 na base de dados Scopus e 2 na base de dados SciELO. Após a remoção das duplicatas, foram totalizados 79 artigos. Na leitura dos títulos, resumos e palavras-chaves, realizada na etapa de avaliação e coleta de dados, 41 artigos foram removidos por não atenderem os critérios de elegibilidade definidos. 38 artigos foram encaminhados para a última fase da revisão, onde foi realizada a leitura integral, resultando em 19 artigos para a revisão. A execução dessa etapa está representada na Fig. 1.
+
+Figure 1. Diagrama de seleção dos artigos
+Para a análise das relações entre os construtos de gestão do conhecimento, gestão da qualidade e desempenho organizacional presentes nos artigos incluídos na revisão integrativa, foram consideradas cinco perspectivas, a fim de identificar os elementos facilitadores, mediadores e seus resultados, conforme descrito nos subtópicos a seguir.
+D. Gestão do conhecimento como facilitador, gestão da qualidade como mediador e desempenho organizacional como resultado A análise realizada a partir dessa perspectiva
+possibilitou a identificação das práticas e processos de gestão do conhecimento existentes que visam o desempenho organizacional como resultado. Na Tab. 2 são apresentados os elementos que constituem essa relação.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+TABLE II.
+
+RESUMO DOS ARTIGOS QUE ABORDAM GESTÃO DO
+
+CONHECIMENTO (GC) COMO FACILITADOR, GESTÃO DA QUALIDADE (GQ)
+
+COMO MEDIADOR E O DESEMPENHO ORGANIZACIONAL (DO) COMO
+
+RESULTADO.
+
+Autor/An o
+Alkhazali, Aldabbagh e AbuRumman (2019)
+[18]
+
+Processo ou Prática de GC (Facilitador)
+Conversão, aplicação, proteção e compartilhamento de conhecimento.
+
+Princípio ou Prática de
+GQ (Mediador) Total Quality Management (TQM).
+
+Indicador do DO
+(Resultado)
+Opinião dos membros da organização sobre a relação e variação dos construtos abordados com o desempenho organizacional.
+
+MasMachuca, Marimon e Malbašić (2020)
+[19]
+
+Criação e o compartilhamento do conhecimento
+
+Inovação, produtos personalizados , flexibilidade do produto, confiabilidade do produto, padrões de qualidade e confiabilidade na entrega.
+
+Percepções dos
+
+membros da
+
+organização
+
+sobre
+
+os
+
+principais
+
+componentes
+
+de
+
+desempenho.
+
+Yusr, Mokhtar, Othman e Sulaiman. (2017)
+
+Aquisição, disseminação e aplicação do conhecimento.
+
+Total Quality Management (TQM).
+
+Inovação.
+
+[20]
+
+JiménezJiménez, MartinezCosta, MartínezLorente e Rabeh (2015)
+
+Explotação e exploração do conhecimento.
+
+Total Quality Management (TQM).
+
+Medidas
+
+baseadas na
+
+escala
+
+do
+
+modelo de
+
+excelência
+
+EFQM.
+
+[21]
+
+A partir da análise, foi verificado que os processos de gestão do conhecimento mais evidentes nos artigos são os de compartilhamento e aquisição do conhecimento. Pode-se considerar que o conhecimento interno seja mais relevante para as organizações que buscam um melhor desempenho organizacional, conforme exposto por [21], que apresentam relações positivas entre o processo de explotação do conhecimento e a TQM. Além disso, também é comprovado que a capacidade de exploração afeta positivamente o desempenho organizacional. Esse resultado pode ser analisado na perspectiva do desempenho inovativo, considerando que o processo de inovação exige a análise de conhecimentos externos relacionados às partes interessadas, como clientes, concorrentes, entre outros.
+Referente aos princípios e práticas de gestão da qualidade como efeito mediador no alcance do desempenho organizacional, verificou-se que o mais evidente é a TQM. Considera-se que isso ocorra pois esse sistema de gestão de
+
+qualidade possui uma visão integral da organização, relacionando-se com os indicadores de desempenho organizacional.
+E. Gestão da qualidade como facilitador, gestão do conhecimento como mediador e desempenho organizacional como resultado A análise realizada a partir dessa perspectiva
+possibilitou a identificação dos princípios e práticas de gestão da qualidade existentes que visam o desempenho organizacional como resultado. Na Tab. 3 são apresentados os elementos que constituem essa relação.
+
+TABLE III.
+
+RESUMO DOS ARTIGOS QUE ABORDAM GQ COMO
+
+FACILITADOR, GC COMO MEDIADOR E DO COMO RESULTADO.
+
+Autor/Ano
+
+Princípio ou prática de GQ (Facilitador)
+
+Processo ou Prática de GC
+(Mediador)
+
+Indicador do DO
+(Resultado)
+
+JiménezJiménez, MartínezCosta e ParaGonzalez (2020)
+
+Total Quality Management (TQM).
+
+Aquisição de conhecimento, distribuição e, interpretação da informação e memória organizacional.
+
+Inovação.
+
+[22]
+
+Gowen, Henagan e McFadden (2009)
+[23]
+
+Sistemas de informação, liderança, treinamento e capacitação de funcionários, equipes multifuncionais , foco no cliente e ferramentas de qualidade.
+
+Aquisição, disseminação e responsividade do conhecimento
+
+Segurança do paciente, financeiro e outros resultados organizacionai s dos cuidados de saúde.
+
+Díaz, Monroy, Idoipe, Soto e Araujo (2013)
+
+ISO 9001.
+
+Criação,
+
+armazenamento,
+
+transferência e
+
+aplicação
+
+de
+
+conhecimento.
+
+Compromisso social, cultura e clima organizacional.
+
+[24]
+
+Zornoza, Navarro, López e Denia (2009)
+[25]
+
+Sistemas de gestão da qualidade, sistemas de padronização e certificação de qualidade.
+
+Capacidade da
+
+empresa de
+
+desenvolver
+
+programas de GC
+
+que levam à
+
+aceitação, ao
+
+desenvolvimento
+
+e retenção de
+
+talentos, bem
+
+como absorção e
+
+transmissão
+
+interna
+
+de
+
+conhecimento
+
+acumulado.
+
+Lucratividade econômica, lucratividade financeira, lucratividade de vendas e margem operacional bruta.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Qasrawi, Almahami d e Qasrawi (2017)
+
+Total Quality Management (TQM).
+
+Compartilhament o e aplicação do conhecimento.
+
+Financeiro e operacional.
+
+[26]
+
+Anil Satish (2017)
+
+e Total Quality Management (TQM)
+
+Não especificado.
+
+Satisfação do cliente.
+
+[27]
+
+Akdere (2009)
+[28]
+
+Práticas de
+
+recursos
+
+humanos com
+
+foco
+
+na
+
+qualidade
+
+(QHRP)
+
+Não especificado
+
+Resultados financeiros.
+
+A partir da análise, foi verificado que sistemas de gestão da qualidade como o TQM e ISO 9001 são mais utilizados pelas organizações que buscam a melhoria contínua associada ao desempenho organizacional. [22] mencionam que no início da implementação do sistema de gestão da qualidade foram identificados resultados satisfatórios no desempenho inovativo, porém, posteriormente foi identificada a necessidade de aplicação da gestão do conhecimento para obter os resultados similares ao início da implementação, demonstrando uma relação curvilínea entre qualidade e desempenho organizacional.
+Referente aos processos ou práticas de gestão doconhecimento como efeito mediador no alcance do desempenho organizacional, verificou-se que os mais evidentes são aquisição, compartilhamento e aplicação do conhecimento. Considerando a abordagem da norma ISO 9001, que evidencia a importância do registro e atualização de documentação interna para o correto funcionamento da organização, é justificada a presença dos processos de compartilhamento e aplicação do conhecimento, bem como as práticas de memória organizacional e gestão do conhecimento no efeito da TQM na inovação [22].
+F. Gestão do conhecimento e gestão da qualidade como facilitadores e desempenho organizacional como resultado
+A análise realizada a partir dessa perspectiva possibilitou a identificação do relacionamento direto entre gestão do conhecimento e gestão da qualidade no desempenho organizacional. Na Tab. 4 são apresentados os elementos que constituem essa relação.
+
+TABLE IV.
+
+RESUMO DOS ARTIGOS QUE ABORDAM GQ E GC COMO FACILITADORES E DO COMO RESULTADO.
+
+Autor/Ano
+
+Princípio ou Processo ou Indicador
+
+prática de GQ Prática de GC de
+
+DO
+
+(Facilitador)
+
+(Facilitador)
+
+(Resultado)
+
+Honarpour,
+
+Total Quality Aquisição,
+
+Inovação.
+
+Jusoh e Nor Management
+
+disseminação e
+
+(2017)
+
+(TQM).
+
+aplicação de
+
+[29]
+
+novos conhecimentos.
+
+Loke, Downe, Total Quality Criação
+
+do Aprendizado
+
+Sambasivan e Management
+
+conhecimento. .
+
+Khalid (2012) (TQM).
+
+[30]
+
+Yiu e Pun (2014)
+[31]
+
+Total Quality Management (TQM).
+
+Aquisição, manipulação, distribuição, armazenamento e uso do conhecimento.
+
+Foco no
+
+cliente,
+
+resultados
+
+financeiros
+
+e
+
+não
+
+financeiros,
+
+responsabilid
+
+ades sociais.
+
+Garstenauer, Blackburn e Olson (2014)
+[32]
+
+DMAIC (Define, Measure, Analyze, Improve Control).
+
+Socialização,
+
+Qualidade do
+
+externalização, produto.
+
+combinação e
+
+internalização.
+
+e
+
+A partir da análise, foi verificado que estratégias integradas de gestão do conhecimento e gestão da qualidade apresentam melhores resultados no desempenho organizacional [30] [32]. Essa informação é justificada considerando a visão baseada em recursos, que reconhece ambas como recursos estratégicos que permitem uma vantagem competitiva sustentável. Por isso, as relações descritas anteriormente são importantes, para compreender quais as recomendações da literatura sobre os elementos facilitadores ou mediadores mais indicados para maximizar o efeito do desempenho organizacional.
+
+V. CONCLUSÕES
+Através dos artigos analisados, foi possível identificar que a relação mais frequente entre os construtos apresentados foi a gestão da qualidade como elemento facilitador e a gestão do conhecimento como elemento mediador no alcance do desempenho organizacional. Essas relações foram analisadas majoritariamente considerando os indicadores de desempenho organizacional: resultado financeiro e inovação.
+Foi verificado que as práticas e processos de gestão do conhecimento mais frequentes visando o desempenho organizacional, foram o compartilhamento e a aquisição do conhecimento. Referente aos princípios e práticas de gestão da qualidade, foi identificado um maior número de artigos que utilizam os princípios de TQM.
+Como resultado desses elementos no desempenho das organizações, foi evidenciado que a gestão do conhecimento e gestão da qualidade possuem uma relação positiva no desempenho das organizações.
+A partir da análise, foi possível identificar que os efeitos da gestão da qualidade são limitados a longo prazo. Para assegurar o desempenho sustentável e a vantagem competitiva, é necessário que as organizações implementem uma estratégia integrada entre gestão da qualidade e gestão do conhecimento, visando a maximização do efeito inovador.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Constatou-se também a dificuldade em identificar estudos que especifiquem os fatores da qualidade que influenciam o desempenho organizacional, como foi realizado com os processos de gestão do conhecimento, por exemplo, o compartilhamento de conhecimento.
+Para pesquisas futuras, sugere-se a elaboração de revisões sistemáticas quantitativas que determinem efeitos e modelos que justifiquem a relação entre os elementos dos construtos e possibilitem a comprovação dos resultados obtidos. Seria importante que esses estudos tenham foco em economias emergentes a fim de comprovar as relações propostas pelos autores.
+Dentre as limitações da pesquisa, constatou-se que a utilização de apenas duas variáveis pode auxiliar na identificação das relações, enquanto uma análise do desempenho organizacional de maneira integrada exige uma análise a partir de diferentes perspectivas, incluindo novas variáveis. Em alguns estudos, os indicadores de desempenho não foram totalmente objetivos, pois os estabeleceram através de percepções dos respondentes da pesquisa. Além disso, foi evidente a ausência de estudos que possuíssem como população as economias emergentes e inovadoras.
+REFERÊNCIAS BIBLIOGRÁFICAS
+[1] Birger Wernerfelt. “The resource-based view of the firm: ten years after”, Strategic Management Journal, vol. 16, n. 3, pp. 171–174, March 1995.
+[2] R. M. Grant, “Toward a knowledge-based theory of the firm”, Strategic Management Journal, vol. 17, n. 2. pp. 109–122, December 1996.
+[3] Ikujiro Nonaka, and Hirotaka Takeuchi, Gestão do conhecimento. Porto Alegre: Bookman, 2008. 319 p.
+[4] Peter N. Golder, Debanjan Mitra, Christine Moorman, “What is Quality?: an integrative framework of processes and states”, Journal Of Marketing, vol. 76, n. 4, pp. 1-23, July 2012.
+[5] Associação Brasileira de Normas Técnicas, NBR ISO 9001: Sistemas de gestão da qualidade - Requisitos. Rio de Janeiro: ABNT, 2015.
+[6] Hafizi Muhamad Ali, Nor Hayati Ahmad, “Knowledge Management in Malaysian Banks: a new paradigm”, Journal Of Knowledge Management Practice, vol. 7, n. 3, pp. 1-13, September 2006.
+[7] Thomas Powell, “Total quality management as competitive advantage: A review and empirical study”, Strategic Management Journal, vol. 16, pp. 15-37, 1995.
+[8] Hale Kaynak, “The relationship between total quality management practices and their effects on firm performance”, Journal of Operations Management, vol. 21, pp. 405–435, 2003.
+[9] Jayant Saraph, George Benson, Roger Schroeder, “An instrument for measuring the critical factors of quality management”, Decision Sciences, vol. 20, n.4 pp. 810-829. 1989.
+[10] International Organization for Standardisation, ISO 9000: Quality management systems - Fundamentals and vocabulary. ISO, 2015.
+[11] Bruno Henrique Rocha Fernandes, Maria Tereza Leme Fleury e John Mills, “Construindo o diálogo entre competência, recursos e desempenho organizacional”, Revista de Administração de Empresas, vol. 46, n. 4, pp. 1-18, December 2006.
+[12] Hugo Pena Brandão, Jairo Eduardo Borges-Andrade e Tomás de Aquino Guimarães, “Desempenho organizacional e suas relações com competências gerenciais, suporte organizacional e treinamento”, Revista de Administração (São Paulo), vol. 47, n. 4, pp. 523-539, December 2012.
+[13] N. Venkatraman e Vasudevan Ramanujam, “Measurement of Business Performance in Strategy Research: a comparison of approaches”, Academy Of Management Review, vol. 11, n. 4, pp. 801-814, October 1986.
+
+[14] Robin Whittemore e Kathleen Knafl, “The integrative review: updated methodology”, Journal Of Advanced Nursing, vol. 52, n. 5, pp. 546-553, December 2005.
+[15] R. J. Torraco, “Writing Integrative Literature Reviews: Guidelines and Examples”, Human Resource Development Review, vol. 4, n. 3, pp. 356– 367, 2005.
+[16] R. J. Torraco, “Writing Integrative Literature Reviews: Using the Past and Present to Explore the Future”, Human Resource Development Review, vol. 15, n. 4, pp. 404–428, 2016.
+[17] Taís Freire Galvão, Thais de Souza Andrade Pansani e David Harrad, “Principais itens para relatar Revisões sistemáticas e Meta-análises: a recomendação prisma”, Epidemiologia e Serviços de Saúde, vol. 24, n. 2, pp. 335-342, June 2015.
+[18] Zeyad Alkhazali, Issam Aldabbagh, Ayman Abu-Rumman, “TQM Potential Moderating Role to the Relationship between HRM Practices, KM Strategies and Organizational Performance: the case of jordanian banks”, Academy Of Strategic Management Journal, vol. 18, n. 3, pp. 116, May 2019.
+[19] Marta Mas-Machuca, Frederic Marimon, Ivan Malsabic, “Levering up performance through quality and knowledge creation”, International Journal for Quality Research, vol. 14, n. 2, p. 601–622, 2020.
+[20] Maha Mohammed Yusr, Sany Sanuri Mohd Mokhtar, Abdul Rahim Othman, Yaty Sulaiman, “Does interaction between TQM practices and knowledge management processes enhance the innovation performance?” International Journal Of Quality & Reliability Management, vol. 34, n. 7, p. 955-974, August 2017.
+[21] Daniel Jiménez-Jiménez , Micaela Martinez-Costa , Angel R. MartínezLorente e Hammady Ahmed Dine Rabeh, “Total quality management performance in multinational companies”, The TQM Journal, vol. 27, n. 3, p. 328-340, April 2015.
+[22] Daniel Jiménez-Jiménez , Micaela Martinez-Costa e Lorena ParaGonzalez, “Implications of TQM in firm’s innovation capability”, International Journal of Quality & Reliability Management, vol. 37, n. 2, pp. 279-304, 2020.
+[23] Charles Gowen, Stephanie Henagan e Kathleen McFadden, “Knowledge management as a mediator for the efficacy of transformational leadership and quality management initiatives in U.S. health care”, Health Care Management Review, vol. 34, n. 2, pp. 129-40, 2009.
+[24] Anne Morris Díaz, Carlos Rodríguez Monroy, Antonio Vizán Idoipe, Moisés Martínez Soto e Marcelo Gil Araujo, “Sistema de gestión de la calidad y desempeño organizacional en la industria petrolera. Interciencia, vol. 38, n. 11, pp. 793-802, 2013.
+[25] César Camisón Zornoza, Montserrat Boronat Navarro, Ana Villar López e Alba Puig Denia, “Sistemas de gestión de la calidad y desempeño: importancia de las prácticas de gestión del conocimiento y de I+D”, Revista Europea de Dirección y Economía de la Empresa, vol. 18, n. 1, pp. 123-134, 2009.
+[26] Bara’ Tareq Qasrawi, Soud Mohammad Almahamid, Shadi Tareq Qasrawi, “The impact of TQM practices and KM processes on organisational performance”, International Journal Of Quality & Reliability Management, vol. 34, n. 7, pp. 1034-1055, August 2017.
+[27] Anu P. Anil, ANIL, K. P. Satish, “Enhancing customer satisfaction through total quality management practices – an empirical examination”, Total Quality Management & Business Excellence, vol. 30, n. 13-14, pp. 1528-1548, September 2017.
+[28] Mesut Akdere, “A multi-level examination of quality-focused human resource practices and firm performance: evidence from the us healthcare industry”, The International Journal Of Human Resource Management, vol. 20, n. 9, p. 1945-1964, September 2009.
+[29] Amir Honarpour, Ahmad Jusoh, Khalil Md Nor, “Total quality management, knowledge management, and innovation: an empirical study in R&D units”, Total Quality Management & Business Excellence, vol. 29, n. 7-8, pp. 798-816, January 2017.
+[30] Siew-Phaik Loke, Alan G. Downe, Murali Sambasivan e Khalizani Khalid, “A structural approach to integrating total quality management and knowledge management with supply chain learning”, Journal Of Business Economics and Management, vol. 13, n. 4, p. 776-800, September 2012.
+[31] Man Yiu e Kit Pun, “Measuring knowledge management performance in industrial enterprises”, The Learning Organization, vol. 21, n. 5, pp. 310 - 332. 2014.
+[32] Andreas Garstenauer, Tim Blackburn e Bill Olson, “A Knowledge Management Based Approach to Quality Management for Large Manufacturing Organizations”, Engineering Management Journal, vol. 26, n. 4, pp. 47-58, December 2014.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

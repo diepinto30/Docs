@@ -1,0 +1,315 @@
+Incidencia del capital humano y la tecnología en las emisiones de ‫ܱܥ‬ଶ en América Latina, periodo 1980 - 2017
+
+Impact of human capital and technology on ‫ܱܥ‬ଶ emissions in Latin America, period 1980 - 2017
+
+Departamento de Economía – Universidad Técnica Particular de Loja, Loja-Ecuador.
+
+Ávila-Sánchez Igor, Cevallos-Meneses Germán, Valdivieso-Burneo Diana, Ochoa-Moreno Santiago
+dpvaldivieso1@utpl.edu.ec; imavila2@utpl.edu.ec; gacevallos11@utpl.edu.ec; wsochoa@utpl.edu.ec.
+
+Resumen — La presente investigación, a través de un modelo de datos de panel, muestra evidencia sobre la influencia que ejercen las variables de capital humano y tecnología sobre la contaminación atmosférica y las emisiones de ‫ܱܥ‬ଶ en países de America Latina, para el periodo 1980 – 2017. Con información obtenida de la Penn World Table 9.1 y los WDI del Banco Mundial, el uso de las suscripciones a telefonía fija como un proxy de tecnología, y una división por grupos de los países analizados en función de su nivel de ingresos, se encontraron relaciones positivas directas entre las variables independientes y la variable dependiente.
+Palabras Clave – Emisiones de ࡯ࡻ૛, Capital Humano, Tecnología, Población.
+Abstract — The following research, through a panel data model, shows evidence on the influence that the variables human capital and technology exert on air pollution and ࡯ࡻ૛ emissions in Latin American countries, for the period 1980 - 2017. Through information obtained from the Penn World Table 9.1 and the World Bank WDI, the use of fixed telephony subscriptions as a technology proxy, and a division by groups of the countries analyzed according to their income level, direct positive relationships were found between the independent variables and the dependent variable.
+Keywords – ࡯ࡻ૛ emissions, Human Capital, Technology, Population.
+I. INTRODUCCIÓN
+La contaminación del aire a raíz de las emisiones de sustancias contaminantes, particularmente ‫ܱܥ‬ଶ, es quizá uno de los problemas más importantes que enfrentamos en la actualidad. Las emisiones a la atmósfera son causa y agravantes de la contaminación del aire, así como de sus efectos sobre la salud de las personas, ya sea de forma directa o indirecta (Ballester, 2005). Esto puede evidenciarse en los datos provistos por la Organización Mundial de la Salud (2018) que afirma que 4,2 millones de muertes prematuras pueden atribuirse a la contaminación del aire, con un 88 % de estas muertes ocurriendo en países de ingresos medios y bajos.
+
+Las fuentes de contaminación son muchas y muy variadas; no obstante, en la presente investigación buscamos determinar no las causas, sino la incidencia que variables como capital humano, la tecnología, y el crecimiento poblacional tienen sobre dicha contaminación.
+Primeramente, la dotación del capital humano se ve acrecentada por la inversión en educación de los individuos, y se considera determinante para el crecimiento de los países y del nivel de ingresos de la persona educada (Mosquera, 2011). Sin embargo, en muchos países, especialmente en aquellos en vías de desarrollo Zilio (2012) sostiene que el gasto público que las economías destinarían a política ambiental se destina a gasto social (incluida la educación) o a infraestructura. Esto es entendible debido al sentido de prioridad asociada a garantizar el bienestar social y el crecimiento económico.
+No obstante, lo que en primera instancia pareciera indicar una relación inversa entre las variables que puede contraponerse a lo planteado por Jung et al. (2000) al sostener que la educación forma parte de los factores cualitativos fundamentales que afecten las emisiones futuras de sustancias contaminantes. Esto debido a que, si se tiene en consideración los efectos positivos en el ingreso que la inversión en capital humano conlleva, puede entenderse como, cuando dicho ingreso aumenta, la estructura de las economías tiende a un cambio gradual hacia actividades menos contaminantes y mayor regulación ambiental (Dinda, 2004). De igual manera, esto puede verse reforzado por los hallazgos de Sánchez, Ochoa y Ochoa (2018) respecto a que la educación y concientización ambiental pueden repercutir en un mayor cuidado y responsabilidad medioambiental.
+En lo que a tecnología respecta, es importante hacer una distinción entre las distintas acepciones que el termino adopta, tomando lo planteado por Garcia (2010) sobre los efectos nocivos de la tecnología como producto y proceso, especialmente referidos a los desequilibrios ecológicos y la contaminación ambiental. Esto debido a un modelo lineal de innovación en el que la tecnología llega a la sociedad a través
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+de la comercialización empresarial, sin considerar que muchas de las nuevas tecnologías son altamente contaminantes y nada sustentables (Olson y Galaz, 2012). Asimismo, la tecnología como producto, debido a periodos de vida útil cada vez más cortos, se hace cada vez más difícil disponer de los residuos de la tecnología, como proceso o producto (Aguilera, 2010).
+No obstante, y debido a la preocupación causada por los problemas descritos con anterioridad, la innovación ecotecnología que permita el uso sustentable de los recursos naturales se ha convertido en uno de los retos más importantes de la actualidad (Gavito et al., 2017) a la par que se plantea un uso más eco amigable para las tecnologías existentes, en virtud de las problemáticas actuales. Por ejemplo, González y López (2018) determinaron que la inversión en TIC podría tener efectos positivos en el desarrollo sustentable, así como facilitar la resolución de problemas de carácter social, como la inclusión y equidad, a la par que Prieto (2020) sostiene que el uso de las TIC puede contribuir a lo que denomina como la “contaminación silenciosa” a través del consumo de recursos que la transferencia de información conlleva.
+La tecnología es considerada como una dimensión indispensable dentro del proceso de crecimiento económico (Sen y Saray, 2019) de forma tal que su inclusión contribuye significativamente a mejorar la productividad en la producción y genera externalidades positivas en la economía (Acharya, 2016). Sin embargo, es precisamente esta contribución lo que puede dar pie a que la inclusión tecnológica, a través de las TIC, pueda conllevar efectos ambientalmente negativos, como incrementos en las emisiones de ‫ܱܥ‬ଶ (Altinoz, Vasbieva y Kalugina, 2020).
+Adicionalmente, se incorporó como variable de control el crecimiento poblacional, misma que puede tener influencia sobre la contaminación y el cambio climático. En el caso de países en vías de desarrollo, Martínez y Maruotti (2011) señala que los efectos negativos del crecimiento demográfico sobre el medio ambiente son más severos pues se ven acompañados de un aumento de la urbanización y consumo de energía y recursos, lo que desemboca en una mayor contaminación atmosférica. Sobre esto, Nasir y Rehman (2011) plantean que la razón de que el ratio de emisiones de ‫ܱܥ‬ଶ son mayores en países en vías de desarrollo se explica porque estos no se ven obligados a ceñirse al protocolo de Kioto, no obstante, Alam et al. (2016) plantea también que las naciones más pobladas son ineludiblemente responsables por mayores emisiones de ‫ܱܥ‬ଶ.
+Una revisión de la literatura deja entrever señales mixtas respecto al comportamiento y las relaciones esperadas entre capital humano, tecnología y contaminación atmosférica, razón por la cual, a través de un análisis de modelos de datos, empleando información de 12 países de América Latina, se busca responder a las interrogantes ¿Influyen el capital humano y la tecnología en las emisiones de ‫ܱܥ‬ଶ? ¿varían las relaciones encontradas dependiendo del nivel de ingresos del país?
+
+II. DESCRIPCIÓN DE DATOS Y/O HECHOS ESTTIILIZADOS
+La presente investigación desarrolla un modelo de datos de panel, empleando información de la Penn World Table, versión 9.1 (2021) y de los World Development Indicators (2021) del Banco Mundial, para 12 países de América Latina, en el periodo 1980 – 2017, analizados en función de los niveles de ingreso. Asimismo, esta investigación tiene por objetivo determinar el efecto que tengan en la contaminación atmosférica, expresada como emisiones de ‫ܱܥ‬ଶ, las variables capitales humano y tecnología, agregando población como variable de control.
+El uso de las emisiones de ‫ܱܥ‬ଶ como un símil de contaminación atmosférica se halla muy generalizado, y son varias las investigaciones en donde destaca el uso de dichas emisiones para el análisis de los principales contaminantes atmosféricos (e.g. Alcántara y Padilla, 2007; Díaz y Cancelo, 2009; Gómez, 2011). Entendiendo las emisiones de ‫ܱܥ‬ଶ como aquellas procedentes de la quema de combustibles fósiles, sean estos sólidos, líquidos o gas esos, y la fabricación de cemento, se empleó información de emisiones de ‫ܱܥ‬ଶ, expresadas en kilotoneladas (World Bank, 2020)
+Para el capital humano se utilizó aquel provisto por la Penn World Table, versión 9.1 (2021). Este se trata de un índice basado en el promedio de años de escolaridad y una tasa asumida de retorno, siendo el ICH una función de los años de escolaridad s, para un país i en un tiempo t (Inklaar y Timmer, 2013)
+Adicionalmente, con respecto a la tecnología, se empleó como proxy las suscripciones a telefonía fija, entendidas como la suma de líneas de telefonía análoga activas, suscripciones VoIP, WLL, canales de voz ISDN y sus equivalentes, y teléfonos de pago públicos (World Bank, 2020). El uso de las suscripciones de telefonía fija como proxy de tecnología se considera a la par que las suscripciones a telefonía móvil e internet de banda ancha en mucha de la literatura revisada dentro del marco de las TIC (e.g. Wamboye, Tochkov y Sergi, 2015; Majeed y Ayub, 2018; Bahrini y Qaffas, 2019; Majeed y Khan, 2019).
+La variable de control, la población, corresponde estimaciones a mediados de año del total de residentes de un país, más allá de su estatus legal o de ciudadanía (World Bank, 2020).
+En las gráficas de dispersión 1, 2 y 3 subsiguientes se observa la relación durante el tiempo de las variables independientes y la variable dependiente. Cabe mencionar que el análisis empleo las variables en logaritmos.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+20
+
+14
+
+16
+
+18
+
+20
+
+12
+
+14
+
+16
+
+18
+
+.2
+
+.4
+
+.6
+
+.8
+
+1
+
+1.2
+
+lCH
+
+lCO2 Fitted values
+
+Fitted values
+
+Figura 1. Emisiones de ‫ܱܥ‬ଶ y Capital Humano, en logaritmos.
+Fuente y elaboración. Autores con datos del Penn World Table y World
+Economic Forum y Banco Mundial, 2021.
+
+En las tres imágenes expuestas podemos observar una relación positiva entre las variables comparadas en cada uno de los casos. En la primera imagen vemos una marcada dispersión, atribuible a las disparidades en el capital humano entre los países analizados, mientras que en la segunda y tercera grafica se ve un mayor ajuste hacia la media. Es necesario destacar también el sutil comportamiento cuadrático, como una U, en la segunda imagen, que relaciona tecnología y emisiones de ‫ܱܥ‬ଶ.
+A continuación, se presentan también los datos descriptivos de las variables:
+
+TABLA 1. DESCRIPTIVOS DE LAS EMISIONES DE ‫ܱܥ‬ଶ, CAPITAL HUMANO, TECNOLOGÍA Y POBLACIÓN.
+
+Países por nivel
+de ingresos
+
+‫ܱܥ‬ଶ (Log)
+
+Capital Humano
+(Log)
+
+Tecnología (Log)
+
+Población (Log)
+
+Medios
+
+15.38472 0.6805519
+
+12.36536
+
+15.61637
+
+bajos (0.6382086) (0.162945) (1.037896) (0.2816744)
+
+Medios
+
+18.07403 0.8394492
+
+15.05185
+
+17.41899
+
+altos (0.9818338) (0.1629021) (1.335622) (0.8789048)
+
+Altos
+
+16.19322 0.9446917
+
+13.46882
+
+15.45916
+
+(1.102073) (0.0925037) (0.9419779) (0.7620308)
+
+Total
+
+16.70739
+
+0.812794
+
+(1.505924) (0 .180159)
+
+13.7606 (1.639135)
+
+16.32816 (1.1605)
+
+() Representa la desviación estándar en cada grupo.
+
+Fuente y elaboración. Autores con datos del Penn World Table y World
+
+Economic Forum y Banco Mundial, 2021
+
+III. METODOLOGÍA Y RESULTADOS
+
+12
+
+18
+
+20
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+lFTlf
+
+lCO2 Fitted values
+
+Fitted values
+
+Figura 2. Emisiones de ‫ܱܥ‬ଶ y Suscripciones de teléfono fijo, en logaritmos.
+Fuente y elaboración. Autores con datos del Penn World Table y World
+Economic Forum y Banco Mundial, 2021.
+
+A. Metodología
+La metodología empleada en la presente investigación fue un modelo de datos panel, construido con información de 13 países latinoamericanos, dentro del periodo 1980 – 2017. Se consideró como variable independiente la contaminación atmosférica, contabilizada a través de las emisiones de ‫ܱܥ‬ଶ, en toneladas anuales; mientras que las variables independientes fueron Capital Humano, obtenida de la Penn World Table 9.1, y la Tecnología, a través de la variable proxy Suscripciones de teléfono fijo. Se agrego además una variable de control, la Población. Es menester mencionar que se aplicó logaritmos a todas las variables a fin de obtener una modelación más ajustada. Una vez detalladas las variables empleadas, se elaboró la siguiente estructura:
+
+16
+
+12
+
+14
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+lPop
+
+lCO2 Fitted values
+
+Fitted values
+
+Figura 3. Emisiones de ‫ܱܥ‬ଶ y Población, en logaritmos.
+Fuente y elaboración. Autores con datos del Penn World Table y World
+Economic Forum y Banco Mundial, 2021.
+
+‫ܱܥ(݃݋ܮ‬2௜௝) = ߚ଴ + ߚଵ‫ܪܥ(݃݋ܮ‬ଵ௜௝) + ߚଶ‫ܿ݁ܶ(݃݋ܮ‬ଶ௜௝) + ߚଷ‫ܾ݋ܲ(݃݋ܮ‬ଷ௜௝) + ߤ௜௝ (1)
+En donde Log(‫ܱܥ‬2୧୨) representa el logaritmo de la variable Emisiones de ‫ܱܥ‬ଶ en cada período de tiempo (i) y en cada país (j); Log(‫ܪܥ‬ଵ௜௝), corresponde al logaritmo la variable de Capital Humano en cada uno de los países de Latinoamérica; al igual que Log(ܶ݁ܿଶ௜௝), es el logaritmo de la variable Tecnología; y Log(ܲ‫ܾ݋‬ଷ௜௝) corresponde al logaritmo de la Población. Asimismo, el coeficiente ߚ଴ corresponde al término independientemente, intercepto o constante; mientras que,
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+ߚଵ, ߚଶ y ߚଷ son los coeficientes de las variables independientes, respectivamente. El término de error se representa por ߤ௜௝.
+
+Finalmente, para la modelación de todos los países se tuvo que aplicar corrección de heterocedasticidad y autocorrelación con una regresión de Prais-Winsten. Para la división y análisis de países por nivel de ingresos, se tuvo en consideración la división realizada por el Banco Mundial (2020). Se agrupo a Chile, Panamá y Uruguay dentro de los países con ingresos altos; a Argentina, Brasil, Colombia, Ecuador y Perú dentro de los países de ingresos medios altos, y dentro del grupo de países medios bajos se consideró a Bolivia, El Salvador, Honduras y Nicaragua. Se modeló con corrección de heterocedasticidad, correlación temporal y autocorrelación con el Feasible Generalized Least Squares (FGLS).
+
+B. Resultados
+
+Los resultados obtenidos a través del modelo de datos de panel se presentan en la siguiente tabla, detallando mediante las estimaciones [E1-E4] las relaciones entre las variables analizadas. Cabe recalcar que las variables están expresadas en logaritmos.
+
+TABLA 2. ESTIMACIONES DE LAS EMISIONES DE ‫ܱܥ‬ଶ POR GRUPOS DE PAÍSES (SEGÚN NIVEL DE
+
+INGRESOS)
+
+[E1] Medios bajos
+
+[E2] Medios altos
+
+[E3] Altos
+
+[E4] Total
+
+Capital
+
+1.495328* 0.5581551** 1.502752 ** 1.421625*
+
+Humano (0.2830747) (0.2495267) (0. .682014) (0.1991551)
+
+Tecnología
+
+0.1737212* (0.035012)
+
+0.140374*** 0.154368** (0.0719602) (0.0722904)
+
+0.1375628** (0.0438272)
+
+Población
+
+0.8499476* 0.7914596* 1.12895* (0.1925569) (0.1066026) (0.0602955)
+
+1.007662* (0.0604852)
+
+_cons
+
+-1.023245 (2.646981)
+
+1.779381 -4.721437* -2.752284 * (1.115883) (0.6614766) (0.5865242)
+
+() Representa errores estándar robustos. *,** y *** expresan la
+
+significancia
+
+estadística al 1%, 5% y 10%, respectivamente.
+
+Fuente y elaboración. Autores con datos del Pen World Table y World
+
+Economic Forum y Banco Mundial, 2021.
+
+IV. DISCUSIÓN DE RESULTADOS Y CONCLUSIONES
+Los resultados obtenidos a través de la presente investigación muestran que las variables Capital Humano, Tecnología y Población presentan una relación positiva directa en los países latinoamericanos analizados, indistintamente de su nivel de ingresos. No obstante, al analizar y comparar con detenimiento los efectos individuales de las variables, en función de cada grupo de países, observamos que si bien el capital humano influye directamente en el aumento de emisiones de ‫ܱܥ‬ଶ, y por ende en la contaminación atmosférica, parece ser que este influye más en los países de ingresos altos que en los países de ingresos medios-bajos, que a su vez muestran mayores efectos que los países de ingresos medios altos. Esto deja entrever como es precisamente que el aumento de capital humano revela además un desarrollo
+
+industrial dentro de estos países, lo que a su vez desemboca en una mayor producción y contaminación. Pese a esto, las diferencias entre la influencia los dos últimos grupos de países puede atribuirse a la selección de los países que se analizaron en este trabajo, por lo que futuras investigación podrian encaminarse a una evaluación más exhaustiva de cada uno de los grupos de países, así como a un análisis individual.
+En lo que a avance tecnológico respecta, se aprecia comportamientos similares entre los grupos de países, siendo aquellos con ingresos medios bajos en donde las emisiones de ‫ܱܥ‬ଶ parecen verse más afectadas por la tecnología. Nuevamente, la metodología empleada en la investigación puede ser un factor fundamental para considerar, puesto que el uso de una variable proxy no refleja la naturaleza de la penetración y actividad tecnológica en América latina. Pese a esto, los resultados obtenidos concuerdan con la investigación realizada por Altinoz, Vasbieva y Kalugina (2020) quienes encontraron que la tecnología, a través de las suscripciones de telefonía fija, tenía una relación positiva con la contaminación, por lo que es necesario influir en la balanza e incentivar que los efectos medioambientales positivos de la inclusión tecnológica superen a los efectos negativos.
+Cabe mencionar también que se consideró otras variables proxy, como las suscripciones de Internet de banda ancha o las suscripciones a líneas de telefonía móvil, pero los resultados arrojados no resultaron estadísticamente significativos, quizá debido a la aun pobre penetración de estas tecnologías, particularmente el Internet de banda ancha, en la región.
+El crecimiento poblacional parece influir particularmente en el aumento de la contaminación por emisiones de ‫ܱܥ‬ଶ de los países de ingresos altos, lo que concuerda con la literatura revisada, puesto que se espera que las economías más grandes sean también las que más contaminen. No obstante, es importante recordar el contexto regional latinoamericano, marcado por la presencia de economías aun en desarrollo, y como estas pueden incurrir fácilmente en procesos y actividades contaminantes a fin de producir y crecer.
+REFERENCIAS BIBLIOGRÁFICAS
+[1] Acharya, R. C. (2016). ICT use and total factor productivity growth: intangible capital or productive externalities?. Oxford Economic Papers, 68(1), 16-39.
+[2] Aguilera, L. H. (2010). La basura electrónica y la contaminación ambiental. Enfoque UTE, 1(1), 46-61.
+[3] Alam, M. M., Murad, M. W., Noman, A. H. M., & Ozturk, I. (2016). Relationships among carbon emissions, economic growth, energy consumption and population growth: Testing Environmental Kuznets Curve hypothesis for Brazil, China, India and Indonesia. Ecological Indicators, 70, 466-479.
+[4] Alcántara, V., & Padilla, E. (2007). Subsistemas input-output y contaminación: una aplicación al sector servicions y las emisiones de CO2 en España.
+[5] Altinoz, B., Vasbieva, D., & Kalugina, O. (2020). The effect of information and communication technologies and total factor productivity
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+on CO 2 emissions in top 10 emerging market economies. Environmental Science and Pollution Research, 1-10.
+[6] Bahrini, R., & Qaffas, A. A. (2019). Impact of information and communication technology on economic growth: Evidence from developing countries. Economies, 7(1), 21.
+[7] Ballester, F. (2005). Contaminación atmosférica, cambio climático y salud. Revista Española de Salud Pública, 79(2), 159-175.
+[8] Díaz-Vázquez, M., & Cancelo, M. T. (2009). Emisiones de CO2 y azufre y crecimiento económico:¿ Una curva de Kuznets ambiental?. Regional and Sectoral Economic Studies, 9(2).
+[9] Dinda, S. (2004). Environmental Kuznets curve hypothesis: a survey. Ecological economics, 49(4), 431-455.
+[10] Feenstra, R. C., Inklaar, R., & Timmer, M. P. (2019). Penn World Table 9.1. Groningen Growth and Development Centre. https://doi. org/10.15141/s50t0r.
+[11] García-Córdoba, F. (2010). La tecnología: su conceptuación y algunas reflexiones con respecto a sus efectos. Metodología de la Ciencia. Revista de la Asociación Mexicana de Metodología de la Ciencia y de la Investigación, 2(1), 13-28.
+[12] Gavito, M. E., Wal, H. V. D., Aldasoro, E. M., Ayala-Orozco, B., Bullén, A. A., Cach-Pérez, M., ... & Villanueva, G. (2017). Ecología, tecnología e innovación para la sustentabilidad: retos y perspectivas en México. Revista mexicana de biodiversidad, 88, 150-160.
+[13] Gómez-López, C. S. (2011). Crecimiento económico, consumo de energía y emisiones contaminantes en la economía mexicana. Revista Fuente Año, 3(9).
+[14] González, J. C. D., & López, R. A. C. (2018) LAS TIC COMO VEHÍCULO DEL DESARROLLO SUSTENTABLE PARA FOMENTAR LA EQUIDAD E INCLUSIÓN HUMANA.
+[15] Inklaar, R., & Timmer, M. P. (2013). Capital, Labor and TFP in PWT8. 0. University of Groningen (unpublished), 23-24.
+[16] Jung, T. Y., La Rovere, E. L., Gaj, H., Shukla, P. R., & Zhou, D. (2000). Structural changes in developing countries and their implication for energy-related CO2 emissions. Technological Forecasting and Social Change, 63(2-3), 111-136.
+[17] Majeed, M. T., & Ayub, T. (2018). Information and communication technology (ICT) and economic growth nexus: A comparative global
+
+analysis. Pakistan Journal of Commerce and Social Sciences (PJCSS), 12(2), 443-476.
+[18] Majeed, M. T., & Khan, F. N. (2019). Do information and communication technologies (ICTs) contribute to health outcomes? An empirical analysis. Quality & quantity, 53(1), 183-206.
+[19] Martínez-Zarzoso, I., & Maruotti, A. (2011). The impact of urbanization on CO2 emissions: evidence from developing countries. Ecological Economics, 70(7), 1344-1353.
+[20] Mosquera, A. B. (2011). La educación y su efecto en la formación de capital humano y en el desarrollo económico de los países. Apuntes del CENES, 30(51), 45-59.
+[21] Mundial, B. (2020). World Bank country and lending groups. Country Classification.
+[22] Nasir, M., & Rehman, F. U. (2011). Environmental Kuznets curve for carbon emissions in Pakistan: an empirical investigation. Energy policy, 39(3), 1857-1864.
+[23] Olsson, P., & Galaz, V. (2012). Social-ecological innovation and transformation. In Social innovation (pp. 223-247). Palgrave Macmillan, London.
+[24] Prieto Espinosa, A. (2020). La contaminación silenciosa.
+[25] Sánchez, P. M., Ochoa-Ordóñez, O., & Ochoa-Moreno, W. (2018). Emisiones de CO2, crecimiento económico y escolaridad: análisis subnacional para Ecuador. Ciencia y Tecnología, 11(2), 69-76.
+[26] Sen, A., & Saray, M. O. (2019). Information and Communication Technologies and Economic Growth: Evidence from EU and Turkey. Journal of Economic Cooperation & Development, 40(2), 169-192.
+[27] Wamboye, E., Tochkov, K., & Sergi, B. S. (2015). Technology adoption and growth in sub-Saharan African countries. Comparative Economic Studies, 57(1), 136-167.
+[28] World Bank. (2020). World development indicators 2020. The World Bank.
+[29] World Health Organization. (2018). Frequently asked questions. Ambient and household air pollution and health. Update.
+[30] Zilio, M. I. (2012). Curva de Kuznets ambiental: La validez de sus fundamentos en países en desarrollo. Cuadernos de economía, 35(97), 4354.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+

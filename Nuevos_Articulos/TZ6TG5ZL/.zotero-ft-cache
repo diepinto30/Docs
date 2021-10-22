@@ -1,0 +1,587 @@
+¿Influye el capital intelectual en el riesgo de las empresas ecuatorianas de comunicación?
+
+Does intellectual capital influence the risk of
+Ecuadorian communication companies?
+Armas Herrera, R. 1 ,Higuerey Gómez, A.2 y Peñarreta Quezada, M.A. 3
+Departamento de Ciencias empresariales Universidad Técnica Particular de Loja
+Loja, Ecuador ahreinaldo@utpl.edu.ec1, aahiguerey@utpl.edu.ec2,
+mapenarreta@utpl.edu.ec3,
+
+Resumen — El capital intelectual afecta al riesgo de la empresa. Cuanto mejor sean gestionadas las empresas menor riesgo soportarán y mejor performance tendrán. El objetivo de este artículo es determinar cómo se relaciona el riesgo y el capital intelectual, medido mediante la metodología VAIC en sus diferentes aspectos, en las empresas de comunicación ecuatorianas en el periodo 2014-2019. Mediante regresiones cuantílicas se determina que el riesgo, medido mediante la Z de Altman, depende negativamente del capital físico, intelectual y humano de las compañías de comunicación, por lo que una adecuada gestión del capital intelectual aumenta la probabilidad de supervivencia de las empresas.
+Palabras claves: capital intelectual; regresión cuantílica; empresas de comunicación, Ecuador.
+Abstract — Intellectual capital affects the company's risk. The better the companies are managed, the less risk they will bear and the better performance they will have. The objective of this article is to determine how risk and intellectual capital, measured by the VAIC methodology, are related in their different aspects in Ecuadorian communication companies in the period 2014-2019. Through quantile regressions it is determined that risk, measured by Altman's Z, depends negatively on the physical, intellectual and human capital of the communication companies, so that adequate intellectual capital management increases the probability of survival of the companies.
+Keywords - Intellectual capital; quantile regression; Ecuador.
+I. INTRODUCCIÓN
+La gestión del capital intelectual es una herramienta que ayuda a la eficiencia de las empresas y a reducir el riesgo financiero, [1] y [2].
+En Ecuador, la probabilidad de que una empresa fracase en los cinco primeros años es alta, y la probabilidad de que sobreviva más de 10 años es pequeña.
+
+En las empresas de comunicación de Ecuador si hay una adecuada gestión del capital intelectual se puede mejorar la rentabilidad de los activos (ROA) y del patrimonio (ROE), [3]. Además, esta gestión del capital intelectual puede ayudar a que las empresas sean más eficientes, [4].
+Este trabajo es uno de los primeros en estudiar la influencia del capital intelectual sobre el riesgo de las empresas de comunicación ecuatorianas mediante el uso de las regresiones cuantílicas. El uso de este tipo de regresión permite analizar el riesgo de las empresas a partir de su función de distribución.
+El resto del artículo tiene la siguiente estructura; en la sección dos está la revisión de la literatura, en la sección tres, se muestran los datos, variables e hipótesis, la sección cuatro presenta los resultados y en la sección cinco, se plantean las conclusiones y futuras investigaciones.
+II. REVISIÓN DE LA LITERATURA
+A. Conceptos de capital intelectual
+El término de capital intelectual (IC) ha sido definido de forma diferente por muchos investigadores.
+Los primeros autores pioneros de IC coincidieron en que IC es el conjunto de activos intangibles que, pese a no estar reflejados en el balance financiero tradicional, en el mercado perciben que tienen valor o tienen potencial para generarlo en el futuro [5], [6], [7], [8]. Acorde a [9], [10], [11] determinaron que IC
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+representa el valor económico del capital humano y capital estructural como parte de los activos intangibles de la empresa. Adicionalmente, [12], [13] definieron a IC como el conjunto de recursos y capacidades de carácter intangible o activos de conocimiento, que la firma posee y controla para lograr competitividad y desempeño financiero.
+Por ende, medir los activos intangibles por su capacidad de generación de valor en las firmas ha permitido crear una serie de metodologías, algunas con indicadores internos no financieros. Las más citadas corresponden a los modelos: Intangible Assets Monitor [14], Skandia Navigator [15], modelo Intelecto desarrollado en España por el Instituto Universitario Euroforum Escorial [16] y Balanced Scorecard planteado por [17], que han significado un intento valioso por medir IC en las empresas.
+Sin embargo, la necesidad de medir la gestión de IC en el desempeño financiero de las empresas basadas en las cifras de balance y ratios supuso la creación del modelo VAIC planteado por Ante Pulic, [18]. Este modelo sigue vigente y asigna valores económicos explícitos al valor añadido (VA) y capital empleado (CE), al capital humano (HC) y al capital estructural (SC) y sobre esta base, genera un índice VAIC. En esencia, el índice VAIC es un indicador que mide la sumatoria de la eficiencia de IC con la eficiencia del capital empleado.
+B. Modelos de ratios financieros en la quiebra empresarial
+Los modelos de ratios financieros se encuentran dentro de los modelos paramétricos [19] y se emplean para predecir la quiebra empresarial [20].
+Dentro de estos los modelos pioneros para la quiebra empresarial están en [21] y [22]. En [21] se emplean diversos ratios financieros y se logra una precisión del 90%, mientras que en [22] se desarrolla el modelo Z-Score con una eficacia del 90%.
+A partir de [22] se desarrollaron varios modelos nuevos, [23] y [24]. En [23] se analizaron las quiebras con un periodo temporal de cinco años, y en [24], se desarrolló un modelo para empresas manufactureras y no manufactureras. [25] realiza una revisión del modelo Z Score y los derivados a partir de este.
+A partir de los problemas presentes en los modelos pioneros se desarrollaron nuevos enfoques, [26] y [27]. [26] empleó una regresión logística y nueve
+
+ratios financieros para asignar una probabilidad a la quiebra empresarial, mientras que [27] realizó un modelo probit con tres ratios para predecir quiebras empresariales de empresas americanas cotizadas.
+C. Riesgos y capital intelectual
+La asociación entre los riesgos y el capital intelectual es un campo de investigación relativamente nuevo. La idea esencial es que un adecuado manejo del capital intelectual va aparejado a una menor probabilidad de sufrir una quiebra empresarial o problemas financieros.
+Así destacan los trabajos pioneros de [28] y [2]. [28] asocia la idea de capital intelectual y gestión de riesgo para conseguir empresas sanas y competitivas. [2] estudiaron compañías americanas mediante el uso del VAIC, llegando a la conclusión que un adecuado uso de este genera una estabilidad financiera a largo plazo.
+[1] y [29] profundizan sobre la idea de estabilidad financiera y gestión del capital intelectual. [1] analizaron compañías egipcias y confirmaron la idea de la relación entre capital intelectual y estabilidad, mientras que [29] analizaron compañías farmacéuticas indias y refuerzan esta asociación.
+Esta asociación de conceptos también se ha aplicado al sector bancario, [30]. No obstante, no se han encontrado estudios aplicados a empresas de comunicación, ni en países desarrollados ni en vías de desarrollo.
+III. DATOS Y METODOLOGÍA
+El sector analizado en este trabajo es el sector J, " empresas de comunicación y de información". Los datos se descargaron de la Superintendencia de Compañías, Valores y Seguros (SUPERCIAS) para el periodo 2014-2019. La depuración de datos se realizó siguiendo los criterios de [3] y [31]. Se analizaron 330 observaciones en la base de datos. Las variables que se emplearon en este artículo son:
+Z: Z Score de Altman para empresas manufactureras no cotizadas. Se calcula a partir de la siguiente fórmula:
+Z=0,717(X1)+ 0,847(X2) + 3,107(X3) + 0,420(X4) + 0,998(X5) (1)
+Donde X1 es el ratio de capital de trabajo entre activos totales, X2 es el ratio de utilidades retenidas entre activos totales, X3 es el ratio de utilidades antes de intereses e impuestos entre activos totales, X4 es
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+el valor contable del patrimonio y X5 es el ratio de ventas entre activos totales. Esta variable está basada en [24], [25] y [1]. Cuanto mayor sea el valor de Z menor probabilidad de quiebra de la empresa.
+HCE: es la eficiencia del capital humano de la empresa. Se define como el ratio de ingresos menos costes de venta entre sueldos y salarios. Esta variable aparece en [3] como variable independiente.
+SCE: es la eficiencia del capital estructural. Se define como el valor añadido menos los sueldos entre el valor añadido. El valor añadido es ingresos menos costes de venta. [3] emplea esta variable en su artículo como variable independiente.
+ICE: es la eficiencia el capital intelectual. Es la suma de HCE más SCE. El referente teórico de esta variables es [3] como variable independiente.
+CEE: es la eficiencia del capital de la empresa. Es el ratio del valor añadido entre el valor en libro de los activos. Esta variable es empleada por [3] en su artículo como variable independiente.
+VAIC: es la suma de CEE e ICE, representando la eficiencia empresarial e intelectual. [3] utiliza esta variable como variable independiente en el estudio del capital intelectual.
+Tamaño: se define como el logaritmo natural del total de activos. Ha sido empleada como variable de control en [32] y [33].
+End_act: es el ratio de pasivo entre activo total. Ha sido empleada como variable de control en [32].
+[1] y [2] establecen que el capital intelectual ayuda a reducir la probabilidad de quiebra en las empresas. Partiendo de estos autores, se establecen las siguientes hipótesis:
+H1: En las empresas ecuatorianas de comunicación el HCE está relacionado negativamente con el riesgo(Z).
+H2: En las empresas ecuatorianas de comunicación el SCE está relacionado negativamente con el riesgo(Z).
+H3: En las empresas ecuatorianas de comunicación el ICE está relacionado negativamente con el riesgo(Z).
+H4: En las empresas ecuatorianas de comunicación el CEE está relacionado negativamente con el riesgo(Z).
+
+H5: En las empresas ecuatorianas de comunicación el VAIC está relacionado negativamente con el riesgo (Z).
+
+Econométricamente se plantean los siguientes modelos:
+LZit=∝+β1lHCEit+β2lEnd_actit+β3Tamañoit+μit (2) LZit=∝+β1lCEEit+β2lEnd_actit+β3Tamañoit+μit (3) LZit=∝+β1lSCEit+β2lEnd_actit+β3Tamañoit+μit (4) LZit=∝+β1lICEit+β2lEnd_actit+β3Tamañoit+μit (5) LZit=∝+β1lVAICit+β2lEnd_actit+β3Tamañoit+μit (6)
+
+Donde L es el logaritmo natural, t el tiempo, i la empresa, β es el coeficiente de regresión y es el término de error.
+
+La regresión cuantil permite hacer regresiones mediante segmentaciones de la variable dependiente. [30] emplean esta técnica econométrica para medir el impacto del capital de trabajo en los bancos de Vietnam.
+
+IV. RESULTADOS
+En la tabla I se visualizan la estadística descriptiva de las variables de estudio.
+
+TABLE I.
+
+ESTADÍSTICA DESCRIPTIVA DE LAS VARIABLES EMPLEADAS
+
+Variable Obs
+
+lZ
+
+330
+
+lHCE 330
+
+Mean 0,8686783 0,902228
+
+Std. Dev. 0,8108194 0,5020561
+
+Min -3,310231 0,0495209
+
+Max 2,043222 2,825751
+
+lCEE 330 0,113823 0,6999826 -2,127543 2,464175
+
+lSCE 330 -0,6690461 0,4107263 -3,03002
+
+-0,0610929
+
+lICE 330 1,095628 0,4814673 0,0944755 2,880004
+
+lVAIC 330 1,47889
+
+0,4387473 0,4096179 2,923449
+
+lEnd_act 330 -0,0386491 1,426102 -4,112695 4,009008
+
+Tamaño 330 12,46996 1,611419 8,065171 17,8207
+Nota: Las variables están en logaritmo. lZ es el riesgo para para empresas no cotizadas manufactureras. lHCE es el capital humano. lSCE se refiere al capital estructural. lICE es el capital intelectual. lCEE es la eficiencia del capital empleado. lVAIC es la eficiencia del capital intelectual y la eficiencia de la empresa. lEnd_act es la relación entre el total de pasivo y el total de activo. Tamaño es el logaritmo del total de activo.
+
+A pesar de estar en logaritmos se puede destacar que la mayor desviación en la tabla I se encuentra en las variables de control (lEnd_act) y Tamaño. Esto es debido a que hay empresas con una gran diversidad
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+.8
+
+de tamaños y la estructura de capital de las empresas es diferente (lEnd_act).
+
+En la tabla II se aprecia la correlación de las variables. No superan el 33% en las variables de capital intelectual con las variables de control; por lo que no se visualiza problemas de multicolinealidad. La variable de endeudamiento (lEnd_act) no afecta a la relación del modelo, ya que a mayor endeudamiento se incrementa el riesgo de las empresas.
+La mayoría de las variables que miden el capital intelectual tienen una relación positiva con lZ; solo la variable lSCE mantiene una correlación negativa. En cuanto a las variables de control, se aprecia que el Tamaño tiene una correlación positiva, mientras que el LEnd_act posee una correlación negativa con el riesgo.
+
+Density
+
+0
+
+.2
+
+.4
+
+.6
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+lZ
+
+Figure 1. Histograma de lZ
+
+TABLE III. RESULTADOS DE LA REGRESIÓN POR CUANTILES INCLUYENDO LA VARIABLE LHCE
+
+Variable dependiente lZ
+
+(1)
+
+(2)
+
+0,1
+
+0,25
+
+(3)
+
+(4)
+
+(5)
+
+0,5
+
+0,75
+
+0,9
+
+TABLE II.
+
+MATRIZ DE CORRELACIÓN DE LAS VARIABLES EMPLEADAS
+
+lHCE
+
+0,138 (0,0928)
+
+0,00212 (0,0740)
+
+-0,00179 (0,0364)
+
+0,0815** 0,179*** (0,0403) (0,0504)
+
+lZ
+
+lHCE lCEE lSCE lICE lVAIC lEnd_act Tamaño lEnd_act
+
+-0,513*** -0,483*** -0,501*** -0,443*** -0,423***
+
+lZ
+
+1,000
+
+(0,0327) (0,0261) (0,0128) (0,0142) (0,0178)
+
+lHCE
+
+0,016 1,000
+
+Tamaño
+
+0,0919*** 0,0508** 0,0202* -0,00740 -0,0171
+
+lCEE
+
+0,276 0,009 1,000
+
+(0,0289) (0,0231) (0,0113) (0,0126) (0,0157)
+
+lSCE -0,010 0,836 0,072 1,000
+
+Constant
+
+-0,907**
+
+0,0460 0,654*** 1,109*** 1,308***
+
+lICE
+
+0,015 0,998 0,016 0,868 1,000
+
+(0,374)
+
+(0,298)
+
+(0,147)
+
+(0,162) (0,203)
+
+lVAIC 0,137 0,842 0,499 0,688 0,839 1,000
+
+Observations
+
+330
+
+330
+
+330
+
+330
+
+330
+
+lEnd_act -0,871 0,015 -0,188 0,077 0,022 -0,085 -
+
+1,000
+
+Desviación estándar en paréntesis. * p<0.10; **p<0.05; *** p<0.01.
+
+Tamaño 0,026 -0,013 -0,323 0,024 0,008 -0,234 0,032 1,000 Nota: Las variables están en logaritmo. lZ es el riesgo para para empresas no
+
+En la tabla III se visualiza la regresión por
+
+cotizadas manufactureras. lHCE es el capital humano. lSCE se refiere al capital estructural. lICE es el capital intelectual. lCEE es la eficiencia del capital
+
+cuantiles de la variable HCE en logaritmos. Solo es
+
+empleado. lVAIC es la eficiencia del capital intelectual y la eficiencia de la
+
+significativa en los cuantiles 0.75 y 0.9, por lo que no
+
+empresa. lEnd_act es la relación entre el total de pasivo y el total de activo. Tamaño es el logaritmo del total de activo.
+En la figura 1 se muestra la distribución de densidad de la variable dependiente que se empleará, en los modelos (lZ), observándose que no muestra una distribución normal teniendo una mayor densidad hacia el lado izquierdo, lo que fortalece el uso del
+
+se puede rechazar la hipótesis 1 al menos en esos cuantiles. Estos resultados indican que una adecuada gestión de la eficiencia del capital humano es un elemento que reduce la probabilidad de quiebra en determinadas empresas del sector de medios de comunicación.
+
+enfoque cuantílico.
+
+TABLE IV. RESULTADOS DE LA REGRESIÓN POR CUANTILES INCLUYENDO LA VARIABLE LCCE
+
+Variable dependiente lZ lCEE
+lEnd_act
+Tamaño
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0,1
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+0.249*** 0.231*** 0.203*** (0.0777) (0.0493) (0.0288) -0.477*** -0.477*** -0.460*** (0.0361) (0.0229) (0.0134) 0.107*** 0.0757*** 0.0490***
+
+0.179*** (0.0289) -0.479*** (0.0134)
+0.0185
+
+0.174*** (0.0421) -0.410*** (0.0196) 3.09e-05
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+(0.0331) (0.0210) (0.0123) (0.0124)
+
+Constant
+
+-0.931**
+
+-0.263
+
+0.275* 0.826***
+
+(0.419) (0.266) (0.156) (0.156)
+
+Observations
+
+330
+
+330
+
+330
+
+330
+
+Desviación estándar en paréntesis. * p<0.10; **p<0.05; *** p<0.01.
+
+(0.0180) 1.206***
+(0.227) 330
+
+En la tabla IV se refleja la regresión por cuantiles de la variable CEE. En este caso la variable es significativa en todos los cuantiles por lo que una adecuada gestión de la eficiencia del capital de la empresa está asociado a una menor probabilidad de problemas financieros. Este resultado lleva a no rechazar la hipótesis 4 de las formuladas.
+
+(0,0285) (0,0232) (0,0119) (0,0129) (0,0162)
+
+Constant
+
+-0,990*** -0,0693 0,670*** 1,116*** 1,292***
+
+(0,374)
+
+(0,304) (0,156) (0,169) (0,212)
+
+Observations
+
+330
+
+330
+
+330
+
+330
+
+330
+
+Desviación estándar en paréntesis. * significativa a un nivel del 10%; **
+
+significativa a un nivel del 5%; *** significativa a un nivel del 1%.
+
+La tabla VI refleja la regresión de la eficiencia del capital intelectual (ICE). En este caso solo en el cuantil 0.9 es significativa y positiva la variable, lo que indica que la gestión del capital intelectual no es un elemento determinante en todas las empresas de comunicación ecuatorianas , pero si en algunas, por lo que no se puede rechazar la hipótesis 3.
+
+TABLE V.
+
+RESULTADOS DE LA REGRESIÓN POR CUANTILES INCLUYENDO LA VARIABLE LSCE
+
+Variable dependiente lZ
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0,1
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+lSCE
+
+0,133
+
+0,128 0,0543 0,105** 0,459***
+
+(0,110) (0,0927) (0,0502) (0,0471) (0,134)
+
+lEnd_act
+
+-0,514*** -0,489*** -0,501*** -0,437*** -0,423***
+
+(0,0316) (0,0267) (0,0145) (0,0136) (0,0182)
+
+Tamaño
+
+0,0904*** 0,0568** 0,0178 -0,00938 -0,0265*
+
+(0,0279) (0,0236) (0,0128) (0,0120) (0,0161)
+
+Constant
+
+-0,672*
+
+0,0596 0,715*** 1,286*** 1,685***
+
+(0,360)
+
+(0,304) (0,165) (0,155) (0,207)
+
+Observations
+
+330
+
+330
+
+330
+
+330
+
+330
+
+Desviación estándar en paréntesis. * p<0.10; **p<0.05; *** p<0.01.
+
+TABLE VII. RESULTADOS DE LA REGRESIÓN POR CUANTILES INCLUYENDO LA VARIABLE LVAIC
+
+Variable dependiente lZ lVAIC
+lEnd_act
+Tamaño
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0,1 0,198*
+
+0,25 0,155*
+
+0,5
+
+0,75
+
+0,9
+
+0,108** 0,238*** 0,259***
+
+(0,112) (0,0831) (0,0520) (0,0421) (0,0564)
+
+-0,501*** -0,481*** -0,489*** -0,462*** -0,415***
+
+(0,0335) (0,0249) (0,0156) (0,0126) (0,0169)
+
+0,0998*** 0,0673*** 0,0206 0,00785 0,000907
+
+(0,0304) (0,0226) (0,0141) (0,0114) (0,0153)
+
+Constant
+
+-1,171***
+
+-0,384 0,493** 0,644*** 0,850***
+
+(0,450) (0,334) (0,209) (0,169) (0,226)
+
+Observations
+
+330
+
+330
+
+330
+
+330
+
+330
+
+Desviación estándar en paréntesis. * p<0.10; **p<0.05; *** p<0.01.
+
+La tabla V recoge la regresión por cuantiles cuando la variable independiente es SCE. Al igual que en el caso de HCE, solo es significativo en los cuantiles 0.75 y 0.9, lo que indica que una adecuada gestión del capital estructural como elemento de reducción del riesgo solo es útil para ciertas empresas de comunicación ecuatorianas, por lo que no se puede rechazar la hipótesis 2.
+
+TABLE VI.
+
+RESULTADOS DE LA REGRESIÓN POR CUANTILES INCLUYENDO LA VARIABLE LICE
+
+Variable dependiente lZ lICE
+lEnd_act
+Tamaño
+
+(1) 0,1
+0,155 (0,0952) -0,510*** (0,0322) 0,0944***
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+0,0287 0,00824 0,0832* 0,179***
+
+(0,0776) (0,0398) (0,0430) (0,0541)
+
+-0,476*** -0,498*** -0,443*** -0,420***
+
+(0,0262) (0,0134) (0,0145) (0,0183)
+
+0,0565**
+
+0,0182 -0,00920 -0,0184
+
+La tabla VII recoge los resultados del impacto del VAIC sobre la variable riesgo. Del análisis de la misma se determina que solo las empresas de los cuantiles 0.75 y 0.9, por lo que una adecuada gestión del VAIC es un elemento de reducción de riesgos solo en determinadas empresas de comunicación ecuatorianas, por lo que no se rechaza la hipótesis 5.
+V. CONCLUSIONES
+El propósito de este trabajo era analizar si la gestión del capital intelectual reduce la probabilidad de estar en quiebra o tener dificultades financieras para las empresas de comunicación ecuatorianas.
+La respuesta es que si, si hay esta relación, es decir, los componentes del capital intelectual en las empresas de comunicación ecuatorianas ayudan a reducir la probabilidad de quiebra.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Las hipótesis planteadas no se pueden rechazar en todos los cuantiles, pero estos resultados indican que el impacto de las variables de capital intelectual tiene diversas magnitudes en función del cuantil donde se encuentre la empresa.
+Este trabajo aporta al conocimiento de como el capital intelectual aporta a la gestión del riesgo de las empresas de comunicación ecuatorianas. En futuros trabajos se pueden añadir otras variables que interactúen con las variables de capital intelectual como si la empresa es familiar o no o variables del entorno sectorial o financiero.
+AGRADECIMIENTOS
+Los autores agradecen a la Superintendencia de Compañías, Valores y Seguros (SUPERCIAS) de Ecuador; la disposición de los datos de las diferentes empresas para los investigadores en su página web.
+REFERÊNCIAS BIBLIOGRÁFICAS
+[1] T.M. Shahwan, and A.M. Habib, “Does the efficiency of corporate governance and intellectual capital affect a firm's financial distress? Evidence from Egypt,” Journal of Intellectual Capital, vol. 21 no. 3, pp. 403-430, 2020.
+[2] V.G. Cenciarelli, G. Greco, and M. Allegrini, “Does intellectual capital help predict bankruptcy?,” Journal of Intellectual Capital, vol. 19, no. 2, pp. 321-337, 2018.
+[3] M. Pardo-Cueva, R. Armas, and A. Higuerey, “La influencia del capital intelectual sobre la rentabilidad de las empresas manufactureras ecuatorianas,” Revista ESPACIOS, vol. 39, no. 51, 14, 2018.
+[4] A. Higuerey, R. Armas, and M. Pardo-Cueva, “Eficiencia y capital intelectual en las empresas de comunicación de Ecuador,” Revista Ibérica de Sistemas e Tecnologias de Informação, vol. E26, pp.178-191, 2020.
+[5] T. A. Stewart, “Intellectual capital: the new wealth of organizations,” Bantam Doubleday Dell Publishing Group. Inc., New York, NY, 1997.
+[6] L. Edvinsson, L. and M.S. Malone, “Intellectual Capital: Realizing Your Company’s True Value by Finding Its Hidden Brainpower,” HarperBusiness, New York, NY, 1997.
+[7] D. J. Teece, G. Pisano, and A. Shuen, “Dynamic capabilities and strategic management,” Strategic Management Journal, vol. 18, no. 7, pp. 509533, 1997.
+[8] N. Bontis, “Intellectual Capital Questionnaire,” Institute for Intellectual Capital, Hamilton, 1997.
+[9] K.M. Wiig, “Integrating intellectual capital and knowledge management,” Long range planning, vol 30, no. 3, pp. 399-405,1997.
+[10] J. Roos, “Exploring the concept of intellectual capital (IC),” Long range planning, vol. 31, no. 1, pp. 150-153, 1998.
+[11] P. Sullivan,“Profiting from Intellectual Capital: Extracting Value from Innovation,”John Wiley and Sons, New York, NY, 1998.
+[12] G. Martín-de Castro, M. Delgado-Verde, P. López-Sáez, and J. E. NavasLópez, “Towards ‘an intellectual capital-based view of the firm’: origins and nature,” Journal of Business Ethics, vol. 98, no. 4, pp.649–662, 2011.
+
+[13] L.C. Hsu, and C.H. Wang, “Clarifying the effect of intellectual capital on performance: the mediating role of dynamic capability,”British Journal of Management, vol. 23, no. 2, pp.179–205, 2012.
+[14] K. Sveiby, “The Intangible Assets Monitor,” Journal of Human Resource Costing and Accounting, vol. 2, no.1, pp. 73-97, 1997.
+[15] L. Edvinsson, “Developing intellectual capital at Skandia,” Long range planning, vol. 30, no. 3, pp. 366-373, 1997.
+[16] E. Bueno, and S. Azúa, “Medición del capital intelectual: modelo Intelect,” Instituto Universitario Euroforum Escorial, Madrid, 1998.
+[17] R.S. Kaplan, and D.P. Norton, “Cuadro de Mando Integral,”A. Gestión 2000. España, 1997.
+[18] A. Pulic, A., “MVA and VAICE Analysis of Randomly Selected Companies from FTSE 250, Austrian Intellectual Capital Research Center, Graz, 2000. www.measuring-ip.at/ Papers/ham99txt.htm
+[19] G. Fejér-Király, “Bankruptcy prediction: A survey on evolution, critiques, and solutions,” Acta Universitatis Sapientiae, Economics and Business, vol. 3, no. 1, pp. 93-108. 2015.
+[20] B.P. Singh, and A.K. Mishra, “Re-estimation and comparisons of alternative accounting based bankruptcy prediction models for Indian companies,” Financial Innovation, vol. 2, no. 1, pp. 1-28, 2016
+[21] W.H. Beaver, “Financial ratios as predictors of failure,” Journal of Accounting Research, pp. 71-111, 1966.
+[22] E.I. Altman, “Financial ratios, discriminant analysis and the prediction of corporate bankruptcy, ” The Journal of Finance, vol. 23, no.4, pp. 589609,1968.
+[23] E.I. Altman, R. Haldeman, and P. Narayanan, “ZETA analysis, a new model for bankruptcy classification,” Journal of Banking and Finance, vol. 1, no. 1, pp. 29-54,1977
+[24] E.I. Altman, J. Hartzell, y M. Peck, “Emerging Markets Corporate Bonds: A Scoring System”, Salomon Brothers, New York, 1995.
+[25] E.I. Altman, “Predicting financial distress of companies: revisiting the Zscore and ZETA,” Handbook of Research Methods and Applications in Empirical Finance, vol. 5, no.09, 2000
+[26] J. Ohlson, “Financial Ratios and the Probabilistic Prediction of Bankruptcy,” Journal of Accounting Research, vol. 18, no. 1, pp. 109131, 1980.
+[27] M. E. Zmijewski, “Methodological issues related to the estimation of financial distress prediction models,” Journal of Accounting Research, vol.22, pp. 59-82, 1984.
+[28] J. Jurczak, “Intellectual Capital Risk Management for Knowledge-Based Organizations,” In:Raczkowski K. (eds) Risk Management in Public Administration. Palgrave Macmillan, pp 39-46, 2017.
+[29] G. Festa, M. Rossi, A. Kolte, and L. Marinelli, “The contribution of intellectual capital to financial stability in Indian pharmaceutical companies,” Journal of Intellectual Capital, vol. 22, no. 2, pp. 337-359, 2020.
+[30] D. T. Nguyen, T. D. Le, and T. H. Ho, ,” Intellectual Capital and Bank Risk in Vietnam—A Quantile Regression Approach,” Journal of Risk and Financial Management, vol. 14, no.1, 27, 2021.
+[31] N. Chávez, R. Armas, and Higuerey,”The determinants of EVA in Ecuadorian industrial enterprises in the period 2014-2016,” Lecture notes in Business, Management and Social Sciences, Malaysia Technical Scientist Association, 2018.
+[32] I. E. S. Ebaid,” The impact of capital‐structure choice on firm performance: empirical evidence from Egypt,” The journal of Risk Finance, vol. 10 No. 5, pp. 477- 487, 2009.
+[33] D. Margaritis, and M. Psillaki,” Capital structure, equity ownership and firm performance,” Journal of Banking & Finance, vol. 34, no. 3, pp. 621632, 2010.
+
+2021 16th Iberian Conference on Information Systems and Technologies (CISTI) 23 – 26 June 2021, Chaves, Portugal ISBN: 978-989-54659-1-0
+
+Copyright of CISTI (Iberian Conference on Information Systems & Technologies / Conferência Ibérica de Sistemas e Tecnologias de Informação) Proceedings is the property of Conferencia Iberica de Sistemas Tecnologia de Informacao and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+
